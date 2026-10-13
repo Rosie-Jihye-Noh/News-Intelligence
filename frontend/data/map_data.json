@@ -2,248 +2,286 @@
   "countries": [
     {
       "code": "SA",
-      "count": 40,
+      "count": 47,
       "risk_level": "high",
       "articles": [
         {
-          "title": "사우디 공항 피격에 아시안컵·11월 원정 촉각…축구협회 \"다각도 검토...",
-          "url": "https://m.sports.naver.com/kfootball/article/421/0009222295"
+          "title": "트럼프 \"중간선거 민주당 이기면 대공황…美 파탄날 것\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005827840?sid=104"
         },
         {
-          "title": "무방비 공항 정밀타격...CCTV에 찍힌 후티 공습 순간",
-          "url": "https://n.news.naver.com/mnews/article/052/0002417599?sid=104"
+          "title": "'사우디 공습' 경기 지연 뚫고...호날두, 통산 981호골 작렬",
+          "url": "https://www.newspim.com/news/view/20261013000853"
         },
         {
-          "title": "Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-12/the-asia-trade-10-12-2026-video"
-        }
-      ]
-    },
-    {
-      "code": "US",
-      "count": 31,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "“주간 피격 선박 12척 ‘역대급’”… 통제 불능 빠진 호르무즈해협 [...",
-          "url": "https://n.news.naver.com/mnews/article/081/0003688025?sid=104"
-        },
-        {
-          "title": "사우디 공항 피격에 아시안컵·11월 원정 촉각…축구협회 \"다각도 검토...",
-          "url": "https://m.sports.naver.com/kfootball/article/421/0009222295"
-        },
-        {
-          "title": "다시 불타는 호르무즈, 유조선 피격 늘면서 석유 운송 급감",
-          "url": "https://n.news.naver.com/mnews/article/014/0005587770?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "IR",
-      "count": 29,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "“주간 피격 선박 12척 ‘역대급’”… 통제 불능 빠진 호르무즈해협 [...",
-          "url": "https://n.news.naver.com/mnews/article/081/0003688025?sid=104"
-        },
-        {
-          "title": "사우디 공항 피격에 아시안컵·11월 원정 촉각…축구협회 \"다각도 검토...",
-          "url": "https://m.sports.naver.com/kfootball/article/421/0009222295"
-        },
-        {
-          "title": "다시 불타는 호르무즈, 유조선 피격 늘면서 석유 운송 급감",
-          "url": "https://n.news.naver.com/mnews/article/014/0005587770?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 24,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "여야, 산자위서 최태원 광주 방문 두고 공방",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438716"
-        },
-        {
-          "title": "하이트진로·빙그레 '기린 이치방 시보리' 국내 생산 MOU 체결·'2026 빙그...",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=319484"
-        },
-        {
-          "title": "[특징주]팬오션, 중동 긴장에 탱커 운임 기대 커지며 7.46% 올라…3분기...",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=925845"
+          "title": "[뉴스브리핑] 오늘의 주요뉴스…코스피 장중 6천p 붕괴…삼전·닉스도 ...",
+          "url": "https://n.news.naver.com/mnews/article/055/0001395081?sid=102"
         }
       ]
     },
     {
       "code": "CN",
+      "count": 25,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "인도적 지원도 때와 곳을 살펴야",
+          "url": "https://www.newsgn.com/news/articleView.html?idxno=578842"
+        },
+        {
+          "title": "중국 리스에 기대는 국적선사…선박금융 판도 뒤집혀",
+          "url": "https://n.news.naver.com/mnews/article/277/0005827830?sid=102"
+        },
+        {
+          "title": "Soybeans Decline as Traders Wait for China to Step Up Purchases",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/soybeans-decline-as-traders-wait-for-china-to-step-up-purchases"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 24,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "월가 전문가 \"달러 강세는 일시적…이란 전쟁 끝나면 약세\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438971"
+        },
+        {
+          "title": "트럼프 \"중간선거 민주당 이기면 대공황…美 파탄날 것\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005827840?sid=104"
+        },
+        {
+          "title": "'사우디 공습' 경기 지연 뚫고...호날두, 통산 981호골 작렬",
+          "url": "https://www.newspim.com/news/view/20261013000853"
+        }
+      ]
+    },
+    {
+      "code": "US",
       "count": 22,
       "risk_level": "high",
       "articles": [
         {
-          "title": "EU와 무역분쟁 피한 中…\"하이브리드차 수출 年35만대 제한\"(종합)",
-          "url": "https://n.news.naver.com/mnews/article/018/0006386480?sid=104"
+          "title": "JP모건 \"내 집 마련 더 어려워져…집값 부담 전 세계적 문제\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439000"
         },
         {
-          "title": "The First Comprehensive Bonded Zone in Central China Expansion: Customs Closure Countdown Officially Kicks Off",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WdVM3T1ZzUHB0VFhBeWRhU0dzeE01QVJwQWxNYkxtZ3hmeHJWcHZvZl8xOHBjQ3lMMmMtMl9oeXh3OUxHaGxBbEJiX2NCOGhDN053?oc=5"
+          "title": "개인마저 미국장으로…수급 깨진 코스피, 속절 없이 6천선 밀려",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438982"
         },
         {
-          "title": "'보디캠 중국산' 논란…경찰청장 대행 \"납품 과정 면밀히 못챙겨, 죄송\"",
-          "url": "https://www.mt.co.kr/politics/2026/10/12/2026101211574822408"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 19,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "관세청, 인도·이집트에 ‘관세행정 심화교육’ 전수",
-          "url": "https://n.news.naver.com/mnews/article/016/0002708116?sid=101"
-        },
-        {
-          "title": "'겨울 오는데 호르무즈 불확실' 브렌트유 현·선물격차 사상 최대",
-          "url": "https://n.news.naver.com/mnews/article/374/0000537283?sid=104"
-        },
-        {
-          "title": "Why Wall Street Bosses Are Betting on India",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-12/why-wall-street-bosses-are-betting-on-india-video"
-        }
-      ]
-    },
-    {
-      "code": "YE",
-      "count": 18,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "사우디 공항 피격에 아시안컵·11월 원정 촉각…축구협회 \"다각도 검토...",
-          "url": "https://m.sports.naver.com/kfootball/article/421/0009222295"
-        },
-        {
-          "title": "개막 3개월 남았는데…또 미사일 날아든 사우디 공항, 아시안컵 ‘안갯...",
-          "url": "https://m.sports.naver.com/kfootball/article/144/0001143500"
-        },
-        {
-          "title": "코스피, 장중 6400선 간당간당…코스닥도 4% 넘게 하락",
-          "url": "https://n.news.naver.com/mnews/article/015/0005341446?sid=101"
+          "title": "[6천피 이탈] iM증권 고태봉 \"글로벌 AI투자 우려 이전된 과도한 낙폭\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438967"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 12,
+      "count": 17,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[2026국감]해수부, 수산물 자급률 목표 2030년 72.9%로 하향…\"수입 의존...",
-          "url": "https://n.news.naver.com/mnews/article/277/0005827240?sid=101"
+          "title": "李대통령 \"북극항로 개척, 러시아와의 관계 관리도 중요\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005588433?sid=100"
         },
         {
-          "title": "Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-12/the-asia-trade-10-12-2026-video"
+          "title": "[유럽 특징주] 토탈에너지스, 프랑스 주유소 가격 인하 이어간다",
+          "url": "https://www.newspim.com/news/view/20261013000841"
         },
         {
-          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+          "title": "이 대통령 \"북극항로, 국익 핵심과제…러시아 관계 관리도 중요\"",
+          "url": "https://n.news.naver.com/mnews/article/437/0000515436?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"중간선거 민주당 이기면 대공황…美 파탄날 것\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005827840?sid=104"
+        },
+        {
+          "title": "'사우디 공습' 경기 지연 뚫고...호날두, 통산 981호골 작렬",
+          "url": "https://www.newspim.com/news/view/20261013000853"
+        },
+        {
+          "title": "걸프 긴장 고조…주사우디 대사 공석",
+          "url": "https://n.news.naver.com/mnews/article/277/0005827829?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "KMI, 2026 한국섬정책포럼 개최",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333416"
+        },
+        {
+          "title": "KMI, '2026 한국섬정책포럼’ 공동 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57878"
+        },
+        {
+          "title": "걸프 긴장 고조…주사우디 대사 공석",
+          "url": "https://n.news.naver.com/mnews/article/277/0005827829?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "인도적 지원도 때와 곳을 살펴야",
+          "url": "https://www.newsgn.com/news/articleView.html?idxno=578842"
+        },
+        {
+          "title": "[인도 특징주] '퀵커머스 규제 고삐' 스위기·아마존나우 정조준",
+          "url": "https://www.newspim.com/news/view/20261013000767"
+        },
+        {
+          "title": "코스맥스인도네시아, 물류·연구 역량 강화…ODM 경쟁력 높인다",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610130953123879923defd0cc_18"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 12,
+      "count": 7,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-12/the-asia-trade-10-12-2026-video"
+          "title": "UKMTO warnings show 12 commercial ships attacked in one week",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEUktyeVlWM05kS1hwLWpJbTdaOEpnSlZfTHJrV08yN01IMFdxcS1IVlp6dFdKYzlGdi01RkVKRDNka25udnVpcFBQZTR5NmdlY0E?oc=5"
         },
         {
-          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+          "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+          "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Wheat Extends Drop as Trump Remarks Fuel Black Sea Truce Hopes",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-12/wheat-extends-drop-as-trump-remarks-fuel-black-sea-truce-hopes"
+          "title": "Explainer: Why the energy ceasefire leaves shipping exposed",
+          "url": "https://container-news.com/explainer-why-the-energy-ceasefire-leaves-shipping-exposed/"
         }
       ]
     },
     {
       "code": "UA",
-      "count": 11,
+      "count": 5,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[2026국감]해수부, 수산물 자급률 목표 2030년 72.9%로 하향…\"수입 의존...",
-          "url": "https://n.news.naver.com/mnews/article/277/0005827240?sid=101"
+          "title": "[유럽 특징주] 토탈에너지스, 프랑스 주유소 가격 인하 이어간다",
+          "url": "https://www.newspim.com/news/view/20261013000841"
         },
         {
-          "title": "Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-12/the-asia-trade-10-12-2026-video"
+          "title": "브렌트유 한달만에 최고가…국내 기업-소비자 물가 부담 우려",
+          "url": "https://n.news.naver.com/mnews/article/020/0003754589?sid=101"
         },
         {
-          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+          "title": "[원자재 시황] 다시 치솟는 유가에 금·코인 하락",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727524"
         }
       ]
     },
     {
       "code": "DE",
-      "count": 8,
-      "risk_level": "high",
+      "count": 4,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "\"불편하다\" 공항서 입 닫은 황희찬, 복귀전서 '11분' 짧게 출전 \"슈팅 0·경고 1\"... 샬케, 1-2 뼈아픈 역전패",
-          "url": "https://www.mt.co.kr/sports/2026/10/12/2026101211445043835"
+          "title": "﻿독일, 겨울 앞두고 LNG 수입 인프라 ‘2단계 전환’ 본격화",
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244486"
         },
         {
-          "title": "[서평]히틀러도 투표로 뽑혔다…국민의 '파괴적 욕망'이 낳은 비극",
-          "url": "https://www.mt.co.kr/culture/2026/10/12/2026100919460444402"
+          "title": "DW News. . Berlin has blocked the state-owned Chinese shipping giant COSCO's takeover of logistics firm Zippel, citing security fears. Can Germany reduce its dependence on China without sparking a trade war? #dwbusiness",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFZEaEY1NzVFbF82WlhVbVVSR3FPRkZXYXhCYmM4VUlJOVY4bFRySlowaGxBenRTWFAwTkhQTmFtbjRFNXZIUEtLcmxyV0VHVExPaVRPVkJUMkc2Q0otVWRaU3AyRjVPRE1yb0JDNjJnNDNtSVpFV21ZUl9rVTZEYmltQ2FQRHZ1VWdWbU4zdXE1VVlyTDhvNFBhTk9GcHJwV2xlNVBfSnZKRHdwa21tTnZkMGVXVVJNTkd6UGRoVmNwMEFhRkhrWG1SckQyY1JBV2g5UWw2X3REVGFrMWlQQ1d3?oc=5"
         },
         {
-          "title": "재정부실·학생시위…국채 불안 프랑스, 제2의 그리스 위기 부르나",
-          "url": "https://www.mt.co.kr/world/2026/10/12/2026101209375930616"
+          "title": "German dockers accept the September offer after a strike ballot that needed 75% of members called to vote",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx4Vmx2dHlSeDdkOV9GQjlBRmxuQk5LcEw5Rm1FR2NiWFdTaWpEVDlOUjNVcmpBTG0wXzctTXB6MDVVSVNZd1dEa0s3Wl9ZcG92ZU1iaEFKWjFQRC1xRS1pcTJCdjd6aDJla3pMOVRvT3Z3NXhjcGZjS2RPQVlLTVBoMWxjRTFuR1dEMUdHTHdsMXAtc3JVMXFYTnQ1WWRBc2pDMEFn?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "싸이버로지텍, 도루코 베트남 WMS 구축 수주",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323063"
+        },
+        {
+          "title": "Houthi rebels have identified potential attack locations for US warships if Washington intervenes in Yemen.",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzF2YUpBWThDZWk2OVU2VGVzaHFfVzBNNU1sb09SNC1BaEZRb0QxMFZ1ZEJycE1MMmp0TTc2UzNkX3BqUFV3T0FnaVh3MUtVMnRwNmh5U003TnBwNS15WXhreExGV3dndW95N0o1aE5lQzU1cklvZm1sUmw0bDdmSUxNTTdxOG5wN2lwZEpBcUFIeEZKQkp6R290aVBJRFVJczJlSkdNVmFRRmMz?oc=5"
+        },
+        {
+          "title": "Imported fruit prices fall in Vietnam as supply rises and tariffs decline",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3pMWGlKMUdCeXlJM1M1MlVqYlV3WUk3MUI1ZDFxeHVmNkFYalVWQVZIWUIwS1N4aGl2TEFLVDZDQXUwVlBUUWlsVnZQQVpWRlBDZkZWUlZPTGVfYjNuYklIamYwbXRBWUxySUpVVGM1OTBuMUhrRDcxWnhLb0JfR2VyYU5fVnF4QlhJT0VlUjJ0UXI4MDdfaTBmRnNGajVPejlvVWk3U0oyQnpRVU5OOHc4V0pnbFk5NDI1MkpfdDVfT1F4M1J4bUMxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "﻿독일, 겨울 앞두고 LNG 수입 인프라 ‘2단계 전환’ 본격화",
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244486"
+        },
+        {
+          "title": "북극항로 두 시각…與 \"국정과제 완수\" vs 野 \"북한·러시아 리스크 우려...",
+          "url": "https://n.news.naver.com/mnews/article/421/0009222669?sid=102"
+        },
+        {
+          "title": "[부산 브리핑 모음(10월12일)] 부산항만공사(BPA), 유럽 진출 기업 돕는...",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610101009228480991"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Data Center Operator AirTrunk Is Said to Delay $1.5 Billion IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/data-center-operator-airtrunk-is-said-to-delay-1-5-billion-ipo"
+        },
+        {
+          "title": "DBS CEO \"변동성 시대, 싱가포르의 지루함은 나쁜 게 아니다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438980"
+        },
+        {
+          "title": "Singapore: Maritime and Port Authority of Singapore Act 1996 to be amended to address the emerging risks",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMlQwenZWQTBQTTBqZUcwT0xYVFhIUTlhSEtELXhLck9OZkE0SWw2c1hBNUFEdjRYYWRJU0kwSmpIT0syRTlWeEd6cEROVFFtSEs4dzUzdGJ1UjB3VXF1OTVFeWxwdU9SNjQzY2o3TUVjSjJxQ1liaHdHM29VN19rb3BPUWxvM3NyYzdEUzlXYV80amNNMWN4Wm5oRXpDWE1WaGRHcWZWaHJwM2NpLXl0d29jQmxUMUFabHBjaEdQTFVYYlpXMGNCd21OckM4Y3VFSzlkbGRpd0dySldOZUk4c1lhNWp4eXI4Q3Y0Rl9oQXJha2pxaGtISHVQblE2TkVMd2J5NFVEbEtuNzNDWGJwNENJSE5SVllB?oc=5"
         }
       ]
     },
     {
       "code": "JP",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "BofA \"2025년 이후 엔화 약세, 해외 거래시간에 집중…강세 전환 가능성\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438714"
-        },
-        {
-          "title": "하이트진로·빙그레 '기린 이치방 시보리' 국내 생산 MOU 체결·'2026 빙그...",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=319484"
-        },
-        {
-          "title": "농심 달래기와 통상 전략 사이, CPTPP가 던진 정부의 딜레마",
-          "url": "https://www.lawtv.kr/news/articleView.html?idxno=61115"
-        }
-      ]
-    },
-    {
-      "code": "TW",
       "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "'보디캠 중국산' 논란…경찰청장 대행 \"납품 과정 면밀히 못챙겨, 죄송\"",
-          "url": "https://www.mt.co.kr/politics/2026/10/12/2026101211574822408"
+          "title": "위기의 항공업계, '환율 하락·하이테크 화물' 덕에 3분기 한숨 돌려",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300115.html"
         },
         {
-          "title": "농심 달래기와 통상 전략 사이, CPTPP가 던진 정부의 딜레마",
-          "url": "https://www.lawtv.kr/news/articleView.html?idxno=61115"
+          "title": "오리엔트바이오, ‘SPF 연구용 토끼’ 공급 본격화…전량 수입 대체 가...",
+          "url": "https://www.etoday.co.kr/news/view/2634470"
         },
         {
-          "title": "“태평양은 미·중 수용할 만큼 넓다”…중국의 해양강국 집념",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056827?sid=110"
+          "title": "페로타임즈 손바닥뉴스 10월12일(월)",
+          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=50830"
         }
       ]
     },
@@ -253,46 +291,38 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "재정부실·학생시위…국채 불안 프랑스, 제2의 그리스 위기 부르나",
-          "url": "https://www.mt.co.kr/world/2026/10/12/2026101209375930616"
+          "title": "[유럽 특징주] 토탈에너지스, 프랑스 주유소 가격 인하 이어간다",
+          "url": "https://www.newspim.com/news/view/20261013000841"
         },
         {
-          "title": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
-          "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html"
+          "title": "Fridges in French supermarkets hit by cyber attack",
+          "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "code": "NL",
-      "count": 2,
-      "risk_level": "medium",
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
       "articles": [
         {
-          "title": "[부산 브리핑 모음(10월12일)] 부산항만공사(BPA), 유럽 진출 기업 돕는...",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610101009228480991"
-        },
-        {
-          "title": "국내 첫 북극항로 컨테이너선, 50일 항해 마치고 부산 도착",
-          "url": "https://n.news.naver.com/mnews/article/366/0001197158?sid=102"
+          "title": "[동북아 정세 브리핑] 중국, 대만 수교국 파라과이·벨리즈 제재…쌍십...",
+          "url": "http://kor.theasian.asia/archives/418312"
         }
       ]
     },
     {
-      "code": "SG",
-      "count": 2,
-      "risk_level": "medium",
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
       "articles": [
         {
-          "title": "Singapore: Maritime and Port Authority of Singapore Act 1996 to be amended to address the emerging risks",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOc0xVdHNYMVk1Nl85QWFNRGdGTzBCZ3h2NzZkSXR3RHlKUjYzVDJ1N2dNb0cyR3NjYkdINVlaVnMyRkhCZXRxMWU5aWNIT2FWRjJvSFJmekNfQm5rMV9iQ3ZZaERYdEI4dENDNlBUNFEtRVE1dE1pai1sY0dwXzJyS1k5bzdTZlRuYWNjQkVlQ29UVldMNDcwYm03MnhIUVJabmZ3VmFvVXowVk41Qk9sOHdyZmY5dF9sRnBqYmh0OU96Z19wUGs0ZE5VYlZ1bEI2TG9rRXJyT3BZZzBjLU1OTE4tLXZmQzJaTlVhZHlCc2F1bWh6Y2RaZXJ3ZF8wU1RESDdRVllTNVJGUFpHaG5vRkE0TkZwZw?oc=5"
-        },
-        {
-          "title": "India, Singapore Explore 2 GW Power Link as 9.25 GW Import Pipeline Faces Delays",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTklsTWhxVER5V05fN3R1X1JvMEV6cHlkWk8wU1ZQUWc5MWJKQ2RPZGFOVGVxNk1JUDRYLVpES2ZJeHdSbkltSWF1WVVpbTJudWE1MEZIOEt5V2tkempUMmJrU29vWUpBcEw2SVJDYi1qMks2Y2dCRndHbWRhb0dkMjZlWXdYcGVxNmZ0d0pQMDYzQWFGbFFqMTE1dlhYZDMtQlAtR3FPcGRHVktaSWlwUnFIaFYyZXZOSWVvMzZ3VERreUMxbUpBdjNRLWo?oc=5"
+          "title": "Bangladesh port workers stage strike against deal with UAE firm",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnVUazBWT0t0QS1Rd2FZQWdUaFBfdzE5TUVSWWJTVzdsS3Fsb0VpSlR5Q3FCcEpfcko1VU9hUmFxSF9MdUxUR0lfNkVVUlowd1VzdlVLVzFwLWtsalFHT0F3WWgyZUF2YlB6Ylkya2RrQlhIU1NlaEYwQTBXdDFWWWlFU1FIZXZQMi1jSEFDbUFORFFlYWxPV2pZNW5rdEc1c185QXNvQm1xRlhKNlNkUHpwaw?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 16,
-  "generated_at": "2026-10-12T04:59:42Z"
+  "total_crisis_countries": 18,
+  "generated_at": "2026-10-13T06:03:39Z"
 }
