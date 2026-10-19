@@ -1,0 +1,294 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 33,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "이찬진 \"솔리다임 중복 상장 우려…하이닉스에도 전달하겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439917"
+        },
+        {
+          "title": "이번엔 신흥국 위기 없을까…美 국채 약세에도 스프레드 좁혀지는 이유",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439911"
+        },
+        {
+          "title": "[외환] 글로벌 위험회피에 상승…3.10원↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439899"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 31,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012276193?sid=104"
+        },
+        {
+          "title": "사우디 연합군 첫 전사자 나와… 헬기 추락해 장교 2명 숨져",
+          "url": "https://n.news.naver.com/mnews/article/021/0002826119?sid=104"
+        },
+        {
+          "title": "자금난에 최대 위기 직면한 빈 살만의 ‘비전 2030’… ‘사막의 신기루...",
+          "url": "https://n.news.naver.com/mnews/article/037/0000039005?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012276193?sid=104"
+        },
+        {
+          "title": "\"위대한 전사 총리\" 트럼프의 지지 선언…네타냐후 총선 돕나",
+          "url": "https://www.mt.co.kr/world/2026/10/19/2026101911222485241"
+        },
+        {
+          "title": "자금난에 최대 위기 직면한 빈 살만의 ‘비전 2030’… ‘사막의 신기루...",
+          "url": "https://n.news.naver.com/mnews/article/037/0000039005?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 23,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "中 미국 채권 매각은 '착시'…\"스텔스 매수로 50% 이상 유지\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439889"
+        },
+        {
+          "title": "軍, 지통실 중국산 화상회의 장비 \"군단·사단급 60여 대 운용, 군사정보...",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591086?sid=100"
+        },
+        {
+          "title": "China’s Coal Output Drops as Fears Build Over Winter Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 22,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012276193?sid=104"
+        },
+        {
+          "title": "사우디 연합군 첫 전사자 나와… 헬기 추락해 장교 2명 숨져",
+          "url": "https://n.news.naver.com/mnews/article/021/0002826119?sid=104"
+        },
+        {
+          "title": "환율, 1330원대 중반으로 떨어져…美 금리 동결 기대에 달러 약세",
+          "url": "https://www.news2day.co.kr/article/20261019500054"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 18,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "가스公 사장, \"통합 후 주주 이익 보호 방안 정부와 협의하겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439920"
+        },
+        {
+          "title": "이찬진 \"불법 공매도 조사인력 최대한 확보 노력\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439918"
+        },
+        {
+          "title": "이찬진 \"솔리다임 중복 상장 우려…하이닉스에도 전달하겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439917"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[국제유가] WTI 100달러 돌파…중동·러시아 공급 불안 고조",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=292512"
+        },
+        {
+          "title": "젤렌스키, 美 정보 제공 재개에 감사·러시아 정책에는 우려",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591029?sid=104"
+        },
+        {
+          "title": "[단독] 산업부, 비축유 417만 배럴 '그림의 떡'…정작 위기 땐 못 쓴다",
+          "url": "https://www.newspim.com/news/view/20261019000001"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+          "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html"
+        },
+        {
+          "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
+        },
+        {
+          "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "AI가 떠받친 세계경제, 회복력은 끝나가나",
+          "url": "https://newscham.net/130059/"
+        },
+        {
+          "title": "젤렌스키, 美 정보 제공 재개에 감사·러시아 정책에는 우려",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591029?sid=104"
+        },
+        {
+          "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+          "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+          "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+        },
+        {
+          "title": "Trump eases 100% tariff threat over Russia: Could a US-India trade deal be closer now?",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0JDSi1wNEdVMVloUlNCSzE3UUtvbXJVVkowR2djWlZoZFUxWmRyR19jNWswUVpwWVBFYjBSMnBIWC1QZkdzalFCaEM4Vl9tb0xCd0UyeXg3WDJ0MkNXdHdWTHpuREhia29oNUV1c0Z5d0JtT3A3Y3pDcDFjaDBUM0RnN2d0M1lXMHVMNEZGSXpjOTNYa0UtS3UzT3hGTTdZc09IRWY5OFZkbGRNWjZ0NWkxRTZ1bnVDRnJPS0FQZGF6bUprNm1SZXBzWU9qT1BLZXhSRGZWa9IB3gFBVV95cUxOWjk0SzR1QmRtbzNOS1Z5MjlVN2Y3cWEwSThQUEN1MDQ1WlpXVTJMYXhCZ3VWajdnbTBkOS11UF9UWmFXRGxDZkZodGM0LVpNSHlKTF9vZEdzeXZjanlTdG51VUJaM0xVcUhtbHA4NmIyckc4ZUNyaDZBLURIT2NSd0ZyRjJzLWFyRy1WWGRTNkZSajFMdHdEWGcwTEFzbF9mbnZGSzdHSko4SWx6RWwyajJ1S1dMa3BoWjhsXy1Ba216TEM2c19aRmllY3dpV0VyWjFyczBJVEtMcnVZM3c?oc=5"
+        },
+        {
+          "title": "中, 라오스에 ‘軍조종사 훈련센터’를 가동하는 숨은 내막 [김규환의 ...",
+          "url": "https://n.news.naver.com/mnews/article/119/0003143862?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
+          "url": "https://www.hellenicshippingnews.com/singapore-bio-bunker-sales-surged-in-september-while-lng-sales-declined/"
+        },
+        {
+          "title": "Singapore Sept petrochemical exports fall anew; feedstock risks weigh on outlook",
+          "url": "https://www.hellenicshippingnews.com/singapore-sept-petrochemical-exports-fall-anew-feedstock-risks-weigh-on-outlook/"
+        },
+        {
+          "title": "Singapore port risks being left behind by rivals fast catching up",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkRJY2VRN3p1dllYbnNwWlE5WnRGdE0wOFR0SGNGdzJWT3dHRnU5cUJNT3pPNGlkcEkzZVh1N0xfU3VYNkRJNEFDd0YtWVpObWVYaXFKcEFablFQbjRoaVpSeE8yTGxrNW0zSFB2X1BKdFNJNktHc1RYcXF6Rm4wT1dNRnFDa3UtTm1KeDdVYW5hUVNIUXhvVWJVM3RYUHhsRUhKNktadTBTN3pWRTJBcW9n?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "\"해상풍력 입찰 상한가 낮추지 말아야…보급 오히려 늦어질 수도\"",
+          "url": "https://www.mt.co.kr/industry/2026/10/19/2026101911003695435"
+        },
+        {
+          "title": "[단독] 기후위기·탄소중립 기여할 목재 자급률 일본의 '절반'… 관련 예...",
+          "url": "https://n.news.naver.com/mnews/article/469/0000960238?sid=100"
+        },
+        {
+          "title": "소방관의 눈물, “이래도 재정 빨대인가요”: 슬로우레터 10월19일.",
+          "url": "https://slownews.kr/168082"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+          "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html"
+        },
+        {
+          "title": "AI 투자비 회수 우려에 한일 증시 동반 하락…유가 내리자 美 선물 반등",
+          "url": "https://n.news.naver.com/mnews/article/018/0006391370?sid=101"
+        },
+        {
+          "title": "마크롱 “프랑스에 어떻게 이런 짓을”...폭력 시위 강력 규탄",
+          "url": "https://n.news.naver.com/mnews/article/011/0004672661?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "UAE·이집트도 참전… 예멘 전선 ‘확전일로’",
+          "url": "https://n.news.naver.com/mnews/article/081/0003690057?sid=104"
+        },
+        {
+          "title": "후티 공세에 코너 몰린 사우디 구하려… 중동 수니파 뭉쳤다",
+          "url": "https://n.news.naver.com/mnews/article/023/0004004559?sid=104"
+        },
+        {
+          "title": "예멘 내전 격화… 이집트·UAE 가세",
+          "url": "https://n.news.naver.com/mnews/article/014/0005590777?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "소방관의 눈물, “이래도 재정 빨대인가요”: 슬로우레터 10월19일.",
+          "url": "https://slownews.kr/168082"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Thousands of jobs are at risk if Amazon closes 15 warehouses in New York.",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGxGZElnYWpMVllQRF9KRHptN01nOE9QZ3Zzdm4wWmpZZXYtNF80TXR3VndKcElIYTA1WU1Qbzc5MG5JNHRiWEpEV0MyVElpUXQ2bE9Xb09faUVVVUtnWGo5bmpXdU5YUmxpMzJwZWJQNkxKeFY4OC1VWWZ6R3NqSWFGS042Q2VYOFRhYUFOUWhodEE2eHV4STBhRTA1ZEJC?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-10-19T03:49:30Z"
+}

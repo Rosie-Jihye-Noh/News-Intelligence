@@ -1,59 +1,21 @@
 {
   "countries": [
     {
-      "code": "IR",
-      "count": 38,
+      "code": "US",
+      "count": 33,
       "risk_level": "high",
       "articles": [
         {
-          "title": "\"반도체주 본격 조정 아직\" 폭락장에 소환된 반도체 비관론자의 경고",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439598"
+          "title": "이찬진 \"솔리다임 중복 상장 우려…하이닉스에도 전달하겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439917"
         },
         {
-          "title": "손흥민 다섯 번째 아시안컵 우승 도전 계획 변경 없다…사우디 아시안컵...",
-          "url": "https://m.sports.naver.com/kfootball/article/117/0004115571"
+          "title": "이번엔 신흥국 위기 없을까…美 국채 약세에도 스프레드 좁혀지는 이유",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439911"
         },
         {
-          "title": "중동 불안 고조‥예멘 대통령궁 미사일 피격",
-          "url": "https://n.news.naver.com/mnews/article/214/0001529497?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "count": 38,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "美 AI주 시총 1조달러 증발…최근 반도체 투매 이유는",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439589"
-        },
-        {
-          "title": "China’s National Team Signals Return With Heavy ETF Inflows",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-national-team-signals-return-with-heavy-etf-inflows"
-        },
-        {
-          "title": "애플 CEO, 중국 메모리 사용 가능성 시사",
-          "url": "https://n.news.naver.com/mnews/article/021/0002825657?sid=101"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 36,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "한국해양대 해양치유 시민아카데미 개강",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333487"
-        },
-        {
-          "title": "[오늘 외환딜러 환율 예상레인지]",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439603"
-        },
-        {
-          "title": "반도체 호황 여전한데 채권은 살아난다…반등은 어디까지",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439595"
+          "title": "[외환] 글로벌 위험회피에 상승…3.10원↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439899"
         }
       ]
     },
@@ -63,236 +25,244 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "손흥민 다섯 번째 아시안컵 우승 도전 계획 변경 없다…사우디 아시안컵...",
-          "url": "https://m.sports.naver.com/kfootball/article/117/0004115571"
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012276193?sid=104"
         },
         {
-          "title": "후티 반군, 예멘 대통령궁 공격…사우디 “후티, 리야드 공항 20번 겨냥...",
-          "url": "https://n.news.naver.com/mnews/article/056/0012275127?sid=104"
+          "title": "사우디 연합군 첫 전사자 나와… 헬기 추락해 장교 2명 숨져",
+          "url": "https://n.news.naver.com/mnews/article/021/0002826119?sid=104"
         },
         {
-          "title": "'캡틴' 손흥민 '라스트 댄스' 날벼락! AFC 회장 '오피셜' 공식발표 나왔...",
-          "url": "https://m.sports.naver.com/kfootball/article/076/0004456645"
+          "title": "자금난에 최대 위기 직면한 빈 살만의 ‘비전 2030’… ‘사막의 신기루...",
+          "url": "https://n.news.naver.com/mnews/article/037/0000039005?sid=104"
         }
       ]
     },
     {
-      "code": "US",
+      "code": "IR",
       "count": 30,
       "risk_level": "high",
       "articles": [
         {
-          "title": "맥쿼리 \"미 국채 안전 선호, 미국의 탁월한 성장 종료 시사\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439635"
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012276193?sid=104"
         },
         {
-          "title": "국채선물, 美 금리 급락에 상승 출발",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439623"
+          "title": "\"위대한 전사 총리\" 트럼프의 지지 선언…네타냐후 총선 돕나",
+          "url": "https://www.mt.co.kr/world/2026/10/19/2026101911222485241"
         },
         {
-          "title": "[외환] 美 PPI 충격에도 금리 급락에 무거운 흐름…1,330원대 후반에선 지지",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439621"
+          "title": "자금난에 최대 위기 직면한 빈 살만의 ‘비전 2030’… ‘사막의 신기루...",
+          "url": "https://n.news.naver.com/mnews/article/037/0000039005?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 23,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "中 미국 채권 매각은 '착시'…\"스텔스 매수로 50% 이상 유지\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439889"
+        },
+        {
+          "title": "軍, 지통실 중국산 화상회의 장비 \"군단·사단급 60여 대 운용, 군사정보...",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591086?sid=100"
+        },
+        {
+          "title": "China’s Coal Output Drops as Fears Build Over Winter Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 26,
+      "count": 22,
       "risk_level": "high",
       "articles": [
         {
-          "title": "손흥민 다섯 번째 아시안컵 우승 도전 계획 변경 없다…사우디 아시안컵...",
-          "url": "https://m.sports.naver.com/kfootball/article/117/0004115571"
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012276193?sid=104"
         },
         {
-          "title": "후티 반군, 예멘 대통령궁 공격…사우디 “후티, 리야드 공항 20번 겨냥...",
-          "url": "https://n.news.naver.com/mnews/article/056/0012275127?sid=104"
+          "title": "사우디 연합군 첫 전사자 나와… 헬기 추락해 장교 2명 숨져",
+          "url": "https://n.news.naver.com/mnews/article/021/0002826119?sid=104"
         },
         {
-          "title": "중동 불안 고조‥예멘 대통령궁 미사일 피격",
-          "url": "https://n.news.naver.com/mnews/article/214/0001529497?sid=104"
+          "title": "환율, 1330원대 중반으로 떨어져…美 금리 동결 기대에 달러 약세",
+          "url": "https://www.news2day.co.kr/article/20261019500054"
         }
       ]
     },
     {
-      "code": "IN",
-      "count": 19,
+      "code": "KR",
+      "count": 18,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Indian Software Stocks Set to Beat AI Peers by Most in Decades",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-16/indian-software-stocks-set-to-beat-ai-peers-by-most-in-decades"
+          "title": "가스公 사장, \"통합 후 주주 이익 보호 방안 정부와 협의하겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439920"
         },
         {
-          "title": "[아시아라운드업 20261016] 인도네시아 연무 확산, 이웃국들 대처방안 모...",
-          "url": "http://kor.theasian.asia/archives/418663"
+          "title": "이찬진 \"불법 공매도 조사인력 최대한 확보 노력\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439918"
         },
         {
-          "title": "인도 중앙銀 방어에도…\"달러당 100루피로 추락\" 경고",
-          "url": "https://n.news.naver.com/mnews/article/015/0005343260?sid=104"
+          "title": "이찬진 \"솔리다임 중복 상장 우려…하이닉스에도 전달하겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439917"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 8,
+      "count": 16,
       "risk_level": "high",
       "articles": [
         {
-          "title": "“북러 자극 않으려던 韓, 우크라 포로송환 공개에 곤혹”",
-          "url": "https://n.news.naver.com/mnews/article/021/0002825659?sid=104"
+          "title": "[국제유가] WTI 100달러 돌파…중동·러시아 공급 불안 고조",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=292512"
         },
         {
-          "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-          "url": "https://www.hellenicshippingnews.com/india-urges-russia-ukraine-to-protect-black-sea-shipping/"
+          "title": "젤렌스키, 美 정보 제공 재개에 감사·러시아 정책에는 우려",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591029?sid=104"
         },
         {
-          "title": "India urges Russia, Ukraine to protect Black Sea shipping amid attacks on merchant vessels",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnNHOXIwNkd4TWdDNTZ4WWF5Zzl2YUVPM2RNeS00R1ctVTNPVDVCTmlwVHNrd3htNmhwTVB2VHo0TWxLcHA5dTdqWk5EZGxVNng1MzFldWd6eHA0aEJLbFRGNTNhcEdpVjFBMVZDOGpYRlNlUTA0YnV3M1hFQldhVFN4d3lIZXRMSzc5bjd2WWJaZnfSAZMBQVVfeXFMTkNXbVNFTVJ4ZVM4d295X0dQSjU3Zm5odkU5cnJRYmFsMnpUN2NCeXJrODRpM29BUUdfY1g5S2ZGWVJUOER1aUVNSll2QTBUYmhqbWlya3Bwb1FrdDc0ZmZGdGVOMDZmUVJBaDZQaWtxODdpSWdXUUxQVG9jRlFPa01zYzBBUFNybWRKRlBKcUs4Slpr?oc=5"
+          "title": "[단독] 산업부, 비축유 417만 배럴 '그림의 떡'…정작 위기 땐 못 쓴다",
+          "url": "https://www.newspim.com/news/view/20261019000001"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 7,
+      "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-          "url": "https://www.hellenicshippingnews.com/india-urges-russia-ukraine-to-protect-black-sea-shipping/"
+          "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+          "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html"
         },
         {
-          "title": "India urges Russia, Ukraine to protect Black Sea shipping amid attacks on merchant vessels",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnNHOXIwNkd4TWdDNTZ4WWF5Zzl2YUVPM2RNeS00R1ctVTNPVDVCTmlwVHNrd3htNmhwTVB2VHo0TWxLcHA5dTdqWk5EZGxVNng1MzFldWd6eHA0aEJLbFRGNTNhcEdpVjFBMVZDOGpYRlNlUTA0YnV3M1hFQldhVFN4d3lIZXRMSzc5bjd2WWJaZnfSAZMBQVVfeXFMTkNXbVNFTVJ4ZVM4d295X0dQSjU3Zm5odkU5cnJRYmFsMnpUN2NCeXJrODRpM29BUUdfY1g5S2ZGWVJUOER1aUVNSll2QTBUYmhqbWlya3Bwb1FrdDc0ZmZGdGVOMDZmUVJBaDZQaWtxODdpSWdXUUxQVG9jRlFPa01zYzBBUFNybWRKRlBKcUs4Slpr?oc=5"
+          "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
         },
         {
-          "title": "British-made drone boats used in attack on Russian port of Sochi",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSzhaNlRxeW85Z0xOZDFaanZZLVRacENpM0F6bFJUZG9TUDltX21pR1BZX0pIZ00wOVdQejM0c19BZmh2dF91cHJiSDRQM0t0bU9fa0R4MDMyX1JuWE4tekxlSDFUUzR4dlM0dlhDaGdlbmZXbGVHb1daWEpLYjd5VVNBYTBCaVNIYjRxSmNBYjREQQ?oc=5"
+          "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
         }
       ]
     },
     {
       "code": "UA",
-      "count": 6,
+      "count": 10,
       "risk_level": "high",
       "articles": [
         {
-          "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-          "url": "https://www.hellenicshippingnews.com/india-urges-russia-ukraine-to-protect-black-sea-shipping/"
+          "title": "AI가 떠받친 세계경제, 회복력은 끝나가나",
+          "url": "https://newscham.net/130059/"
         },
         {
-          "title": "India urges Russia, Ukraine to protect Black Sea shipping amid attacks on merchant vessels",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnNHOXIwNkd4TWdDNTZ4WWF5Zzl2YUVPM2RNeS00R1ctVTNPVDVCTmlwVHNrd3htNmhwTVB2VHo0TWxLcHA5dTdqWk5EZGxVNng1MzFldWd6eHA0aEJLbFRGNTNhcEdpVjFBMVZDOGpYRlNlUTA0YnV3M1hFQldhVFN4d3lIZXRMSzc5bjd2WWJaZnfSAZMBQVVfeXFMTkNXbVNFTVJ4ZVM4d295X0dQSjU3Zm5odkU5cnJRYmFsMnpUN2NCeXJrODRpM29BUUdfY1g5S2ZGWVJUOER1aUVNSll2QTBUYmhqbWlya3Bwb1FrdDc0ZmZGdGVOMDZmUVJBaDZQaWtxODdpSWdXUUxQVG9jRlFPa01zYzBBUFNybWRKRlBKcUs4Slpr?oc=5"
+          "title": "젤렌스키, 美 정보 제공 재개에 감사·러시아 정책에는 우려",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591029?sid=104"
         },
         {
-          "title": "SpaceX limits Starlink service for Ukraine’s high-speed military drones without prior warning — Ukrainian officials say limitation significantly complicates logistics and drone operations",
-          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYXpzWTA3cmpYcUNLekE3R0czd2lWSDRYQWhSdVMwMmJQa3N6QmNEd21RdnhySVRtV3ZfeXM2REd0UEpnb2lnZU1fclA0ejBPUy1aa0hxc3Z2LXh3SjM0ZUpsdXdBOTZVYUE3b2VKX0ZWeWZsV0x4TXIyckN3RkVCZ0NvUEZOd285MS1iM3dkcTliVXR6V0N1YmIwWTBSUG1CVzZKY1JONUEtZnl5RW1hV2duU3ZGXzdRZkd0bWx6T2V3dTNXM0pYbU9DczRHMHN1TnBHeFh0NGYyX0Z3eVlnVVV1ckpWb3FzdjNVLW9tWjNrckFqQWFyWkpkSkpmVEJuRXZNMkFkSXp3R2x2VlhZVmx0ajZQZ21lUWhuYi1ic0tDbldJX1UtbmMzWUZfYUphUjFoZ3pwd2xiUHVFWm9GbmZXNWlKeXB6a0x1d2Z5MnZBYS0t?oc=5"
+          "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+          "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html"
         }
       ]
     },
     {
-      "code": "FR",
-      "count": 5,
+      "code": "IN",
+      "count": 9,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[이장원의 뷰포인트] 상식의 파괴",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439588"
+          "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+          "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
         },
         {
-          "title": "기후 변화에 대응하는 프랑스 원자력 발전소 동향",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244554"
+          "title": "Trump eases 100% tariff threat over Russia: Could a US-India trade deal be closer now?",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0JDSi1wNEdVMVloUlNCSzE3UUtvbXJVVkowR2djWlZoZFUxWmRyR19jNWswUVpwWVBFYjBSMnBIWC1QZkdzalFCaEM4Vl9tb0xCd0UyeXg3WDJ0MkNXdHdWTHpuREhia29oNUV1c0Z5d0JtT3A3Y3pDcDFjaDBUM0RnN2d0M1lXMHVMNEZGSXpjOTNYa0UtS3UzT3hGTTdZc09IRWY5OFZkbGRNWjZ0NWkxRTZ1bnVDRnJPS0FQZGF6bUprNm1SZXBzWU9qT1BLZXhSRGZWa9IB3gFBVV95cUxOWjk0SzR1QmRtbzNOS1Z5MjlVN2Y3cWEwSThQUEN1MDQ1WlpXVTJMYXhCZ3VWajdnbTBkOS11UF9UWmFXRGxDZkZodGM0LVpNSHlKTF9vZEdzeXZjanlTdG51VUJaM0xVcUhtbHA4NmIyckc4ZUNyaDZBLURIT2NSd0ZyRjJzLWFyRy1WWGRTNkZSajFMdHdEWGcwTEFzbF9mbnZGSzdHSko4SWx6RWwyajJ1S1dMa3BoWjhsXy1Ba216TEM2c19aRmllY3dpV0VyWjFyczBJVEtMcnVZM3c?oc=5"
         },
         {
-          "title": "Report: French Frigate Downed Drone Threatening CMA CGM Ship in Red Sea",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWFIbDZIU0FQdmQwZWV2ZFRrdTdvX1RkZWo0cGRpZnRjUjhGdXU2ZVh3dG1MeHVTbHJKbjFXaWFGeFVtWUYzR1lLQnFnb3JpbTlWYTk5YkpneGhMSDBFS2l2MDduYUxjN05hQzJCd2lXYy1FcDF1N3dCVUZxSjJiR2tEM1Fuc3g0bnRCTjJmNzBlX1E4d3ZjaGlIelBoUkRNWVhEVVd2aXc1TUNjeEE?oc=5"
+          "title": "中, 라오스에 ‘軍조종사 훈련센터’를 가동하는 숨은 내막 [김규환의 ...",
+          "url": "https://n.news.naver.com/mnews/article/119/0003143862?sid=104"
         }
       ]
     },
     {
       "code": "SG",
-      "count": 5,
+      "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
-          "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html"
+          "title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
+          "url": "https://www.hellenicshippingnews.com/singapore-bio-bunker-sales-surged-in-september-while-lng-sales-declined/"
         },
         {
-          "title": "호르무즈 해협 상선 2척 피격 후 침몰",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57898"
+          "title": "Singapore Sept petrochemical exports fall anew; feedstock risks weigh on outlook",
+          "url": "https://www.hellenicshippingnews.com/singapore-sept-petrochemical-exports-fall-anew-feedstock-risks-weigh-on-outlook/"
         },
         {
-          "title": "Singapore boxship sinks after Strait of Hormuz attack",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2Ffd3NwZHNTMDJtbEVTZ3Z4YkdjaWZuVi1YR1Bwd21mb05DWk9FaHZSc1Q5UWZvaFgzUmR1R1hLZ3lpMkpzNlNvR3FVc1VmZTJnb25FZC1mZTV1OG5QRGVtVGNtM2l5QW01Sko5ZHhsNUZ3U19ydjByVllncDdqZ3QtNzhXRXM3MDlmQzZSc2VqRXJRR2xMajhDdm5Nb0hiUzNiQnZYbnF6TTg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "VN",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "에스콧 베트남 호텔 로드쇼 2026 개최… 베트남·말레이시아·인도네시...",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3152446"
-        },
-        {
-          "title": "중국, \"군사적 역할 확대 모색, 라오스에 공동 비행장 건설\"",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=718740"
-        },
-        {
-          "title": "Resolution No. 57-NQ/TW: Digitizing documents towards centralized customs clearance.",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTF5X2RJZ2otYXgxSTYwaDhncDJ4MU9TbmFvRUpwYjJSc3JuRGU2Y2dKYzhaTUtOeHdZRnRXNVNDUnZuM0p4MFROY1N1Z19MVVdLdXF6NjJWQWF6Tk85VFRWdGRJX05zdlloamZLZXJEQTRReENhNUhpRWFtQlhOVmwwVVFjdEJ5ekJCYU1FYzFwT21xNmFqaUNDZw?oc=5"
+          "title": "Singapore port risks being left behind by rivals fast catching up",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkRJY2VRN3p1dllYbnNwWlE5WnRGdE0wOFR0SGNGdzJWT3dHRnU5cUJNT3pPNGlkcEkzZVh1N0xfU3VYNkRJNEFDd0YtWVpObWVYaXFKcEFablFQbjRoaVpSeE8yTGxrNW0zSFB2X1BKdFNJNktHc1RYcXF6Rm4wT1dNRnFDa3UtTm1KeDdVYW5hUVNIUXhvVWJVM3RYUHhsRUhKNktadTBTN3pWRTJBcW9n?oc=5"
         }
       ]
     },
     {
       "code": "JP",
-      "count": 3,
-      "risk_level": "medium",
+      "count": 7,
+      "risk_level": "high",
       "articles": [
         {
-          "title": "페로타임즈 손바닥뉴스 10월15일(목)",
-          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=50906"
+          "title": "\"해상풍력 입찰 상한가 낮추지 말아야…보급 오히려 늦어질 수도\"",
+          "url": "https://www.mt.co.kr/industry/2026/10/19/2026101911003695435"
         },
         {
-          "title": "GlobalFoundries building $21B New York fabs under US-Japan trade deal",
-          "url": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/"
+          "title": "[단독] 기후위기·탄소중립 기여할 목재 자급률 일본의 '절반'… 관련 예...",
+          "url": "https://n.news.naver.com/mnews/article/469/0000960238?sid=100"
         },
         {
-          "title": "최악의 '서킷브레이커' 李 정부서만 15회 … '역대 최다' 오명 또 갈아 ...",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500262.html"
+          "title": "소방관의 눈물, “이래도 재정 빨대인가요”: 슬로우레터 10월19일.",
+          "url": "https://slownews.kr/168082"
         }
       ]
     },
     {
-      "code": "DE",
-      "count": 2,
-      "risk_level": "medium",
+      "code": "FR",
+      "count": 6,
+      "risk_level": "high",
       "articles": [
         {
-          "title": "독일 잠수함에 밀려도 지상무기 붙잡은 캐나다 차부품사들, 한화 기술로...",
-          "url": "https://www.g-enews.com/view.php?ud=202610160947042813fbbec65dfb_1"
+          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+          "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html"
         },
         {
-          "title": "EU negotiates sanction swap with China to rescue critical ASML supplier — German coatings firm faces shutdown without Chinese rare earths",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMlppQ2IxaVpXWjQ3WUhzUjFQdVZkOXh6WjJ5SXA1aThzSzNnODhPM3hOQ3BhYW1fQldiSUcxSmZDYzRnT1hjb212czZfOGliaEVYQWl4NS00NjJhMWdlNTlVUm9GeXEzQ2RkeEU5anZNRzZwdUtWWmJ3WTZHQXdXM0NCRnAzY1RCYk0xMVdkQWFIMWxmbFBzM0pkT3JWQi1OYXpwd3lYX1dYTV9yai1LNVNzbldLaC1sYmJKQk1XVTlJR25JSE1zUExLVl9icFlTUmZiYVNQQnd6OU5wNlc5eDF3aXMxODdNTnBwcW1JaTR6V1E2Nno1QzJSbEl3VHh4d3BJd21lYUszeDh5ay13TEhMSnhnaFpkQlE1N3F3?oc=5"
+          "title": "AI 투자비 회수 우려에 한일 증시 동반 하락…유가 내리자 美 선물 반등",
+          "url": "https://n.news.naver.com/mnews/article/018/0006391370?sid=101"
+        },
+        {
+          "title": "마크롱 “프랑스에 어떻게 이런 짓을”...폭력 시위 강력 규탄",
+          "url": "https://n.news.naver.com/mnews/article/011/0004672661?sid=104"
         }
       ]
     },
     {
       "code": "AE",
-      "count": 2,
-      "risk_level": "medium",
+      "count": 5,
+      "risk_level": "high",
       "articles": [
         {
-          "title": "Hormuz crisis is testing the world’s trade routes — and the UAE’s strategy",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkljM3ZHY3VVMV9OcS1FV184MnVPVUtDajRLZU91VXBZeENUMVdEZFk1OU03S2tIRUdMdS1aRUtLYXk2OGplQTJ1bUR4YnJBaGlLN2ZCNUpXdlZCQU9vMkJWY1FlOHVlZy1CMzVGeDhvY2xZdjBKdTA1OVc4ZzdaMUNzOUM1YmtBSFhqU1I1bXVKZExxMGlPNWpfVmZyX3M1UTlHcUxzQjJUVUZqRmwxaEtCanlRZlJvYTBja1VaY1Yzdw?oc=5"
+          "title": "UAE·이집트도 참전… 예멘 전선 ‘확전일로’",
+          "url": "https://n.news.naver.com/mnews/article/081/0003690057?sid=104"
         },
         {
-          "title": "UAE gateway congestion drives Middle East cargo flow realignment",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVk3QlhQTTJqb2ZsVks3aFRUTHhJYmd5ZmQ1UGRnUHBUaGdhNHFfSTZvNlJ1V1hmaV9MUVV4c0ZpTEo1ZEpzLW9POXF0eFZHYWt4T1RFREt2TjVJS3BGRDVZbTFLTWphdVI1YVVoVm82ZTNaNUVjVEdpbkV2bFU5N0hmMjgtbFh1X2xScg?oc=5"
+          "title": "후티 공세에 코너 몰린 사우디 구하려… 중동 수니파 뭉쳤다",
+          "url": "https://n.news.naver.com/mnews/article/023/0004004559?sid=104"
+        },
+        {
+          "title": "예멘 내전 격화… 이집트·UAE 가세",
+          "url": "https://n.news.naver.com/mnews/article/014/0005590777?sid=104"
         }
       ]
     },
@@ -302,23 +272,23 @@
       "risk_level": "low",
       "articles": [
         {
-          "title": "경북도·농식품부, 신선농산물 최초 '포도 수출 1억 달러' 시대 연다",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112715"
+          "title": "소방관의 눈물, “이래도 재정 빨대인가요”: 슬로우레터 10월19일.",
+          "url": "https://slownews.kr/168082"
         }
       ]
     },
     {
-      "code": "NL",
+      "code": "VN",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "‘부산-로테르담 10일 단축’ 북극항로 첫발…李 “위기 때 생명길”",
-          "url": "https://n.news.naver.com/mnews/article/011/0004670867?sid=100"
+          "title": "Thousands of jobs are at risk if Amazon closes 15 warehouses in New York.",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGxGZElnYWpMVllQRF9KRHptN01nOE9QZ3Zzdm4wWmpZZXYtNF80TXR3VndKcElIYTA1WU1Qbzc5MG5JNHRiWEpEV0MyVElpUXQ2bE9Xb09faUVVVUtnWGo5bmpXdU5YUmxpMzJwZWJQNkxKeFY4OC1VWWZ6R3NqSWFGS042Q2VYOFRhYUFOUWhodEE2eHV4STBhRTA1ZEJC?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 18,
-  "generated_at": "2026-10-16T03:44:39Z"
+  "total_crisis_countries": 16,
+  "generated_at": "2026-10-19T03:49:30Z"
 }
