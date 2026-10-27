@@ -1,132 +1,277 @@
 {
   "keywords": [
     {
-      "text": "new york",
-      "count": 22,
-      "size": 100
-    },
-    {
-      "text": "middle east",
-      "count": 18,
-      "size": 100
-    },
-    {
-      "text": "los angeles",
+      "text": "hong kong",
       "count": 14,
       "size": 100
     },
     {
-      "text": "of los",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "ahead of",
+      "text": "plans to",
       "count": 13,
       "size": 100
     },
     {
-      "text": "russian diesel",
+      "text": "and customs",
       "count": 12,
       "size": 100
     },
     {
-      "text": "piyush goyal",
+      "text": "to boost",
       "count": 12,
       "size": 100
     },
     {
-      "text": "수출입 통관, 현지",
+      "text": "red sea",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "strait of",
       "count": 11,
       "size": 100
     },
     {
-      "text": "lowest emissions",
+      "text": "of hormuz",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "robinson expands",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "customs seizes",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "and statistics",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "hyundai glovis",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "ch robinson",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "ai agents",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "전년 동기 대비",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "선석 이용 가능",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "ahead of",
       "count": 10,
       "size": 100
     },
     {
       "text": "emissions per",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "estimates –",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "iphone duo",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "strait of",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "of hormuz",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "호르무즈 해협을 통과한",
       "count": 9,
       "size": 90
     },
     {
-      "text": "india, rotterdam",
+      "text": "항만 혼잡도를 예측하는",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "선박 대기시간, 항만",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "los angeles",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "이용 가능 여부와",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "가능 여부와 선박",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "of los",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "customs brokerage",
       "count": 8,
       "size": 80
     },
     {
-      "text": "현대글로비스, 동남아 최대",
+      "text": "미국이 호르무즈 해협에서",
       "count": 8,
       "size": 80
     },
     {
-      "text": "canada tariffs",
+      "text": "호르무즈 해협에서 강력한",
       "count": 8,
       "size": 80
     },
     {
-      "text": "국내 화물 픽업부터",
+      "text": "대기시간, 항만 혼잡도를",
       "count": 8,
       "size": 80
     },
     {
-      "text": "디지털 혁신 성과",
+      "text": "plunges into",
       "count": 8,
       "size": 80
     },
     {
-      "text": "black sea",
+      "text": "piyush goyal",
       "count": 8,
       "size": 80
     },
     {
-      "text": "물류·해운업, 공항·항공 분야",
+      "text": "배정 데이터를 분석해",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "데이터를 분석해 선석",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "여부와 선박 대기시간",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "car plunges",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "nine months",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "south china",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "iphone duo",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "선석 배정 데이터를",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "expands ai",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "분석해 선석 이용",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "shopee to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "says it",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to buy",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in its",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "ai 기반",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "해운·항만·물류 분야의 다양한",
       "count": 7,
       "size": 70
     },
     {
-      "text": "롱비치항, 바르셀로나항 등",
+      "text": "정보를 한곳에서 확인하고",
       "count": 7,
       "size": 70
     },
     {
-      "text": "통과한 원유의 37%를",
+      "text": "다양한 정보를 한곳에서",
       "count": 7,
       "size": 70
     },
     {
-      "text": "바르셀로나항 등 세계",
+      "text": "12월 24일부터 내년",
       "count": 7,
       "size": 70
     },
     {
-      "text": "해협을 통과한 원유의",
+      "text": "분야의 다양한 정보를",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "24일부터 내년 3월",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "문서에서 필수 항목을",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "middle east",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "강력한 해상 봉쇄를",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "baltic dry",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "$4 billion",
       "count": 7,
       "size": 70
     },
@@ -146,12 +291,7 @@
       "size": 70
     },
     {
-      "text": "tariffs on",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "to secure",
+      "text": "calls for",
       "count": 7,
       "size": 70
     },
@@ -161,346 +301,206 @@
       "size": 70
     },
     {
-      "text": "to keep",
+      "text": "to speed",
       "count": 7,
       "size": 70
     },
     {
-      "text": "등 세계 주요",
+      "text": "및 선석 배정",
       "count": 7,
       "size": 70
-    },
-    {
-      "text": "crisis: why recovery",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "싱가포르항, 함부르크항, 로테르담항",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "로테르담항, 롱비치항, 바르셀로나항",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "제조업과 물류·해운업, 공항·항공",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "함부르크항, 로테르담항, 롱비치항",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "why recovery could",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "critical material",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "hamburg terminal",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "pre-order delays",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "부산항만공사(bpa, 사장",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "customs seizes",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "화물 픽업부터 항공·해상",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "공항·항공 분야, 온라인",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "america first",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "elektros eyes",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "york resource",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "authority bus",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "bus terminal",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "지난달 호르무즈 해협을",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "11회차를 맞은 이번",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "amid global",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "south china",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "온라인 거래 플랫폼",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "in october",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "outlook as",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "in lithium",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "for iphone",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "baltic dry",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "could take",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "take years",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "공급망 전 과정을",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "hhla cuts",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "전 과정을 단일",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to boost",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "heats up",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "first in",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "혁신 성과 공유",
-      "count": 6,
-      "size": 60
     },
     {
       "text": "of 2026",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "out of",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "as it",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "기계자동차계열, 전기자동화과, ict반도체전자계열",
       "count": 6,
       "size": 60
     },
     {
-      "text": "red sea",
+      "text": "ict반도체전자계열, ai물류자동화과",
       "count": 6,
       "size": 60
     },
     {
-      "text": "cma cgm",
+      "text": "‘conundrum’: asia-us",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to new",
+      "text": "drives kuehne+nagel",
       "count": 6,
       "size": 60
     },
     {
-      "text": "eyes a",
+      "text": "kuehne+nagel profit",
       "count": 6,
       "size": 60
     },
     {
-      "text": "due to",
+      "text": "ai물류자동화과, ai소프트웨어과",
       "count": 6,
       "size": 60
     },
     {
-      "text": "호주 필바라항만공사(pilbara",
-      "count": 5,
-      "size": 50
+      "text": "customs clearance",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "trucking industry",
-      "count": 5,
-      "size": 50
+      "text": "american trucking",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "26일부터 30일까지 부산에서",
-      "count": 5,
-      "size": 50
+      "text": "ai소프트웨어과, 사이버보안과",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "비롯해 싱가포르항, 함부르크항",
-      "count": 5,
-      "size": 50
+      "text": "물류·해운업, 공항·항공 분야",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "부산항을 비롯해 싱가포르항",
-      "count": 5,
-      "size": 50
+      "text": "수로 벗어난 ‘부캉이’…선박",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "diesel tanker",
-      "count": 5,
-      "size": 50
+      "text": "벗어난 ‘부캉이’…선박 충돌",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "some canadian",
-      "count": 5,
-      "size": 50
+      "text": "‘부캉이’…선박 충돌 우려도",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "그룹)이 지난달 호르무즈",
-      "count": 5,
-      "size": 50
+      "text": "profit increase",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "authority of",
-      "count": 5,
-      "size": 50
+      "text": "new ‘conundrum’",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "the industry",
-      "count": 5,
-      "size": 50
+      "text": "asia-us, europe",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "일괄 대행)까지 공급망",
-      "count": 5,
-      "size": 50
+      "text": "31일까지 항공운임 20%",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "the loadstar",
-      "count": 5,
-      "size": 50
+      "text": "in bremerhaven",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "tanker heads",
-      "count": 5,
-      "size": 50
+      "text": "biggo finance",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "한국해운조합 등 크루즈",
-      "count": 5,
-      "size": 50
+      "text": "기간은 12월 24일부터",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "while adding",
-      "count": 5,
-      "size": 50
+      "text": "사우디에서 일하는 이집트",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "and zalando",
-      "count": 5,
-      "size": 50
+      "text": "위협해 경제적 이해관계도",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "johor bahru",
-      "count": 5,
-      "size": 50
+      "text": "경제적 이해관계도 있다고",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "of commerce",
-      "count": 5,
-      "size": 50
+      "text": "주차장에 들어가려고 하면",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "some canada",
-      "count": 5,
-      "size": 50
+      "text": "혼잡도를 예측하는 '항만",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "industry in",
-      "count": 5,
-      "size": 50
+      "text": "rates diverge",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "국제 선박 온실가스",
-      "count": 5,
-      "size": 50
+      "text": "사우디 공격은 이집트의",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "취업 기회를 넓히고",
-      "count": 5,
-      "size": 50
+      "text": "일하는 이집트 근로자의",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "php 취약점 노린",
-      "count": 5,
-      "size": 50
+      "text": "이집트 근로자의 송금을",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "근로자의 송금을 위협해",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "들어가려고 하면 그것도",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "예측하는 '항만 스케줄",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "europe ocean",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "panama canal",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "glovis teams",
+      "count": 6,
+      "size": 60
     }
   ],
-  "total_keywords": 32201,
-  "generated_at": "2026-10-26T03:53:25Z"
+  "total_keywords": 33026,
+  "generated_at": "2026-10-27T04:16:16Z"
 }

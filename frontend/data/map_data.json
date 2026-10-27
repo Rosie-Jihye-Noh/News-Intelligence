@@ -2,39 +2,39 @@
   "countries": [
     {
       "code": "IR",
-      "count": 26,
+      "count": 29,
       "risk_level": "high",
       "articles": [
         {
-          "title": "日 증시, 중동 긴장에 따른 유가 상승 속 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441080"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441286"
         },
         {
-          "title": "美·유럽·日 금리동결 전망…관건은 '다음 인상'과 프랑스 재정위기",
-          "url": "https://n.news.naver.com/mnews/article/421/0009249759?sid=101"
+          "title": "[오피셜]韓 67년 만의 亞 왕좌 탈환 도전! AFC, 정세 불안에도 사우디아...",
+          "url": "https://m.sports.naver.com/kfootball/article/076/0004459918"
         },
         {
-          "title": "사우디 수도 공항 운항 재개…후티 공격에 또 차질",
-          "url": "https://n.news.naver.com/mnews/article/056/0012280777?sid=104"
+          "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+          "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
         }
       ]
     },
     {
-      "code": "US",
-      "count": 21,
+      "code": "SA",
+      "count": 28,
       "risk_level": "high",
       "articles": [
         {
-          "title": "룰라 재선에 日 브라질 ETF 10%대 급락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441103"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441286"
         },
         {
-          "title": "S&P500 선물, FOMC 앞두고 약보합…美 국채금리↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441102"
+          "title": "[오피셜]韓 67년 만의 亞 왕좌 탈환 도전! AFC, 정세 불안에도 사우디아...",
+          "url": "https://m.sports.naver.com/kfootball/article/076/0004459918"
         },
         {
-          "title": "[외환] 연저점 또 경신하나…2.60원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441083"
+          "title": "AFC-사우디, 정세 불안에도 아시안컵 강행 의지…경기 일정 발표",
+          "url": "https://n.news.naver.com/mnews/article/025/0003560783?sid=104"
         }
       ]
     },
@@ -44,126 +44,126 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "“해운업계, 의사결정 빨라야 돈번다”",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333628"
+          "title": "미 선거 앞 유조선 운임 눈치싸움",
+          "url": "https://www.naeil.com/news/read/606489?ref=naver"
         },
         {
-          "title": "배터리 위기, 중국을 무조건 배척해선 안된다",
-          "url": "https://n.news.naver.com/mnews/article/047/0002533468?sid=101"
+          "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+          "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
         },
         {
-          "title": "'신압록강대교'가 궁금하다 : 북한 김정은 '당일치기' 방중의 목적은 '다...",
-          "url": "https://www.huffingtonpost.kr/article/261517"
+          "title": "반절난 유니트리 CXMT도 급락…中 AI 랠리 거품 빠지나[마켓무버]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004675544?sid=104"
         }
       ]
     },
     {
-      "code": "SA",
-      "count": 16,
+      "code": "US",
+      "count": 17,
       "risk_level": "high",
       "articles": [
         {
-          "title": "사우디 수도 공항 운항 재개…후티 공격에 또 차질",
-          "url": "https://n.news.naver.com/mnews/article/056/0012280777?sid=104"
+          "title": "정청래, 비자 보류에 \"美 행정당국에 유감\"…野 \"한미관계 돈독한가\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441328"
         },
         {
-          "title": "日, 후티 공격에 사우디 여행경보 상향…\"8개 주 여행중지 권고\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009249675?sid=104"
+          "title": "\"AI로 도박 중독 부추겨\"…美의회·주정부, 드래프트킹스 조사",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441306"
         },
         {
-          "title": "[올댓차이나] 中 증시, 중동정세 긴장에 하락세…창업판 2.27%↓",
-          "url": "https://n.news.naver.com/mnews/article/003/0014278110?sid=104"
+          "title": "미군 5만 명 집결·항모 추가 이동...이란 공격 카운트다운? [자막뉴스]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002424260?sid=104"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 15,
+      "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "S&P500 선물, FOMC 앞두고 약보합…美 국채금리↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441102"
+          "title": "'수급으로 심리로' 환율 좌우하는 반도체…실적 변수에 촉각",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441326"
         },
         {
-          "title": "“해운업계, 의사결정 빨라야 돈번다”",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333628"
+          "title": "이창용 \"韓 경제 위험은 반도체 사이클 조정\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441317"
         },
         {
-          "title": "청년고용 질적악화 원인은…한은 \"반도체 중심 제조업 재편 때문\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441099"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 12,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "룰라 재선에 日 브라질 ETF 10%대 급락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441103"
-        },
-        {
-          "title": "日 증시, 중동 긴장에 따른 유가 상승 속 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441080"
-        },
-        {
-          "title": "'대만 유사시' 발언 1년…日국민 55% \"중국과 대화해야\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009249366?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[프랑스 위기] 시위·채권시장에 낀 佛, 부채 해결할 수 있을까",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441075"
-        },
-        {
-          "title": "[프랑스 위기] 강등 피했어도 '유로존 문제아'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441074"
-        },
-        {
-          "title": "[프랑스 위기] 불안 확산…유럽 재정위기 재연되나",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441076"
+          "title": "미 선거 앞 유조선 운임 눈치싸움",
+          "url": "https://www.naeil.com/news/read/606489?ref=naver"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 10,
+      "count": 9,
       "risk_level": "high",
       "articles": [
         {
-          "title": "사우디 수도 공항 운항 재개…후티 공격에 또 차질",
-          "url": "https://n.news.naver.com/mnews/article/056/0012280777?sid=104"
+          "title": "[오피셜]韓 67년 만의 亞 왕좌 탈환 도전! AFC, 정세 불안에도 사우디아...",
+          "url": "https://m.sports.naver.com/kfootball/article/076/0004459918"
         },
         {
-          "title": "日, 후티 공격에 사우디 여행경보 상향…\"8개 주 여행중지 권고\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009249675?sid=104"
+          "title": "AFC-사우디, 정세 불안에도 아시안컵 강행 의지…경기 일정 발표",
+          "url": "https://n.news.naver.com/mnews/article/025/0003560783?sid=104"
         },
         {
-          "title": "[올댓차이나] 中 증시, 중동정세 긴장에 하락세…창업판 2.27%↓",
-          "url": "https://n.news.naver.com/mnews/article/003/0014278110?sid=104"
+          "title": "‘메카동맹’ 3국·이란 회담… 사우디·후티 갈등 풀릴까",
+          "url": "https://n.news.naver.com/mnews/article/021/0002828133?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+          "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html"
+        },
+        {
+          "title": "Lawmakers Warn U.S. Ports and Banks Over Trump-Putin Russian Diesel Deal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDViRFZFNjBmSWJDQ2hmVGc5WUE5bEN2eE8zb0hUanBiOU1UMDhZRGlIVGZmaTRJXzdZaVB5aXpaVjVGeDVTeWthTGxrTlMwVWgtZHYybnNNcHdRTHFkN0ViendsZ2FwVFdMZThjZ1lFUHdlX0tTMHo0SUx6TXg0dDNFY2VyTE01R29wQkFlTC1abklBS0lFSw?oc=5"
+        },
+        {
+          "title": "'경중안러' 뒷배 든든한 北…\"유엔 대북제재 무력화\"",
+          "url": "https://n.news.naver.com/mnews/article/015/0005346695?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "페로타임즈 손바닥뉴스 10월27일(화)",
+          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51130"
+        },
+        {
+          "title": "News China-India rates ease but port delays still a strain on services",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVlKMnc4TkhxeHVFeG5iR1o0ZEg1WElycHNlYXloV1lNMFVTenVweUR4TmVGaDdRaGo1emFIVVFCRjA1QTVFMXVpYmluQVVKaXBCeGV2ZW1pMnh2SkJhY2VBVEQwcE5BZm1CeThnancwbVZwWnVQcWVBNlJFZmxJempoWkIyeWhCaTN0VTdYZ0hJaXlF?oc=5"
+        },
+        {
+          "title": "China-India rates ease but port delays still a strain on services",
+          "url": "https://theloadstar.com/china-india-rates-ease-but-port-delays-still-a-strain-on-services/"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 10,
-      "risk_level": "high",
+      "count": 4,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbG9OVjhOQTRwaTBWVFJuT29mVndxQzdMV0tQMEJUMGZBWTN6Nkp6V2JyM0tXNmJEbHZsa25fMFJxVjl5WV9reHFhQ2tlUkdORlF4ZUwyREJvZ2x4UDIxLUIxUlpFV09hdnF3WVNVTFFUanduWWl5R011SFdCei05X0dzVjlHeWNPQmhtMDBhLTBCbkpOdk00Y29uRlhVUWdCYmZuZ2EwNHRzaEVLYzZ1VXU2dkppaWPSAbMBQVVfeXFMTUMzaTZPYzZ5b2VBS1E3YWpLUUxSUHZHcHVFalFLd3JxeVI3czFpdWpwLUgzSEQwU0xvSjcxZElpRV9fSUxGTlRQSnFTYUszeDNnVFBCN09mZ2pfSDhTWDVCTUU1QVpXYlN5TlpMSGhRQWkySHdVakpidU94Y0pvbGFlUzdscURhd20xc0JsanBkbm9fZWtuelFUZWR3VDQ3bjctYl95ZktyQ3ZtbXRoR09ORlU?oc=5"
+          "title": "[기획] '위기를 기회로'…에이피알, 유럽서 성장 공식 잇는다",
+          "url": "http://www.newswatch.kr/news/articleView.html?idxno=81660"
         },
         {
-          "title": "VLCC Tanker Market Giving Up Past Gains",
-          "url": "https://www.hellenicshippingnews.com/vlcc-tanker-market-giving-up-past-gains/"
+          "title": "Fuel costs, warehousing and low value goods policy ahead of UK Government budget",
+          "url": "https://aircargoweek.com/fuel-costs-and-low-value-goods-policy-ahead-of-uk-government-budget/"
         },
         {
           "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
@@ -172,112 +172,74 @@
       ]
     },
     {
-      "code": "TW",
-      "count": 7,
-      "risk_level": "high",
+      "code": "UA",
+      "count": 3,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "대만·뉴질랜드, 26일 금융시장 휴장",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441058"
+          "title": "글로벌 에너지 대란에 '통합' 속도…정부, 석유·가스공사 '지주사' 카드...",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=323869"
         },
         {
-          "title": "'대만 유사시' 발언 1년…日국민 55% \"중국과 대화해야\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009249366?sid=104"
+          "title": "호르무즈보다 위험한 '흑해'…선박 570척 피격·40명 사망",
+          "url": "https://n.news.naver.com/mnews/article/015/0005346332?sid=104"
         },
         {
-          "title": "[글로벌 주간 브리핑] 투자 늘려도 주가는 하락…AI·반도체·자동차의...",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319530"
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
         }
       ]
     },
     {
-      "code": "AE",
-      "count": 6,
-      "risk_level": "high",
+      "code": "JP",
+      "count": 3,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "UAE plans up to five alternative food supply sources to safeguard against disruptions",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUFGVDdsbHNmdVU1Zi1nSDdnUi1xUEFoOTRLeGRBMk5vdmdzNkowRGlrNFBwRnpiMVRIc3EyblhCaXBMUDlTcC1IRjRaYXRDM2tMUXN0OE9DMTdqYWF0dVZ5ZUdNUjRyRXNUSllSVjAwdkNwa3hrSS0zemRZTDNtbHZNRnhMNTY5czl1YjFtLVBzZUlKRGxmZUtaeGswWTBDT09GT1BSX1A0Vmg4WUYtaG1Sek9pYTdsN2VHRlpPdzFUYi1SNnZ2Vmx4NGpRajTSAeIBQVVfeXFMTWNPNktuVWljemFCcTkzcUR6VW4zWTh2cU9yblhqYjF4OUg4RjlsMzkzc3RRcWhmRUNrNVdabzM2Y2hYc3FvMGl4dk9DSVlWbU9GYnhjOW5pc2U5RlRiREgtZTJwX2l6cGFPV2JYcVF4TFQ2bVZScjJRR2ZGVjdNWnl5VDJrWUpNU3F4X20zVE84dUVlbzE4TmFXN1NLOUswNS1GVV9FMjVRTkMtR2hqd0ZJOWZmVWRhTzBSbGFaeEpLUW8xWXRKdTdNZ21nUWp5ZmVMZTNOMkFkSzNyQWd0QjZQdw?oc=5"
+          "title": "페로타임즈 손바닥뉴스 10월27일(화)",
+          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51130"
         },
         {
-          "title": "[글로벌 주간 브리핑] 투자 늘려도 주가는 하락…AI·반도체·자동차의...",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319530"
+          "title": "일본 면세 쇼핑 11월부터 바뀐다…매장서 세금 내고 출국 때 환급",
+          "url": "https://n.news.naver.com/mnews/article/666/0000129190?sid=104"
         },
         {
-          "title": "호르무즈 유조선 공격에 기름띠…환경 재앙 우려",
-          "url": "https://n.news.naver.com/mnews/article/055/0001397831?sid=104"
+          "title": "제주항공, 국제선 사전 주문 간편식 2종 출시…치킨 랩·샌드위치",
+          "url": "https://n.news.naver.com/mnews/article/421/0009249314?sid=101"
         }
       ]
     },
     {
       "code": "DE",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "[프랑스 위기] 시위·채권시장에 낀 佛, 부채 해결할 수 있을까",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441075"
-        },
-        {
-          "title": "[프랑스 위기] 강등 피했어도 '유로존 문제아'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441074"
-        },
-        {
-          "title": "HHLA cuts earnings outlook as Hamburg terminal disruptions weigh on throughput",
-          "url": "https://container-news.com/hhla-cuts-earnings-outlook-as-hamburg-terminal-disruptions-weigh-on-throughput/"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "佛·우크라·사우디… 미리 보는 韓 위기[이현종의 시론]",
-          "url": "https://n.news.naver.com/mnews/article/021/0002827786?sid=110"
-        },
-        {
-          "title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbG9OVjhOQTRwaTBWVFJuT29mVndxQzdMV0tQMEJUMGZBWTN6Nkp6V2JyM0tXNmJEbHZsa25fMFJxVjl5WV9reHFhQ2tlUkdORlF4ZUwyREJvZ2x4UDIxLUIxUlpFV09hdnF3WVNVTFFUanduWWl5R011SFdCei05X0dzVjlHeWNPQmhtMDBhLTBCbkpOdk00Y29uRlhVUWdCYmZuZ2EwNHRzaEVLYzZ1VXU2dkppaWPSAbMBQVVfeXFMTUMzaTZPYzZ5b2VBS1E3YWpLUUxSUHZHcHVFalFLd3JxeVI3czFpdWpwLUgzSEQwU0xvSjcxZElpRV9fSUxGTlRQSnFTYUszeDNnVFBCN09mZ2pfSDhTWDVCTUU1QVpXYlN5TlpMSGhRQWkySHdVakpidU94Y0pvbGFlUzdscURhd20xc0JsanBkbm9fZWtuelFUZWR3VDQ3bjctYl95ZktyQ3ZtbXRoR09ORlU?oc=5"
-        },
-        {
-          "title": "호르무즈보다 위험한 '흑해'…선박 570척 피격·40명 사망",
-          "url": "https://n.news.naver.com/mnews/article/015/0005346332?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "RU",
       "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "[정인교의 트레이드 오프]트럼프의 러시아산 경유 거래, 다자 경제제재...",
-          "url": "https://n.news.naver.com/mnews/article/277/0005833403?sid=110"
+          "title": "미래차 소재로 유럽 공략…LG화학, 독일 'IZB' 첫 참가",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282625"
         },
         {
-          "title": "개통 하루 전 호텔 예약 취소, 촬영 중 공안 급습까지…12년 만에 열린 ...",
-          "url": "https://n.news.naver.com/mnews/article/449/0000365179?sid=104"
+          "title": "Bunker Quality Alerts Prompt CΜΤ Concern Over Engine Damage And Repair Costs",
+          "url": "https://www.hellenicshippingnews.com/bunker-quality-alerts-prompt-c%ce%bc%cf%84-concern-over-engine-damage-and-repair-costs/"
         },
         {
-          "title": "석유·가스 상시 수급불안…\"저비용 넘어 공급 회복력 확보해야\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016398450?sid=101"
+          "title": "deugro keeps wind in generator production sites’ sails",
+          "url": "https://aircargoweek.com/deugro-keeps-wind-in-generator-production-sites-sails/"
         }
       ]
     },
     {
-      "code": "IN",
+      "code": "FR",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "China’s New Tunnel-Boring Export Controls Cast Shadow Over Warming Ties With India",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkVSTG4zSVBpTHVMdjhfanRxNVJPanV1ZUpJY2U0VzdXMXFJWGlYcFo5dUZ2czhCX3F4SWV0TWdEV0lHRlBiRXFYOE8ycGxVWGpKU1lEWGhvbU9ITzI5TXV2YzF2dUF6TGd1SjFnemFIeG1UWER1dUdkQ1pfSTd5VllCczVtMnZycVhUamstZFVjdw?oc=5"
+          "title": "[기획] '위기를 기회로'…에이피알, 유럽서 성장 공식 잇는다",
+          "url": "http://www.newswatch.kr/news/articleView.html?idxno=81660"
         },
         {
-          "title": "India’s EV battery manufacturing and critical mineral supply chains gain importance",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDE3bXhMbEpNZHozc3lOZk5KT3M5OUIwbEhtYzVab25KRF8yeU9rVVV0Z3BHQ3FsRnhrUnUydkNsMXljUV8xRzFkbTNrMUM5ZVU2SE1Cc0VTRnZCUkdGeHVQTW5qb0hOUmtOQnNMNDhwUWFMWkdXdko4OUREYXNsaDlVYk04YlJMdWs0dU1IdTR1cXdJcjd1VWRFdUpRdzNPd2xsbWlveWNJUS1PYlQ4?oc=5"
+          "title": "No escaping the power of interest rates (KOR)",
+          "url": "https://n.news.naver.com/mnews/article/640/0000095987?sid=110"
         }
       ]
     },
@@ -287,16 +249,53 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Navia Deepens Southeast Asia Reach With New Office in Johor Bahru",
-          "url": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/"
+          "title": "US tariffs impact could include global trade war; Singapore may downgrade full-year growth forecast: DPM Gan",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcXAybFZVUW9PTFJ4Qkl4Z0V2R1VsaURjbVF3NTBaWUtqc0M1LS1CSTFOcE55Wmh0cVdIeEh3MGhFaTcxcXZEdlN2N20xZFpXMkU2Z3FPRDF4dUswV1lkQXRhRzI0bDlMMVVBUnhCaGpVekZtZ29sZjRpZmtUNTNYam16Tl9xRHYtaUIwem9aS1pIRmhRV3Z2cWxjZ0p4M3g1WGxzNEhLUVBCUHpoZjJQRDRxbkR5b09nZmJBSjhxVi0yRUtMYWt1NWVJTFVaWE9VdWROTzlTakM4WWREV2NONTVEbVY?oc=5"
         },
         {
-          "title": "Singapore must look beyond the box to secure its logistics future",
-          "url": "https://theloadstar.com/singapore-must-look-beyond-the-box-to-secure-its-logistics-future/"
+          "title": "Navia deepens South-east Asia reach wth new office in Johor Bahru",
+          "url": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "UAE plans up to five alternative food supply sources to safeguard against disruptions",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUFGVDdsbHNmdVU1Zi1nSDdnUi1xUEFoOTRLeGRBMk5vdmdzNkowRGlrNFBwRnpiMVRIc3EyblhCaXBMUDlTcC1IRjRaYXRDM2tMUXN0OE9DMTdqYWF0dVZ5ZUdNUjRyRXNUSllSVjAwdkNwa3hrSS0zemRZTDNtbHZNRnhMNTY5czl1YjFtLVBzZUlKRGxmZUtaeGswWTBDT09GT1BSX1A0Vmg4WUYtaG1Sek9pYTdsN2VHRlpPdzFUYi1SNnZ2Vmx4NGpRajTSAeIBQVVfeXFMTWNPNktuVWljemFCcTkzcUR6VW4zWTh2cU9yblhqYjF4OUg4RjlsMzkzc3RRcWhmRUNrNVdabzM2Y2hYc3FvMGl4dk9DSVlWbU9GYnhjOW5pc2U5RlRiREgtZTJwX2l6cGFPV2JYcVF4TFQ2bVZScjJRR2ZGVjdNWnl5VDJrWUpNU3F4X20zVE84dUVlbzE4TmFXN1NLOUswNS1GVV9FMjVRTkMtR2hqd0ZJOWZmVWRhTzBSbGFaeEpLUW8xWXRKdTdNZ21nUWp5ZmVMZTNOMkFkSzNyQWd0QjZQdw?oc=5"
+        },
+        {
+          "title": "[글로벌 주간 브리핑] 투자 늘려도 주가는 하락…AI·반도체·자동차의...",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319530"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Oil shipping costs have increased tenfold due to the Middle East conflict.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWFFU1F1UnJKWFJ4bF9BTWVsUENic091Nzdyai1sVzJZRGprVzJkcmg1MzlJd2k4YjloRm94UHRVSUlaM1h2VkFmdkFvUVJDY2xrUTN5QmhkVDF2VExINEZHU3NfU1lpNWptcDJrWFhZcVhUaHZ1cUM3Si1FUGpPams2ZXRmNFBD?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "[글로벌 주간 브리핑] 투자 늘려도 주가는 하락…AI·반도체·자동차의...",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319530"
         }
       ]
     }
   ],
-  "total_crisis_countries": 16,
-  "generated_at": "2026-10-26T03:52:56Z"
+  "total_crisis_countries": 17,
+  "generated_at": "2026-10-27T04:15:35Z"
 }
