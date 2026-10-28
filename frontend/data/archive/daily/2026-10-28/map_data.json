@@ -1,0 +1,286 @@
+{
+  "countries": [
+    {
+      "code": "IR",
+      "count": 34,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Iran warns Korean shipping company of legal action over Strait of Hormuz violations",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXptNXZwdmdURTk5RlkzNUQtbWxxOVMtdnNXVXQ5bXlUalRKZlMwRDcyUFJUczhZN2FhWnpaLWo5YXg4Q1pIODUyUVdpVGU0RGNTNnBFdWM2VW1zandzeU1VbWRNSVRyaXE1UXZKSE11VUxDdzFrUG5iOUhYYnhUT1Y4U3NhV3YxZmRVTjFPVVhxakw1bjBEMkM1Zlk5amp1Q1JZM1lJODN3a0trTE9KV29IWlMxdHE0akdqT2RtNTlDQlJJYi1yVGZvSWxWQQ?oc=5"
+        },
+        {
+          "title": "중동 문제 회담 다음 날 후티, 또 사우디 공격…호르무즈선 유조선 기뢰...",
+          "url": "https://n.news.naver.com/mnews/article/056/0012282441?sid=104"
+        },
+        {
+          "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+          "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "한국 해난심판제도의 근본적인 대개혁을 촉구한다",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58006"
+        },
+        {
+          "title": "한국지역난방공사, 땅꺼짐 복합재난 대응훈련…전력·열 공급망 점검",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580963586275"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "중동 문제 회담 다음 날 후티, 또 사우디 공격…호르무즈선 유조선 기뢰...",
+          "url": "https://n.news.naver.com/mnews/article/056/0012282441?sid=104"
+        },
+        {
+          "title": "'초박빙' 이스라엘 총선…反네타냐후 근소한 우위",
+          "url": "https://n.news.naver.com/mnews/article/374/0000540250?sid=101"
+        },
+        {
+          "title": "은퇴 소동 ‘96라인’ 다시 태극마크 다나… 11월 A매치 명단 발표 임박",
+          "url": "https://www.wikitree.co.kr/articles/1169803"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 21,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "中증시, AI주 하락에 넉 달간 4천800억 달러 증발",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441615"
+        },
+        {
+          "title": "솔리다임, 64조원 투자로 미국 규제 돌파 추진",
+          "url": "https://www.naeil.com/news/read/606638?ref=naver"
+        },
+        {
+          "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+          "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 18,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "中증시, AI주 하락에 넉 달간 4천800억 달러 증발",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441615"
+        },
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "국채선물 약세 출발…FOMC 하루 앞 외국인 주시",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441584"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "중동 문제 회담 다음 날 후티, 또 사우디 공격…호르무즈선 유조선 기뢰...",
+          "url": "https://n.news.naver.com/mnews/article/056/0012282441?sid=104"
+        },
+        {
+          "title": "은퇴 소동 ‘96라인’ 다시 태극마크 다나… 11월 A매치 명단 발표 임박",
+          "url": "https://www.wikitree.co.kr/articles/1169803"
+        },
+        {
+          "title": "‘아시안컵 일정 발표’ 하루 만에 또 미사일 날아든 사우디…중동 정세...",
+          "url": "https://m.sports.naver.com/kfootball/article/144/0001146757"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "2026 국정감사 - 종합국감",
+          "url": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=66169"
+        },
+        {
+          "title": "India’s Green Bunkering Ambition Runs into a Price Problem",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ29CcDlKVXV4SW9Cakppb1NUMjA2RlJUQklyZlF4MHI4S1Zhcm40VUxTRHBIU1JfbUdWaFgxZ1hTVVhPNlpSTzFWSWlQSHZVZmFOLUFaSThibVp1eXlYZ1BaNXU3LXV0Yy1JVWtZZGhUNm5ncTFKdWxpR0V0OVRxOWJFcFNmVGRBQ3hheWRBa1UtOVZR?oc=5"
+        },
+        {
+          "title": "컨테이너 해운주 4.6% 하락… 탱커와 갈린 항로",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66609"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[정선영의 마켓산책] 해킹 사태와 3일치 현금",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441620"
+        },
+        {
+          "title": "ING \"英 10년물 국채금리, 예산안 발표 후 최대 20bp 하락 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441603"
+        },
+        {
+          "title": "[티조챗] \"3차 대전 터지나\"…英·日 정부 '비상물자 비축' 지시에 미군...",
+          "url": "https://n.news.naver.com/mnews/article/448/0000647465?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "북유럽 정상들, 우크라 방공망 뚫리자 푸틴에 직접 전화 걸었다 : 수도 ...",
+          "url": "https://www.huffingtonpost.kr/article/261603"
+        },
+        {
+          "title": "Ukraine Strikes Russian Logistics Convoy as Escort Teams Scatter",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVvRkM2ZmNnQVVXb211dEtaa0hrVjRkRGlNYUUxcTkxM3lFYXE3VjBlVGh2bmd2NC04YUVSZ0RWSXNLbThpUnNRX2RLOE9ON05MSzd5M0tEbUVkc05rejR2dFkzVUQ5VnNPYTVvRFo2dXZCVVE1WXJsTndGSlB2TUYzWXhXU2xoenZVU0Jsamxmb2VkLUFPNjJmUGxPS0htSGNuNHNhLThwMjh0Q3FhSA?oc=5"
+        },
+        {
+          "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+          "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[정선영의 마켓산책] 해킹 사태와 3일치 현금",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441620"
+        },
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "페로타임즈 손바닥뉴스 10월27일(화)",
+          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51130"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "ING \"英 10년물 국채금리, 예산안 발표 후 최대 20bp 하락 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441603"
+        },
+        {
+          "title": "LNG Bunker Snapshot: Rotterdam price surges on Norwegian outages and colder forecasts",
+          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-rotterdam-price-surges-on-norwegian-outages-and-colder-forecasts/"
+        },
+        {
+          "title": "Cargo compliance targeted with Rotate’s expansion into operational products",
+          "url": "https://aircargoweek.com/cargo-compliance-targeted-with-rotates-expansion-into-operational-products/"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[AI 막는 AI] S2W 퀘이사, AI로 흩어진 위협 연결…실제 공격 위험 가려...",
+          "url": "https://n.news.naver.com/mnews/article/030/0003479274?sid=105"
+        },
+        {
+          "title": "IPEC 2026: MPA shares lessons in advancing Singapore port towards a multi-fuel future",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQem9JLVd3bG5OejduYm1zQlQzZHR1ZU13TkFEWjJ3YWIwZ0tJaGU3cmdyem0wWUxvQU9QMEJGdDVzVFNFZ3h2dE1HZVNGZFFuQXg5TWNlcGthWFFCU2RKd2l6MnVScDl1TWhOejZ2ZXVmX1gtYnpiRGw5cUJMZnpyeUl4TkdnUXViYk5vRzlSNzRZN2paOVBRbTlQV1FBZW5rZzFoMktfc19TV05IRF9PTU9sbExHNkFOTkxsaA?oc=5"
+        },
+        {
+          "title": "US tariffs impact could include global trade war; Singapore may downgrade full-year growth forecast: DPM Gan",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcXAybFZVUW9PTFJ4Qkl4Z0V2R1VsaURjbVF3NTBaWUtqc0M1LS1CSTFOcE55Wmh0cVdIeEh3MGhFaTcxcXZEdlN2N20xZFpXMkU2Z3FPRDF4dUswV1lkQXRhRzI0bDlMMVVBUnhCaGpVekZtZ29sZjRpZmtUNTNYam16Tl9xRHYtaUIwem9aS1pIRmhRV3Z2cWxjZ0p4M3g1WGxzNEhLUVBCUHpoZjJQRDRxbkR5b09nZmJBSjhxVi0yRUtMYWt1NWVJTFVaWE9VdWROTzlTakM4WWREV2NONTVEbVY?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "[AI 막는 AI] S2W 퀘이사, AI로 흩어진 위협 연결…실제 공격 위험 가려...",
+          "url": "https://n.news.naver.com/mnews/article/030/0003479274?sid=105"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "북유럽 정상들, 우크라 방공망 뚫리자 푸틴에 직접 전화 걸었다 : 수도 ...",
+          "url": "https://www.huffingtonpost.kr/article/261603"
+        },
+        {
+          "title": "Ukraine Strikes Russian Logistics Convoy as Escort Teams Scatter",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVvRkM2ZmNnQVVXb211dEtaa0hrVjRkRGlNYUUxcTkxM3lFYXE3VjBlVGh2bmd2NC04YUVSZ0RWSXNLbThpUnNRX2RLOE9ON05MSzd5M0tEbUVkc05rejR2dFkzVUQ5VnNPYTVvRFo2dXZCVVE1WXJsTndGSlB2TUYzWXhXU2xoenZVU0Jsamxmb2VkLUFPNjJmUGxPS0htSGNuNHNhLThwMjh0Q3FhSA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Oil shipping costs have increased tenfold due to the Middle East conflict.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWFFU1F1UnJKWFJ4bF9BTWVsUENic091Nzdyai1sVzJZRGprVzJkcmg1MzlJd2k4YjloRm94UHRVSUlaM1h2VkFmdkFvUVJDY2xrUTN5QmhkVDF2VExINEZHU3NfU1lpNWptcDJrWFhZcVhUaHZ1cUM3Si1FUGpPams2ZXRmNFBD?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "deugro keeps wind in generator production sites’ sails",
+          "url": "https://aircargoweek.com/deugro-keeps-wind-in-generator-production-sites-sails/"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-10-28T04:43:32Z"
+}
