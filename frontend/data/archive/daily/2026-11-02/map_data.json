@@ -1,0 +1,289 @@
+{
+  "countries": [
+    {
+      "code": "IR",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "美·이란 외교적 기대로 코스피 2% 넘게 반등…기관 1조 순매수",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442531"
+        },
+        {
+          "title": "US Gulf Allies Confront Escalation Fears",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/us-gulf-allies-confront-escalation-fears-video"
+        },
+        {
+          "title": "트럼프, 알래스카 LNG 또 거론…\"한중일行 가스관 있어\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000921990?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 26,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "대우건설, 체코 원전 계약 재협상 요청…\"산업부 중재해달라\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442534"
+        },
+        {
+          "title": "볼보트럭코리아, 2년 연속 ‘오늘도 무사고’ 안전운전 캠페인 벌여",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323308"
+        },
+        {
+          "title": "“미신고 위험물 차단, 물류 공급망 전체의 공동과제”",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58031"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 23,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "美·이란 외교적 기대로 코스피 2% 넘게 반등…기관 1조 순매수",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442531"
+        },
+        {
+          "title": "日 닛케이, 美 기술주 급락에 하락…낙폭은 제한적",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442513"
+        },
+        {
+          "title": "AI 우려에 피어나는 美 증시 약세론…\"단기자금 주식서 빼라\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442512"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 19,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "호르무즈 봉쇄 8개월… 20번째 짓눌린 유조선 '우회 출항'",
+          "url": "https://theopiniontimes.news/%ed%98%b8%eb%a5%b4%eb%ac%b4%ec%a6%88-%eb%b4%89%ec%87%84-8%ea%b0%9c%ec%9b%94-20%eb%b2%88%ec%a7%b8-%ec%a7%93%eb%88%8c%eb%a6%b0-%ec%9c%a0%ec%a1%b0%ec%84%a0-%ec%9a%b0%ed%9a%8c-%ec%b6%9c/"
+        },
+        {
+          "title": "후티 \"민항기 공격\" 경고‥이란 협상은 '평행선'",
+          "url": "https://n.news.naver.com/mnews/article/214/0001532907?sid=104"
+        },
+        {
+          "title": "The Red Sea is one of the world's most important trade routes. A growing Saudi-UAE rivalry and rising threats to shipping are making it an increasingly contested region. #dwgeopolitics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTVGSXgxTnBEUDJ5RzFvRzhScnVXejFaTlV3MWw4OEpNMEV5aU9laXRtS1doSnY3NGZZc29PTWl1UGZ0VnNwOHlyOTNTUTlWLU1WUDRlUlBQWlE3OVJ5Tm9XUVNOMmw3eGd6UzRzTjQ0eGJrN2lYNm5TOTdnc3FUYUJqTFFyVVdoeU5BdXlkMjdrdmNPTXV3ZGJpd3dXQnc2MXA2aVNFTnBBU3hSTlljNXN0SjNXMDhGeGVjckNwTnI2Nzk4SVZEaHhLUndrXzJHajZOOC1aZjNra3NIdXhaTA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "후티 \"민항기 공격\" 경고‥이란 협상은 '평행선'",
+          "url": "https://n.news.naver.com/mnews/article/214/0001532907?sid=104"
+        },
+        {
+          "title": "'아시안컵 연기되면 감독 어쩌나' 韓日 사령탑 거취까지 대혼란... 모레...",
+          "url": "https://m.sports.naver.com/kfootball/article/108/0003483695"
+        },
+        {
+          "title": "헤그세스 美국방, 중간선거 후 민주당 공세에도 안 물러날 태세",
+          "url": "https://n.news.naver.com/mnews/article/421/0009264269?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "현대차·기아 순이익 뒷걸음…中 전기차 한국 공세 확대 [주간 CAR톡]",
+          "url": "https://n.news.naver.com/mnews/article/123/0002393100?sid=101"
+        },
+        {
+          "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5"
+        },
+        {
+          "title": "100년째 실패한 '하늘을 나는 자동차'…머스크는 다를까? [스프]",
+          "url": "https://n.news.naver.com/mnews/article/055/0001399853?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Reliance Shares Hit Nine-Month High as Iran War Boosts Refining",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/reliance-industries-surges-most-in-nine-months-on-earnings-beat"
+        },
+        {
+          "title": "Demand rises for Mathai Manjooran Road widening to ease Pachalam traffic congestion",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHpoQVNxazJrWUluc1VIb295Nk1MN3MzMUVzT3E2U2Q4OGY2LW1YbVFVS2lqaEJ6eUxXenVYQTNhMjZpZFdDUFE3dDJjRFNtVjJKa2tlXzh2bk9pcTB5VkZFZnNKZmpZOHRyYkNsdm1xWmlia0V3S2ViWHlpOF81WHZXYkdsNWg3SS1EcVVtcUZFSjBDTlRORzRpdVRraXVaUkRQdXJSNDVyN1FadmNhNERuRVE5dUprRkZxNDl5REN6V0p6TXpybkp0d2liUVdPclFrX0VDbXnSAeYBQVVfeXFMUGQ2TWNUYnNYWFZ5eFdibHU5STRQdGIzX1l3YTFua2hVbHFRT0F6MzRoOU5yQkFQVkhiM3E5dC1uUUt5WTVVUDZDLWdEamNnM2hiZEJmRlJjcFhOeUc2ZTZ6TlQxcnlGZHM5RzRwSjFxVG9laEpUdmxOX1AycG9DYTNjMUFoYzB1bmo0a3dxV1AyZTZyWGpUQkZKY21kTXFuZG1RYVI5RGxBMGZQRFFQeUcyVThlZVpmc285VU1LM0tEai0zWXRrazJ4elhKcGtZbjNoZDFGd0ZvdUhHQmxySURvS3RLOVE?oc=5"
+        },
+        {
+          "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Few UK firms quantify their disruption risk, Aon finds",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOU80RFliWFJIcDNwM1VQUTdxUHRhZFZ2S0JXOThhc3FnR0M1TFN5RXVqdWpuZy1ZNnpqcklYdjlWQ091bmd4VURVTV9VcklEd0NUR2JrR1pxcUVqNmJUc3BBNjR1SlFqVFp5SFV3S2JWVlU1YnZYeGp5TUJiTVpWWnBpZFpQNDJyQnhkXzJJMmpLSXFlNk4xLThyWjRCczJUN3Y0dHROaHBhSUtMZkRFTzFEbWFmZTFuM2Y5SHhic3F0Zw?oc=5"
+        },
+        {
+          "title": "VLCC Market Is Bottoming Out",
+          "url": "https://www.hellenicshippingnews.com/vlcc-market-is-bottoming-out/"
+        },
+        {
+          "title": "LNG Carrier Prices Fall to $245 Million, Threatening Korean Shipbuilders’ Margins",
+          "url": "https://www.hellenicshippingnews.com/lng-carrier-prices-fall-to-245-million-threatening-korean-shipbuilders-margins/"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "日 닛케이, 美 기술주 급락에 하락…낙폭은 제한적",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442513"
+        },
+        {
+          "title": "트럼프, 알래스카 LNG 또 거론…\"한중일行 가스관 있어\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000921990?sid=104"
+        },
+        {
+          "title": "현대차·기아 순이익 뒷걸음…中 전기차 한국 공세 확대 [주간 CAR톡]",
+          "url": "https://n.news.naver.com/mnews/article/123/0002393100?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
+        },
+        {
+          "title": "드론 방어에 철망·타이어…러시아 그림자함대도 도입",
+          "url": "https://n.news.naver.com/mnews/article/001/0016414442?sid=104"
+        },
+        {
+          "title": "Tanker shortage keeps Russia-India oil freight rates at record highs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDlkdE5TSUhYanZISU1pdVNRMUlsN29kdkszalFCSXdMZ3JwdmdxdkplVzFTcGd0dUo1dUdvcUlxVWRnbkFVa1pvLXJIUDlJSHl0aGNsOUZmYjdXWGoxTzhGS1c5MXk1dWxtUDRYVjdyNlowbThOUzg0MUh4aFd1UncweVlzRllyVDV3QXhJeGJNSWJBNUk3Uk1oSVVsM1pqMFpLTk9rMVVfZXU4OEJSbXI4Y3lNQdIBwwFBVV95cUxQZjZYb2lFTXNfdFYzOC1yaVZFVGc0cTJReEh0LURDczBLMENYbHF1Zmh1OEVLS1dBWTVEMVd5NlhCNEF4d0pqNjFjQnhMMmNrRk1BQ3hUUzJNN2ZrNkptUG5TSGNiY3pfeE52X1BRV3FUMDc3UVJDZFJHLUFJUmc0S3VUdXpOMXVFV3JWRGVtcmFEQVhnYUFJbVFibVhHTUFscTh3RUFjajVrSlJoZkk2YVZHSHJHSDNSWnhpcnFpVHVlZDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "22개국‧113개 항만 동시다발 ‘파업’",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61137"
+        },
+        {
+          "title": "Black Sea shipping under growing threats as drones hit container ships",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUdYS3gwRUZJUTBYN3VZUnB6Z3QyREJRV2VaYTI2b0wtYzZGOGozbDRCUGZoX1ozbmpMTVE0Y3FzN1lRZGxMeUo4LUNvN211NC1XUlF4Nk05QTRKRjZlN2xHc01jbHFsV2RtaDN3YTBQN2ZCTHhHQVNfS2labHZlQjdBcTBWTWpnWUtzemhqR1pvUUdjTHg0NXZyQWNGU0U?oc=5"
+        },
+        {
+          "title": "French dockworkers strike over budget measures and militarisation of ports",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0NBcHdra1owbF8tdUtvczJyMTFUSkJkUkZZTURTZ1hXUURTVjM3RkdjWnA4LTd6S085b19zQkl4UTBGcndHNGotU1FJcDlXZGkwLUN5dW9CTFFTamNxNklFYS1iRzhGU29tbFFMeTY1Z0laNC1vcEZWOThlZXhqVzhaQkNmNkxia0RYbkVmM1J4RFY3b29SZEtRd3oza0pBQkJaWElxUzFIc1g0eVJERFprM1lWNUxZSEtHdG93?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[올댓차이나] 대만 10월 제조업 PMI 54.9·1.8P↓…\"11개월째 경기확대\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014295132?sid=104"
+        },
+        {
+          "title": "투키디데스의 함정과 한국 외교 … 대만에서 전쟁 나면 한반도는 안전?...",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/31/2026103100034.html"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
+        },
+        {
+          "title": "드론 방어에 철망·타이어…러시아 그림자함대도 도입",
+          "url": "https://n.news.naver.com/mnews/article/001/0016414442?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "아세안 비상쌀 72% 한국이 냈다…싱가포르와 스마트팜 협약",
+          "url": "https://www.tjb.co.kr/news05/bodo/view/id/105571"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "트럼프, 알래스카 LNG 또 거론…\"한중일行 가스관 있어\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000921990?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "The Red Sea is one of the world's most important trade routes. A growing Saudi-UAE rivalry and rising threats to shipping are making it an increasingly contested region. #dwgeopolitics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTVGSXgxTnBEUDJ5RzFvRzhScnVXejFaTlV3MWw4OEpNMEV5aU9laXRtS1doSnY3NGZZc29PTWl1UGZ0VnNwOHlyOTNTUTlWLU1WUDRlUlBQWlE3OVJ5Tm9XUVNOMmw3eGd6UzRzTjQ0eGJrN2lYNm5TOTdnc3FUYUJqTFFyVVdoeU5BdXlkMjdrdmNPTXV3ZGJpd3dXQnc2MXA2aVNFTnBBU3hSTlljNXN0SjNXMDhGeGVjckNwTnI2Nzk4SVZEaHhLUndrXzJHajZOOC1aZjNra3NIdXhaTA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Biofuel Bunker Snapshot: Lower feedstock costs weigh on Rotterdam’s B30-VLSFO price",
+          "url": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-lower-feedstock-costs-weigh-on-rotterdams-b30-vlsfo-price/"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 17,
+  "generated_at": "2026-11-02T05:04:11Z"
+}
