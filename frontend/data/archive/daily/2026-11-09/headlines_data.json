@@ -1,0 +1,66 @@
+{
+  "headlines": [
+    {
+      "id": "77bb535f437d",
+      "title": "롯데칠성음료, 주류 성장에도 3분기 영업익 38%↓…연간 실적 전망도 하...",
+      "content_summary": "원재료 가격과 물류비 상승이 수익성에 부담으로 작용했다. 롯데칠성음료는 대내외 경영 환경의 불확실성을 반영해 올해 연간 실적 전망치도 낮췄다. 연간 매출 목표는 기존보다 200억원 줄인 4조800억원, 영업이익...",
+      "source_name": "Naver News",
+      "url": "https://www.ajunews.com/view/20261109140658497",
+      "published_at_utc": "2026-11-09T05:10:00Z",
+      "group_count": 6,
+      "insights": {}
+    },
+    {
+      "id": "96c20c8d373f",
+      "title": "롯데칠성, 3분기 영업익 37.9% 감소…연간 실적 목표 소폭 하향",
+      "content_summary": "인한 물류비와 원재료비 인상 여파를 피하지 못했다. 3분기 글로벌 매출은 3806억원으로 0.9% 소폭 감소했으며, 영업이익은 48.1% 급감한 107억원에 머물렀다. 주류 부문, RTD 119% 급증하며 선전…소주·청주도 상승세 반면...",
+      "source_name": "Naver News",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87380",
+      "published_at_utc": "2026-11-09T05:08:00Z",
+      "group_count": 6,
+      "insights": {}
+    },
+    {
+      "id": "ec1604b79f68",
+      "title": "삼성重, 친환경 SOFC 개발 추진",
+      "content_summary": "삼성중공업이 차세대 친환경 기자재 개발을 목표로 '고체 산화물 연료전지(SOFC)' 공동 개발을 추진한다.삼성중공업은 9일 삼성중공업 판교R&D센터에서 일본 모리무라SOFC 테크놀로지(Morimura SOFC Technology)와 고체 산화물 연료전지 개발 및 상용화를 위한 양해각서(MOU)를 체결했다고 밝혔다.이날 협약식에는 김경희 삼성중공업 미래사업본부장(부사장)과 사토 요시쿠니 모리무라 대표이사(사장)을 비롯한 양사 관계자들이 참석했다.삼성중공업은 이번 협약을 토대로 2028년까지 모리무라와 선박 및 데이터센터에 적용 가능한",
+      "source_name": "한국해운신문",
+      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333863",
+      "published_at_utc": "2026-11-09T11:51:43Z",
+      "group_count": 5,
+      "insights": {}
+    },
+    {
+      "id": "17b487477298",
+      "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+      "content_summary": "China will suspend an additional 24% tariff on US goods for another two months, formalizing a decision by the two countries’ leaders to prolong their trade truce until next January.",
+      "source_name": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
+      "published_at_utc": "2026-11-09T04:36:35Z",
+      "group_count": 2,
+      "insights": {}
+    },
+    {
+      "id": "989cc4000abf",
+      "title": "CMA CGM updates surcharges across Africa and Canada outbound trades",
+      "content_summary": "CMA CGM has announced new and revised freight surcharges covering several trade routes connecting Asia with Africa, as well as shipments from Canada’s West Coast to the Indian Subcontinent, Middle East Gulf and Red Sea. The adjustments include Peak Season Surcharges (PSS) on selected African routes and a Rate Restoration Initiative (RRI03) for shipments originating […] The post CMA CGM updates surcharges across Africa and Canada outbound trades appeared first on Container News.",
+      "source_name": "Container News",
+      "url": "https://container-news.com/cma-cgm-updates-surcharges-across-africa-and-canada-outbound-trades/",
+      "published_at_utc": "2026-11-08T23:30:29Z",
+      "group_count": 2,
+      "insights": {}
+    },
+    {
+      "id": "fc6f52011185",
+      "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+      "content_summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
+      "source_name": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "published_at_utc": "2026-11-08T23:05:00Z",
+      "group_count": 2,
+      "insights": {}
+    }
+  ],
+  "total": 6,
+  "generated_at": "2026-11-09T05:14:11Z"
+}

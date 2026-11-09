@@ -1,17 +1,12 @@
 {
   "keywords": [
     {
-      "text": "third quarter",
-      "count": 24,
+      "text": "hong kong",
+      "count": 25,
       "size": 100
     },
     {
-      "text": "cma cgm",
-      "count": 22,
-      "size": 100
-    },
-    {
-      "text": "los angeles",
+      "text": "strait of",
       "count": 19,
       "size": 100
     },
@@ -21,117 +16,17 @@
       "size": 100
     },
     {
-      "text": "hong kong",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "black sea",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "strait of",
-      "count": 17,
-      "size": 100
-    },
-    {
       "text": "red sea",
       "count": 15,
       "size": 100
     },
     {
-      "text": "traffic congestion",
-      "count": 14,
+      "text": "kong customs",
+      "count": 11,
       "size": 100
     },
     {
-      "text": "the third",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "midterm elections",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "profit forecast",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "the loadstar",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "on maritime",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "outlook as",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "baltic dry",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "in 2027",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "singapore (amendment",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "critical minerals",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "amendment) bill",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "raises outlook",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "earnings surge",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "c.h. robinson",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "green ammonia",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "maritime and",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "authority of",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "of singapore",
+      "text": "surcharges across",
       "count": 10,
       "size": 100
     },
@@ -141,366 +36,471 @@
       "size": 100
     },
     {
-      "text": "again as",
+      "text": "the strait",
       "count": 10,
       "size": 100
     },
     {
-      "text": "part of",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "울산항만공사(upa, 사장",
+      "text": "middle east",
       "count": 9,
       "size": 90
-    },
-    {
-      "text": "mol, 대만 완하이라인이",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "대만 완하이라인이 공동",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "kong customs",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "q3 earnings",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "peak season",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "한진, 일본 mol",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "일본 mol, 대만",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "in hormuz",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "한국 한진, 일본",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "new york",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "in its",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "due to",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "strike deadline",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "profit outlook",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "vincent thomas",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "zim integrated",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "thomas bridge",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "delayed again",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "earnings call",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "완하이라인이 공동 출자해",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "south africa",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "지정학적 불안에 따른",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "고부가가치 제품 판매",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "as earnings",
-      "count": 8,
-      "size": 80
     },
     {
       "text": "in october",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "linked to",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "traffic congestion",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "with photos",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "over the",
       "count": 8,
       "size": 80
     },
     {
       "text": "spot rates",
-      "count": 8,
-      "size": 80
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "25% stake",
-      "count": 8,
-      "size": 80
+      "text": "black sea",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "시대를 맞아 해상",
-      "count": 8,
-      "size": 80
+      "text": "to take",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "san pedro",
-      "count": 8,
-      "size": 80
+      "text": "understandings with",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "to friday",
-      "count": 8,
-      "size": 80
+      "text": "associated grocers",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "midterm elections",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "grocers northeast",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "passage through",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "through hormuz",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the loadstar",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "photos) hong",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "지정학적 불안에 따른",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "africa and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and canada",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "따른 원재료 가격",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "strike at",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "take aim",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to cross",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "says it",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "says he",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "with us",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "of oman",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "edge as",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "aim at",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "on its",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "as it",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "김혜정 해수부 해운물류국장은",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "drone delivery",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "china extends",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "earnings call",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "integrator of",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "적용을 추진할 계획이다",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "우리 해운산업의 저변을",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "계획이다. sofc를",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "무인 자율운항 전동화",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "의견을 향후 중소선사",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "peak season",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "vlcc market",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "to thailand",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "customs and",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "미국 중간선거 이후",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "tariffs to",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "cgm, cosco",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "pisco call",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "and excise",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "인프라 투자 관련",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "관세 정책 변화에",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "지난 5월 15일",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "5월 15일 오전",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "there was",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "to deploy",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "cosco and",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "전년 동월 대비",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "전 거래일 대비",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "sofc 적용을",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "china to",
+      "count": 5,
+      "size": 50
     },
     {
       "text": "iran war",
-      "count": 8,
-      "size": 80
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "surge in",
-      "count": 8,
-      "size": 80
+      "text": "a씨는 지난",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "of 2026",
-      "count": 8,
-      "size": 80
+      "text": "to buy",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "in hong",
-      "count": 8,
-      "size": 80
+      "text": "out of",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "ai and",
-      "count": 8,
-      "size": 80
+      "text": "compromised communications",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "financial results",
-      "count": 7,
-      "size": 70
+      "text": "acquires tennessee-based",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "apm terminals",
-      "count": 7,
-      "size": 70
+      "text": "대구경찰청 광역범죄수사대 마약범죄수사계는",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "국방을 선진화하는 중요한",
-      "count": 7,
-      "size": 70
+      "text": "reached understandings",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "해양 국방을 선진화하는",
-      "count": 7,
-      "size": 70
+      "text": "국제비상경제권한법(ieepa)에 근거한",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "could affect",
-      "count": 7,
-      "size": 70
+      "text": "hapag-lloyd announces",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "of commerce",
-      "count": 7,
-      "size": 70
+      "text": "crude discounts widen",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "results for",
-      "count": 7,
-      "size": 70
+      "text": "communications linked",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "forecast to",
-      "count": 7,
-      "size": 70
+      "text": "잃은 국제비상경제권한법(ieepa)에",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "ai buildout",
-      "count": 7,
-      "size": 70
+      "text": "hapag-lloyd suspends",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "angeles and",
-      "count": 7,
-      "size": 70
+      "text": "indian subcontinent",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "forecast as",
-      "count": 7,
-      "size": 70
+      "text": "grocery distributor",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "impact of",
-      "count": 7,
-      "size": 70
+      "text": "incoming passengers",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "rates and",
-      "count": 7,
-      "size": 70
+      "text": "u.s. manufacturing",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "stake in",
-      "count": 7,
-      "size": 70
+      "text": "feel ripple effect",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "mean for",
-      "count": 7,
-      "size": 70
+      "text": "mostly fuel driven",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "rates to",
-      "count": 7,
-      "size": 70
+      "text": "involving incoming",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "to build",
-      "count": 7,
-      "size": 70
+      "text": "services ltd. (zim",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "to fall",
-      "count": 7,
-      "size": 70
+      "text": "수입식품은 수출국으로 반송하거나",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "2027 as",
-      "count": 7,
-      "size": 70
+      "text": "해운물류국장은 \"중소선사는 우리",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "plan to",
-      "count": 7,
-      "size": 70
+      "text": "trucking industry",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "동기 대비 두",
-      "count": 7,
-      "size": 70
+      "text": "trafficking cases",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "to win",
-      "count": 7,
-      "size": 70
+      "text": "expands tennessee",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "as red",
-      "count": 7,
-      "size": 70
+      "text": "tennessee flatbed",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "at los",
-      "count": 7,
-      "size": 70
+      "text": "roane acquisition",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "of los",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "terminals maasvlakte",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "저장성 해항투자운영그룹에 따르면",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "global forwarding",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "quarterly profit",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "raises full-year",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "full-year profit",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "sandler, travis",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "원재료비와 물류비 상승으로",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "지역 성장엔진을 활성화하고",
-      "count": 6,
-      "size": 60
+      "text": "pricing pressures",
+      "count": 4,
+      "size": 40
     }
   ],
-  "total_keywords": 40650,
-  "generated_at": "2026-11-06T05:44:48Z"
+  "total_keywords": 37398,
+  "generated_at": "2026-11-09T05:15:01Z"
 }

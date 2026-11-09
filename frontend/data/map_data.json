@@ -2,77 +2,39 @@
   "countries": [
     {
       "code": "US",
-      "count": 42,
+      "count": 34,
       "risk_level": "high",
       "articles": [
         {
-          "title": "'블루쓰나미' 덮친 코스피, 연기금 소방수 등판에 낙폭 5%대로 축소",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443490"
+          "title": "한투證 \"美 고용 서프라이즈에도 연준 인상 서두르지 않을 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443775"
         },
         {
-          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+          "title": "\"美 AI 확장속도 둔화할까…중간급 DC, 약 1조원 GDP 창출\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443771"
         },
         {
-          "title": "코스피 급락發 안전선호·대외금리 주시…국고 3년 3.5%대 코앞",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443487"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 39,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "국토부, '통합 주택공급 지원센터' 출범…PF 자금난 사업장 밀착 관리",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443495"
-        },
-        {
-          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
-        },
-        {
-          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+          "title": "MUFG \"대만달러·원화 동반 부진…AI 투자심리 악화에 기술주 민감\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443733"
         }
       ]
     },
     {
       "code": "IR",
-      "count": 32,
+      "count": 28,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+          "title": "[르포] \"20년간 빈 탱크 걱정 없다\"…LNG 319만톤 송출한 울산 KET",
+          "url": "https://n.news.naver.com/mnews/article/138/0002247759?sid=101"
         },
         {
-          "title": "트럼프 연준 통제도 끝나나…\"고위직 교체 시도 물거품\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443482"
+          "title": "트럼프 “이란 재공격 가능성 매우 낮아”...이란 강경파는 협상 조건 ...",
+          "url": "http://www.metroseoul.co.kr/article/20261109500192"
         },
         {
-          "title": "UFC 사우디 대회 준비 계속…박준용 출전 확률↑",
-          "url": "https://m.sports.naver.com/general/article/410/0001146454"
-        }
-      ]
-    },
-    {
-      "code": "SA",
-      "count": 22,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "UFC 사우디 대회 준비 계속…박준용 출전 확률↑",
-          "url": "https://m.sports.naver.com/general/article/410/0001146454"
-        },
-        {
-          "title": "호르무즈 유조선 피격에 국제유가 반등… 브렌트유 98.29달러",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285251"
-        },
-        {
-          "title": "[아시아라운드업 20261106] 홍콩법원, 조슈아 웡에 징역 10년 선고",
-          "url": "http://kor.theasian.asia/archives/421022"
+          "title": "이란 \"종전안 수용하라, 아니면 '지옥' 보게 될 것\"",
+          "url": "https://n.news.naver.com/mnews/article/047/0002535116?sid=104"
         }
       ]
     },
@@ -82,111 +44,111 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "How China Uses Its ‘National Team’ to Influence the Stock Market",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/how-china-uses-its-national-team-to-influence-the-stock-market"
+          "title": "[AI 고속도로] 美 반도체 수출통제, 클라우드까지 번진다…韓 AI 기업도...",
+          "url": "https://n.news.naver.com/mnews/article/092/0002444457?sid=105"
         },
         {
-          "title": "전 세계 EV 배터리 2개 중 1개는 중국산… 해외 시장 석권 가속화",
-          "url": "https://n.news.naver.com/mnews/article/108/0003485132?sid=004"
+          "title": "수소차만으론 부족하다... 현대차그룹이 중국에서 충전과 연료 공급까지...",
+          "url": "https://www.insight.co.kr/news/581230"
         },
         {
-          "title": "셀 제조에서 에너지 서비스로, 한국 배터리 산업생존 전략",
-          "url": "https://n.news.naver.com/mnews/article/047/0002534879?sid=101"
+          "title": "해진공, \"美 분점정부 출범…해상공급망·항만 투자 정책 변수\"",
+          "url": "http://www.dailylog.co.kr/news/articleView.html?idxno=26877"
         }
       ]
     },
     {
-      "code": "GB",
-      "count": 16,
+      "code": "KR",
+      "count": 18,
       "risk_level": "high",
       "articles": [
         {
-          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
+          "title": "한투證 \"美 고용 서프라이즈에도 연준 인상 서두르지 않을 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443775"
         },
         {
-          "title": "처방 끊어도 약은 계속…해외 사건으로 본 비대면 관리 공백",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=421145"
+          "title": "KOMSA-FIRA, 제주 어업인 안전조업 지원",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333850"
         },
         {
-          "title": "‘中대결’도 장담 못한다는 전무후무 ‘AI 패닉셀’ [트럼프 스톡커]",
-          "url": "https://n.news.naver.com/mnews/article/011/0004679364?sid=104"
+          "title": "초크 위기 뚫고 지옥의 레슬링 선사! 고석현, UFC 3승 달성 후 \"다음 제물은 베테랑 매그니\"",
+          "url": "https://www.mt.co.kr/sports/2026/11/09/2026110912550993264"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "후티 공습 재개...사우디 수도 중심부 '아람코 타워' 피격",
+          "url": "https://www.bbc.com/korean/articles/c8qlnqqq0vwdo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        },
+        {
+          "title": "미, 이란 공격보다 협상에 무게…\"재공격 가능성 작다\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000924219?sid=104"
+        },
+        {
+          "title": "후티, 사우디 정유시설에 미사일·드론 대공세…중동 확전 위기",
+          "url": "https://n.news.naver.com/mnews/article/119/0003152916?sid=104"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 14,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "UFC 사우디 대회 준비 계속…박준용 출전 확률↑",
-          "url": "https://m.sports.naver.com/general/article/410/0001146454"
-        },
-        {
-          "title": "호르무즈 유조선 피격에 국제유가 반등… 브렌트유 98.29달러",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285251"
-        },
-        {
-          "title": "[아시아라운드업 20261106] 홍콩법원, 조슈아 웡에 징역 10년 선고",
-          "url": "http://kor.theasian.asia/archives/421022"
-        }
-      ]
-    },
-    {
-      "code": "JP",
       "count": 9,
       "risk_level": "high",
       "articles": [
         {
-          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+          "title": "후티 공습 재개...사우디 수도 중심부 '아람코 타워' 피격",
+          "url": "https://www.bbc.com/korean/articles/c8qlnqqq0vwdo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D"
         },
         {
-          "title": "인천해사고, 원양항해 승선실습 실시",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58085"
+          "title": "미, 이란 공격보다 협상에 무게…\"재공격 가능성 작다\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000924219?sid=104"
         },
         {
-          "title": "日 증시, 블루쓰나미에 60,000선 붕괴(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443453"
-        }
-      ]
-    },
-    {
-      "code": "RU",
-      "count": 8,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Russian Linseed Prices Stable as Warm November Supports Logistics",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWVKSWxHT2wxMnRCOFhBVnNjZU1UM3lIRUk2XzIzckNUNEdfelVQUXc4R2RsUXJCcVNMeEh1MkdPaDZ2RXJiQlpqQnk2eFpPU0EwaENzWDMybWJ1VVpPcGlXZ1EyNjdUQ2k1NDdyR1U0NEFzS3JPcXREbUlvZk53WnBaeWJlTktBQV9jMzEtZw?oc=5"
-        },
-        {
-          "title": "Seven Shadow Fleet Tankers Spoof AIS to Hide Novorossiysk Voyages",
-          "url": "https://www.hellenicshippingnews.com/seven-shadow-fleet-tankers-spoof-ais-to-hide-novorossiysk-voyages/"
-        },
-        {
-          "title": "Russian army attacks logistics infrastructure in Bucha, one injured",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFAxRUh3cEhFV0tzeEcybWg4ejJGQkh0UmczeEowZ0M1WE9hYkFRTEEtR0UwRXNLaVRfdm4wblZNa290bzVaYUhQdmdHc3EwSVdNczJsc21KNkZCRFNPb3JCb0NSNzd3bEhMZnlEcUJ3Smx0dHo2cW1QSHYwX09NV0J1T2tYeFJqNmgtMk5vWFFMVWRTRmpSTjAwSGhjdThZQVhEai12bW9fa0xfWGRlNDJnbW9KNGfSAbwBQVVfeXFMT3lCUTY1YVBqM0s2UHdSX1Njc0k0LXU2M3VZWU9MTXFfWDAxYXR3eHcyRE5KZkd3dlNhXzRIZHo3OE85eElaTEdMMG94LTBIT2g1RGtIdGxwazQzdGJKZDkyR1R3X3c2SHhDSDBpVUttRlBqU0dmWUdSNVNVdDktaHhRZ3IwYmZlM3g4TjhTaXBmVFUyQXZJRVRicTNjVWZJcWN2WWZJU1M5RjdDOVBrbUhVZ1haZFMzSGx3a0g?oc=5"
+          "title": "Yemen : Report Warns of Emerging Houthi-Shabab Logistics Corridor Across the Red Sea",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmU2FzYTJlNWp6WjQtLUcxenI2MFlxci1oZGFHaEh4eC1LZ25CUXRNSGlkSHN6a01IeHI3bGFzbVRkTXJxMFYwa291OGxfc1BwM0hhbElpMm0?oc=5"
         }
       ]
     },
     {
       "code": "IN",
-      "count": 6,
+      "count": 7,
       "risk_level": "high",
       "articles": [
         {
-          "title": "India joins ISF Verify initiative for digital seafarer certification",
-          "url": "https://container-news.com/india-joins-isf-verify-initiative-for-digital-seafarer-certification/"
+          "title": "나신평 \"해운 다운사이클 우려에도 韓 해운사 재무 완충력 우수\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443760"
         },
         {
-          "title": "Confederation of All India Traders holds Rahul Gandhi responsible for trade disruption in Delhi",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2tTd21uZXhuV203R29uSkI3YVZDaVVmY2RrWHVEdmtpa1QtNXdOa3hBNmpoVlpCaVZFVTBZdU5aTkZyaUR5aEVBcGVIVHZPUG1uZXlmTGR1TTVIenJRNXNSblZLbE56STBnTkU5d21FcmRmZVhWNFJseEVfdjZ1NGpDcHkwLTNNZDFmeDNKM1ZyV05oUWh0eTVCc2ltbjFvanJqZGJ5MGh6emZVSE1Fd1dyMHU1UENGRVROcTdrWUlqV29ONUJr?oc=5"
+          "title": "중동 위기 장기화에 울산항 원유 도입선 ‘인도·이집트’로 확대",
+          "url": "https://n.news.naver.com/mnews/article/011/0004680181?sid=101"
         },
         {
-          "title": "New LR service targets cargo disruption when trade routes fail",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGtMbnZCU3JsQkVER0traDlhbUg2Sjhub3gyTHF3ajQwNHRUQkRBeWtuczRWQWF4ei1XaDBBYkluSFliR1hnRURZMmhNN1ZqUGl3bWFKb0x6WTRGbGtYOTBiM0NjTUwtSVlMdDJZclN6cUlLQUFkSmRwN3ZoaE8xUnBSeHpNSlZnWXptN1E0U0NnODY4eE5icFpFLTRSY2RyN0NYQUtrcXBEY0s5LURFbi0zTS0tZTg?oc=5"
+          "title": "[더벨]제일엠앤에스, 2024 회계연도 감사의견 '적정'으로 정정",
+          "url": "https://www.mt.co.kr/stock/2026/11/09/2026110913239675017"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "AI 투자지속성 우려 증폭…앤트로픽, 2조 달러 IPO 가능할까?",
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=230668"
+        },
+        {
+          "title": "해경, 여수서 '제2회 한-아세안 방제포럼' 개최…대체연료·HNS 사고 공조...",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354140"
+        },
+        {
+          "title": "VLCC Tankers Retreated Last Week",
+          "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
         }
       ]
     },
@@ -196,107 +158,151 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "싱가포르 투아스항 자동화 가속, 글로벌 물류 공급망 재편 본격화",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=245051"
+          "title": "위성으로 보고 AI로 위험 예측…해외 스마트 안전망은",
+          "url": "https://n.news.naver.com/mnews/article/003/0014309709?sid=102"
         },
         {
-          "title": "싱가포르, \"AI 우려, 다섯 가지 핵심 원칙\" 제시",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721017"
+          "title": "Drewry: Intra Asia Container Index Down Last Week",
+          "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-last-week/"
         },
         {
-          "title": "Singapore warns of risks and cyber threats from emerging maritime technologies",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW9MbkN5ZDZvb1BQOHhmcjdxaWMxU2RGUmR0MFVIUDdUOElUVHh3TXBVZUpWRXAyb3U4elhEdGdzNGZtSWxLUVBRRVJnMjFMYzBJT1RXcENVZGxobGJVMzl5Z2pjd1dhMkkweUNvXzFSbnplZFNfdWJINXN0X0dOTWV0MUF6Y0FpS251Y0ZVeFhhaUhCblBVZGtkdEhzUE94NkNLZQ?oc=5"
+          "title": "\"한국의 미래일까?\"…아시아 1등 싱가포르가 위기에 처한 이유",
+          "url": "https://n.news.naver.com/mnews/article/003/0014309567?sid=104"
         }
       ]
     },
     {
-      "code": "UA",
+      "code": "RU",
       "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
+          "title": "Egypt’s October wheat imports nearly triple, corn imports fall 35%",
+          "url": "https://www.hellenicshippingnews.com/egypts-october-wheat-imports-nearly-triple-corn-imports-fall-35/"
         },
         {
-          "title": "트럼프, 美 중간선거 참패에 '러시아산 경유 수입'도 좌초 위기",
-          "url": "https://n.news.naver.com/mnews/article/469/0000963768?sid=104"
+          "title": "[기고] 신압록강대교 개통, 문제는 외교가 아니라 '경제'다",
+          "url": "https://www.ajunews.com/view/20261108230848105"
         },
         {
-          "title": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZV94cW1pSVdVRXhsS1BoM09ybHdBNm53NnZBdnJ2NVM0THQycmlNaDBPM041aU5GdHZSektWUlhkcEliTWQ1MGVFaHQ0Sm0xdTdCdDV3amNvSnlFbjVISXlIV2ZMd1BaeFZ3YkNlVE1LYnlnZkdyekJrMEZDYmlpTlA4bUpGUF9QbTdLcTFUVmxSNGs4bnBQWXlnRjZtWmwxSDBZaEFybU1oMDF1UWJJWG5QUTNxUUt2TTdDZ25kT2xPQWs?oc=5"
+          "title": "Russia adapts to Black Sea disruption but wheat market is too optimistic, Sizov says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0VINVpKb0dtYmpCT0lTUDZyUi1aZWM5b0kzeXVYSjBCT3NZWEJsOVptOXNtbklUcWE2M29kREtjNE1PMjRVSGQ5NmJJX04wVGc5VWZmalBOTWNhVGs3UlJrUkpfdjNhZ0JWMWpqRFpneVpUQzJEZi1VWDZaNUQzTC1hVElSeEZQQ2dJdXl3T2hsd2FmeUxiOVhmWUp1TjA3YlZXeHVTX0RHRG9YQlpuaG93c1Zfd1VjN2Rfb3lkNEo?oc=5"
         }
       ]
     },
     {
-      "code": "TW",
+      "code": "GB",
       "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+          "title": "VLCC Tankers Retreated Last Week",
+          "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
         },
         {
-          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘Reminds me of Covid’: AI equipment chokes Taiwan’s air cargo gateway",
-          "url": "https://theloadstar.com/reminds-me-of-covid-ai-equipment-chokes-taiwans-air-cargo-gateway/"
-        }
-      ]
-    },
-    {
-      "code": "DE",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "폭스바겐 대신 라인메탈? 방산서 활로 찾는 독일…하지만 청년들은 거리...",
-          "url": "https://n.news.naver.com/mnews/article/033/0000053192?sid=104"
-        },
-        {
-          "title": "“미 중간선거 경제충격 최소화”",
-          "url": "https://www.naeil.com/news/read/607912?ref=naver"
-        },
-        {
-          "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-          "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "[사설] 청해부대 임무 확대, 원유 수입 안보 위한 불가피한 조치다",
-          "url": "https://n.news.naver.com/mnews/article/023/0004008031?sid=110"
-        },
-        {
-          "title": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
-          "url": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html"
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
         }
       ]
     },
     {
       "code": "VN",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[한마당] 식탁에 찾아온 엘니뇨",
+          "url": "https://n.news.naver.com/mnews/article/005/0001883790?sid=110"
+        },
+        {
+          "title": "[ER인사이드] 베트남 경제의 변신은 유죄일까? 무죄일까?",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756405"
+        },
+        {
+          "title": "\"베트남 진출 기업 92% 철수 안 해… 타국 대비 비용 우위 여전\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005839528?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "TW",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Alarm raised over potential disruption to the food supply chain due to cyberattacks.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzF6WEpGcGRIdXd3dndfc09Wck14X3NIdVNYY1VtN2RhTGlYb3Z3MXpSSXdwZTlYcG9XeG1uTW5RTmJwRGNJWnQ5cGc2WDRJdXJ5N2xsVmhNVmd0M200cUVhZ09SRmhrb2wwWmdIMDFETFpGYmFkblJpWjN3WjA5STM3U21xa3IyMlR5cFRIZFhNZkFMLW9PeERn?oc=5"
+          "title": "MUFG \"대만달러·원화 동반 부진…AI 투자심리 악화에 기술주 민감\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443733"
         },
         {
-          "title": "\"SECA 비준 앞두고 화훼농가 '생존권 비상'\"",
-          "url": "http://www.amnews.co.kr/news/articleView.html?idxno=75426"
+          "title": "AI 투자지속성 우려 증폭…앤트로픽, 2조 달러 IPO 가능할까?",
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=230668"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[COP31] 정상들이 안보인다…기후위기보다 위태로운 기후정치",
+          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=17280"
+        },
+        {
+          "title": "[아주증시포커스] AI 外風에 가장 취약했다…韓증시 시총, 주요국 중 낙...",
+          "url": "https://www.ajunews.com/view/20261109070529184"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "[COP31] 정상들이 안보인다…기후위기보다 위태로운 기후정치",
+          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=17280"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Biofuel Bunker Snapshot: Rotterdam’s B30-VLSFO price slumps despite higher feedstock costs",
+          "url": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-rotterdams-b30-vlsfo-price-slumps-despite-higher-feedstock-costs/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "이란 위협에 관계 정상화 착수 부담",
+          "url": "https://kookbang.dema.mil.kr/newsWeb/20261109/1/ATCE_CTGR_0020010011/view.do"
         }
       ]
     }
   ],
-  "total_crisis_countries": 16,
-  "generated_at": "2026-11-06T05:43:52Z"
+  "total_crisis_countries": 18,
+  "generated_at": "2026-11-09T05:14:11Z"
 }
