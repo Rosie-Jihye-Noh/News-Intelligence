@@ -1,0 +1,264 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 34,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "해운협회, 줄잡이 작업자 안전교육",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333892"
+        },
+        {
+          "title": "KRISO, 해양오염 방제포럼 개최",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
+        },
+        {
+          "title": "한국해운협회, 한·중 해운 상생 및 지정학적 리스크 대응 강조",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323441"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 23,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "\"시효 지났나 안 지났나\"…국토부, 재초환 부과 시한 유권해석 착수",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443980"
+        },
+        {
+          "title": "[외환] 양방향 수급에 1,340원 중반대 횡보",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443975"
+        },
+        {
+          "title": "[KAI 경고등③] LAH 헬기 20대 납품 이연…수주 가이던스 미달",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443969"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 21,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "KRISO, 해양오염 방제포럼 개최",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
+        },
+        {
+          "title": "콜로세움, CES서 공급망·물류 부문 혁신상 수상",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333885"
+        },
+        {
+          "title": "마크 잔디 \"AI, 4년간 美일자리 79만개 늘려…고용시장 버팀목\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443977"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 19,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "6개월전 젠슨 황 경고한 공매도업체…\"상당한 中 문제\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443999"
+        },
+        {
+          "title": "한국해운협회, 한·중 해운 상생 및 지정학적 리스크 대응 강조",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323441"
+        },
+        {
+          "title": "파라타항공, ICN-SZX 주4편 정기 운항",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61187"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "조현, G7 계기 프랑스·사우디 외교장관 만나 우크라·호르무즈 정세 논...",
+          "url": "https://n.news.naver.com/mnews/article/003/0014313365?sid=100"
+        },
+        {
+          "title": "조현, 프랑스·사우디와 외교장관 회담…각각 ‘우크라이나 정세’·‘...",
+          "url": "https://n.news.naver.com/mnews/article/016/0002721487?sid=100"
+        },
+        {
+          "title": "조현, 프랑스와 외교장관 회담…우크라이나 정세 의견 교환",
+          "url": "https://n.news.naver.com/mnews/article/055/0001401966?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "인도 아이폰 부품 공장서 노동자 3명 질식사…물탱크 정비 중 사고",
+          "url": "https://n.news.naver.com/mnews/article/421/0009281161?sid=104"
+        },
+        {
+          "title": "[전국 주요 신문 사설](10일 석간)",
+          "url": "https://n.news.naver.com/mnews/article/001/0016433369?sid=110"
+        },
+        {
+          "title": "쿠팡이 잃은 것은 고객 정보만이 아니다 [시장 엿보기]",
+          "url": "https://n.news.naver.com/mnews/article/374/0000542706?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "“살고 싶으면 명단 내라”…후티군, 사우디 내 외국기업에 내린 ‘섬뜩...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003697715?sid=104"
+        },
+        {
+          "title": "이란 “한국 호르무즈 파병 자제해야…상황 악화 우려”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012290729?sid=104"
+        },
+        {
+          "title": "이란 “한국 호르무즈 파병 자제해야…상황 악화 우려”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012290654?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "KRISO, 해양오염 방제포럼 개최",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
+        },
+        {
+          "title": "日 국채 30년물 입찰서 응찰률 3.36배…직전치 3.88배 하회",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443996"
+        },
+        {
+          "title": "Japan 30-Year Bond Sale Sees Weaker Demand After JGB Swings",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "조현, G7 계기 프랑스·사우디 외교장관 만나 우크라·호르무즈 정세 논...",
+          "url": "https://n.news.naver.com/mnews/article/003/0014313365?sid=100"
+        },
+        {
+          "title": "조현, 프랑스·사우디와 외교장관 회담…각각 ‘우크라이나 정세’·‘...",
+          "url": "https://n.news.naver.com/mnews/article/016/0002721487?sid=100"
+        },
+        {
+          "title": "조현, 프랑스와 외교장관 회담…우크라이나 정세 의견 교환",
+          "url": "https://n.news.naver.com/mnews/article/055/0001401966?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "조현, 프랑스·사우디와 외교장관 회담…각각 ‘우크라이나 정세’·‘...",
+          "url": "https://n.news.naver.com/mnews/article/016/0002721487?sid=100"
+        },
+        {
+          "title": "조현, 프랑스와 외교장관 회담…우크라이나 정세 의견 교환",
+          "url": "https://n.news.naver.com/mnews/article/055/0001401966?sid=100"
+        },
+        {
+          "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+          "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+          "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+        },
+        {
+          "title": "브렌트유 95달러·AI 기술주 급락…리스태드 \"원유 공급 회복은 아직\"",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204906"
+        },
+        {
+          "title": "Russian Forces Strike Odessa Region Logistics Facility for Third Time - Oj",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWjJlUjlxdGd1T20tWTNKX0xXbm1fV3NLLXhidEQ4Q203dkM3QUVxVFBMbnoxOU9pdnhHNS1SNFFkZThPSDVsT1haQW5FUlo0OWZHLUxLYjhiLWNjdW5JQjVCZG44V3hGYzNRUkF3RjQteGVMZzNZRmE5TzNQX0lvYVBINUlZd1RFRUtMNjlmc1NyZXJBWU1z?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+          "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+        },
+        {
+          "title": "Australia Faces New US Reality After Midterms",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video"
+        },
+        {
+          "title": "韓 ‘본업’ LNG 운반선 수주 경고음… 돌파구는 내년 북미 수요",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203614?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[단독]UAE 대통령, 이번주 국빈 방한 중동 정세로 취소",
+          "url": "https://n.news.naver.com/mnews/article/020/0003761374?sid=100"
+        },
+        {
+          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "LNG Bunker Snapshot: European LNG prices slump $235/mt on Middle East peace hopes",
+          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-european-lng-prices-slump-235-mt-on-middle-east-peace-hopes/"
+        },
+        {
+          "title": "위성으로 보고 AI로 위험 예측…해외 스마트 안전망은",
+          "url": "https://n.news.naver.com/mnews/article/003/0014309709?sid=102"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 14,
+  "generated_at": "2026-11-10T06:29:07Z"
+}
