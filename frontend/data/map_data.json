@@ -1,264 +1,291 @@
 {
   "countries": [
     {
-      "code": "KR",
-      "count": 34,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "해운협회, 줄잡이 작업자 안전교육",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333892"
-        },
-        {
-          "title": "KRISO, 해양오염 방제포럼 개최",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
-        },
-        {
-          "title": "한국해운협회, 한·중 해운 상생 및 지정학적 리스크 대응 강조",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323441"
-        }
-      ]
-    },
-    {
-      "code": "IR",
-      "count": 23,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "\"시효 지났나 안 지났나\"…국토부, 재초환 부과 시한 유권해석 착수",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443980"
-        },
-        {
-          "title": "[외환] 양방향 수급에 1,340원 중반대 횡보",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443975"
-        },
-        {
-          "title": "[KAI 경고등③] LAH 헬기 20대 납품 이연…수주 가이던스 미달",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443969"
-        }
-      ]
-    },
-    {
       "code": "US",
-      "count": 21,
+      "count": 42,
       "risk_level": "high",
       "articles": [
         {
-          "title": "KRISO, 해양오염 방제포럼 개최",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
+          "title": "美 재무 \"중국과 AI 초지능 관련 대화 채널 구축\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444204"
         },
         {
-          "title": "콜로세움, CES서 공급망·물류 부문 혁신상 수상",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333885"
+          "title": "긴축 우려 딛고 코스피 반등…반도체·이차전지 강세",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444197"
         },
         {
-          "title": "마크 잔디 \"AI, 4년간 美일자리 79만개 늘려…고용시장 버팀목\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443977"
+          "title": "월가 \"12월 금리인상 사실상 확정…연준 뒤처질 위험\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444171"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 19,
+      "count": 39,
       "risk_level": "high",
       "articles": [
         {
-          "title": "6개월전 젠슨 황 경고한 공매도업체…\"상당한 中 문제\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443999"
+          "title": "美 재무 \"중국과 AI 초지능 관련 대화 채널 구축\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444204"
         },
         {
-          "title": "한국해운협회, 한·중 해운 상생 및 지정학적 리스크 대응 강조",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323441"
+          "title": "아이텍코리아, 다몬 글로벌 파트너 ‘Best Partner Award’ 수상",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323450"
         },
         {
-          "title": "파라타항공, ICN-SZX 주4편 정기 운항",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61187"
+          "title": "'젠슨 황 내연녀' 앨리스 황의 거대한 자본 네트워크…\"간첩인가 사업가...",
+          "url": "https://www.ajunews.com/view/20261111135208090"
         }
       ]
     },
     {
-      "code": "SA",
-      "count": 16,
+      "code": "IR",
+      "count": 34,
       "risk_level": "high",
       "articles": [
         {
-          "title": "조현, G7 계기 프랑스·사우디 외교장관 만나 우크라·호르무즈 정세 논...",
-          "url": "https://n.news.naver.com/mnews/article/003/0014313365?sid=100"
+          "title": "[PD 제재 후폭풍] 금투협 \"WGBI 70조 호재에 찬물…'대외신인도' 경고등\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444185"
         },
         {
-          "title": "조현, 프랑스·사우디와 외교장관 회담…각각 ‘우크라이나 정세’·‘...",
-          "url": "https://n.news.naver.com/mnews/article/016/0002721487?sid=100"
+          "title": "\"이란에 대규모 군사작전 필요 없어\"…선거 이후 공격 선 긋는 美",
+          "url": "https://n.news.naver.com/mnews/article/469/0000964953?sid=104"
         },
         {
-          "title": "조현, 프랑스와 외교장관 회담…우크라이나 정세 의견 교환",
-          "url": "https://n.news.naver.com/mnews/article/055/0001401966?sid=100"
+          "title": "Oil rebounds as Hormuz shipping attacks blunt hopes for Iran truce",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlkxb1dWU1dDS1RZX2dZQ3pCZkxmUWV1Ym5QTGpRV2FPQ2dSbG5WR1AyRmlaYWFvSnFkLWtyMHljcExacjdQTkd0dnEtMkttTEMwYmVDRUhMcTJrTHM3OXVJVklLVzRreW5iUGE2QjBUdVRXa2JEUVItbjRwWGlaR3k3eUNxWW1tWGMyaXk3VDZDbnIta2REY3BaYVlNM0dCU2hN?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 31,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[PD 제재 후폭풍] 금투협 \"WGBI 70조 호재에 찬물…'대외신인도' 경고등\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444185"
+        },
+        {
+          "title": "\"전진우, 부상 복귀전서 빛났다\" 1월 유럽 진출→드디어 첫 골... 돌아서며 때린 중거리포, 英 현지 극찬",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111111365120666"
+        },
+        {
+          "title": "한국타이어, 'RTX 스코틀랜드 2026' 참가…유럽 TBR 시장 공략 가속",
+          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5077"
         }
       ]
     },
     {
       "code": "IN",
-      "count": 14,
+      "count": 15,
       "risk_level": "high",
       "articles": [
         {
-          "title": "인도 아이폰 부품 공장서 노동자 3명 질식사…물탱크 정비 중 사고",
-          "url": "https://n.news.naver.com/mnews/article/421/0009281161?sid=104"
+          "title": "[PD 제재 후폭풍] 금투협 \"WGBI 70조 호재에 찬물…'대외신인도' 경고등\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444185"
         },
         {
-          "title": "[전국 주요 신문 사설](10일 석간)",
-          "url": "https://n.news.naver.com/mnews/article/001/0016433369?sid=110"
+          "title": "IOC plans to acquire Crude Oil and LPG carriers as West Asia crisis highlights India's shipping vulnerabilities",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSHpJYzJacmFqTlEwZU93d0p5VnQzeW1Db3c4NEE5SEhDMWJBdXUtZDhhQWVvdWluSnU2YzJJOWN1ZGVsNGUxZEQ0Y1VQWWdxXy1JOS1VQ1NhRHlkbERUV3pBWXNJVkFGT19jaVl6ZlZRQXo1Y0pGUGk3NWtfSWV4Y0paMnRJeXNva0I0VzBnWUFLUlBLLXFIU1Bodng1cG5PWUZVTGlkV2FmQk1fMzVYUGhvU01zQThkREdIaVBfaktnMnNESlZBX24tUVdXTUlSME9aYnBtb3RrNENUaVpMeFRseG0?oc=5"
         },
         {
-          "title": "쿠팡이 잃은 것은 고객 정보만이 아니다 [시장 엿보기]",
-          "url": "https://n.news.naver.com/mnews/article/374/0000542706?sid=101"
+          "title": "BGF리테일, ESG 평가 2년 연속 통합 A+…환경·사회·지배구조 전 부문 개...",
+          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132334"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "“당장 대규모 군사작전 필요없어”…이란, 미국과 협상설 부인",
+          "url": "https://n.news.naver.com/mnews/article/056/0012291454?sid=104"
+        },
+        {
+          "title": "유용원 \"청해부대 파병 연장, 만시지탄이지만 조건 충족... 트럼프에 고...",
+          "url": "https://n.news.naver.com/mnews/article/052/0002431314?sid=100"
+        },
+        {
+          "title": "“당장 대규모 군사작전 필요없어”…이란, 미국과 협상설 부인",
+          "url": "https://n.news.naver.com/mnews/article/056/0012291320?sid=104"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 7,
+      "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "“살고 싶으면 명단 내라”…후티군, 사우디 내 외국기업에 내린 ‘섬뜩...",
-          "url": "https://n.news.naver.com/mnews/article/081/0003697715?sid=104"
+          "title": "'공화당 제동' 美헤그세스 탄핵안, 8개 혐의는?…이란戰·마두로 체포 등",
+          "url": "https://n.news.naver.com/mnews/article/003/0014314938?sid=104"
         },
         {
-          "title": "이란 “한국 호르무즈 파병 자제해야…상황 악화 우려”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012290729?sid=104"
+          "title": "“당장 대규모 군사작전 필요없어”…이란, 미국과 협상설 부인",
+          "url": "https://n.news.naver.com/mnews/article/056/0012291454?sid=104"
         },
         {
-          "title": "이란 “한국 호르무즈 파병 자제해야…상황 악화 우려”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012290654?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "KRISO, 해양오염 방제포럼 개최",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
-        },
-        {
-          "title": "日 국채 30년물 입찰서 응찰률 3.36배…직전치 3.88배 하회",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443996"
-        },
-        {
-          "title": "Japan 30-Year Bond Sale Sees Weaker Demand After JGB Swings",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "조현, G7 계기 프랑스·사우디 외교장관 만나 우크라·호르무즈 정세 논...",
-          "url": "https://n.news.naver.com/mnews/article/003/0014313365?sid=100"
-        },
-        {
-          "title": "조현, 프랑스·사우디와 외교장관 회담…각각 ‘우크라이나 정세’·‘...",
-          "url": "https://n.news.naver.com/mnews/article/016/0002721487?sid=100"
-        },
-        {
-          "title": "조현, 프랑스와 외교장관 회담…우크라이나 정세 의견 교환",
-          "url": "https://n.news.naver.com/mnews/article/055/0001401966?sid=100"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "조현, 프랑스·사우디와 외교장관 회담…각각 ‘우크라이나 정세’·‘...",
-          "url": "https://n.news.naver.com/mnews/article/016/0002721487?sid=100"
-        },
-        {
-          "title": "조현, 프랑스와 외교장관 회담…우크라이나 정세 의견 교환",
-          "url": "https://n.news.naver.com/mnews/article/055/0001401966?sid=100"
-        },
-        {
-          "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-          "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+          "title": "'이란 여학교 폭격·마두로 납치' 헤그세스 탄핵안, 美하원서 사실상 무...",
+          "url": "https://n.news.naver.com/mnews/article/119/0003153667?sid=104"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 4,
-      "risk_level": "medium",
+      "count": 9,
+      "risk_level": "high",
       "articles": [
         {
-          "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-          "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+          "title": "LNG 공급망 재편·AI 전력 폭증···천연가스 안보전략은?",
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229652"
         },
         {
-          "title": "브렌트유 95달러·AI 기술주 급락…리스태드 \"원유 공급 회복은 아직\"",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204906"
+          "title": "Ukraine reportedly strikes Ust-Luga Baltic Sea port as drones attack regions across Russia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3ljbEN1UTh6QXkzRGhvZFRaa0U1dlBvX09ycFp1enNER0dwSGlJQzFwaW8wWlV0QUJIZE9lS1hHcFg4bHEyZHBXaGdQQ3A5STRQa004VDdaTGtROTFRazhIZnpTMFNGbkRHemtHWWhuaXpZWnNHVVBCUUg5ZnBpMm80c01vX1JMS2tyZ0t6Rm9UOFZtZnZpOTlDUjNRb0I3eGhlSE1zaEZEeDZkZHljSWRQZ3VPLVlHZDBj?oc=5"
         },
         {
-          "title": "Russian Forces Strike Odessa Region Logistics Facility for Third Time - Oj",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWjJlUjlxdGd1T20tWTNKX0xXbm1fV3NLLXhidEQ4Q203dkM3QUVxVFBMbnoxOU9pdnhHNS1SNFFkZThPSDVsT1haQW5FUlo0OWZHLUxLYjhiLWNjdW5JQjVCZG44V3hGYzNRUkF3RjQteGVMZzNZRmE5TzNQX0lvYVBINUlZd1RFRUtMNjlmc1NyZXJBWU1z?oc=5"
+          "title": "국제유가, 중동 긴장 완화에 하락세⋯브렌트유 91.5달러",
+          "url": "https://www.viva100.com/article/20261111500088"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 3,
-      "risk_level": "medium",
+      "count": 6,
+      "risk_level": "high",
       "articles": [
         {
-          "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-          "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+          "title": "\"전진우, 부상 복귀전서 빛났다\" 1월 유럽 진출→드디어 첫 골... 돌아서며 때린 중거리포, 英 현지 극찬",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111111365120666"
         },
         {
-          "title": "Australia Faces New US Reality After Midterms",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video"
+          "title": "한국타이어, 'RTX 스코틀랜드 2026' 참가…유럽 TBR 시장 공략 가속",
+          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5077"
         },
         {
-          "title": "韓 ‘본업’ LNG 운반선 수주 경고음… 돌파구는 내년 북미 수요",
-          "url": "https://n.news.naver.com/mnews/article/366/0001203614?sid=101"
+          "title": "전재수 부산시장, 북항재개발·해사산업 협력 모색차 유럽 방문",
+          "url": "https://pk.newdaily.co.kr/site/data/html/2026/11/11/2026111100190.html"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'北 포로 갈등' 한·우크라 외교장관회담…조현 \"성실한 합의 이행\" 강조",
+          "url": "https://www.mt.co.kr/politics/2026/11/11/2026111111215335816"
+        },
+        {
+          "title": "LNG 공급망 재편·AI 전력 폭증···천연가스 안보전략은?",
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229652"
+        },
+        {
+          "title": "Ukraine reportedly strikes Ust-Luga Baltic Sea port as drones attack regions across Russia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3ljbEN1UTh6QXkzRGhvZFRaa0U1dlBvX09ycFp1enNER0dwSGlJQzFwaW8wWlV0QUJIZE9lS1hHcFg4bHEyZHBXaGdQQ3A5STRQa004VDdaTGtROTFRazhIZnpTMFNGbkRHemtHWWhuaXpZWnNHVVBCUUg5ZnBpMm80c01vX1JMS2tyZ0t6Rm9UOFZtZnZpOTlDUjNRb0I3eGhlSE1zaEZEeDZkZHljSWRQZ3VPLVlHZDBj?oc=5"
         }
       ]
     },
     {
       "code": "AE",
-      "count": 2,
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Middle East latest: Ship attacked in UAE waters, says operator Adnoc",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTMwLTRPRTZsZHJPR0lQTVNtNHdyWWxZNHMydXJzUjEySVZIZzJfUFlvbXZfQWJPc25aSm5kM3lzNmxFMFVMdFl3NTZLZWVjZnZPaTFyWjZtcl9peGd6ZlpDU2hnQmxDVFBLRlF1cVR3U2QwR2R4dWRRNEFDaDBzSTY2YUFWZEsyZ3dIOGQwX2tudV81a1pRRXQtVzl0TWYw?oc=5"
+        },
+        {
+          "title": "트럼프, 카타르 총리와 이란 종전 협의…UAE \"전쟁 중 원유 수출 하루 4...",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=397560"
+        },
+        {
+          "title": "“당장 대규모 군사작전 필요없어”…이란, 미국과 협상설 부인",
+          "url": "https://n.news.naver.com/mnews/article/056/0012291454?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "[단독]UAE 대통령, 이번주 국빈 방한 중동 정세로 취소",
-          "url": "https://n.news.naver.com/mnews/article/020/0003761374?sid=100"
+          "title": "마운자로·위고비 가격, 일본보다 비싼 게 정말 문제일까",
+          "url": "https://n.news.naver.com/mnews/article/665/0000008542?sid=101"
         },
         {
-          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
+          "title": "Japan's Cosmo Energy eyes steady Middle East oil imports for 2027 despite disruptions",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1lucGNPaFY1RmhYQkpVUnB1b3REMkhhQnFWQW9CcmZxVy0tNmltUklHU3VvdXlqeHZwRUw3dDlPV0ZqTVRmTnlOOTlJa2hITVluZlQ1WTgzOVBsM3lGaGpESHhaS2RqTXJBZWhZa2lrT1M3OGhDc1pPOElobXVZTU5SYTNfZnMtRVpTVHNEN2N4WU5DR1lTSVZrYnZSWi13UEhmX2JheVhhX1dPeWh1ZmFRZHBlS2o3eGFzZ3Y5X3BJOEZiMTBMcmtoa9IB2AFBVV95cUxNNjJQZVE2Sk1NVDlyNVVmNnRybkd0SDJkVmk4aVAwRWxpVDJHSERaTmlvcnFBUHQ5c0JoZlRCeDVLUzV1WWJuTUsxTzBSMU9uUGRMd1Z1Z2FrZFdvTGRDZWhlVmtmR3ZMV3pjdU1hMm9qVzlfQ2h5bmdqY0wxc2JwZWJ0RjctVjhPNHRHeWtoSWhiSkhLY1JCWXNyNG1xQ2VnZTA1ZUFLWUZaaTdLb2wtN281emh4ZThBZ1NLbmNnb2R5MHBJTjdyZGhxaWdZbDlwMlplWjV4VVg?oc=5"
+        },
+        {
+          "title": "KRISO, 해양오염 방제포럼 개최",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
         }
       ]
     },
     {
       "code": "SG",
-      "count": 2,
+      "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "LNG Bunker Snapshot: European LNG prices slump $235/mt on Middle East peace hopes",
-          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-european-lng-prices-slump-235-mt-on-middle-east-peace-hopes/"
+          "title": "\"이해할 수 없다\"...미 상무부 '젠슨황 불륜' 기업, 블랙리스트 미뤄",
+          "url": "https://www.mt.co.kr/world/2026/11/11/2026111113144767570"
+        },
+        {
+          "title": "딜리버리랩, 싱가포르 'GAIC 2026' 최종 우승…대만 이어 글로벌 성과",
+          "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90642"
         },
         {
           "title": "위성으로 보고 AI로 위험 예측…해외 스마트 안전망은",
           "url": "https://n.news.naver.com/mnews/article/003/0014309709?sid=102"
         }
       ]
+    },
+    {
+      "code": "TW",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "딜리버리랩, 싱가포르 'GAIC 2026' 최종 우승…대만 이어 글로벌 성과",
+          "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90642"
+        },
+        {
+          "title": "Shenzhen belly cargo ban threatens peak-season squeeze at other gateways",
+          "url": "https://theloadstar.com/shenzhen-air-cargo-restrictions-ahead-of-apec-threaten-peak-shipments/"
+        },
+        {
+          "title": "[로드픽] LNG, 대만해협 위기 때 美서 배 띄우면 호주보다 14일 더 걸려",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67422"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+          "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
+        },
+        {
+          "title": "Cold chain cyberattack risk – time to wake up",
+          "url": "https://theloadstar.com/cold-chain-cyberattack-risk-time-to-wake-up/"
+        },
+        {
+          "title": "France Warns US Trade Policy Unlikely to Change After Midterms",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JpUzNkNnhIU1U1U19YaUdTc2tfVzNkWWpMbWhMcDFKWG1JYVc3ZXp5cGpjd3YxbW85ZGRJX2xOMU9BRWJFWUY3UUZFNW9PTmVGZzB4UF9oYU5CTFVoT1JLMkk2MXlvX2duT3FaMFF2SG81djA2aEZHbUJuWjBFZWZlNjBsdk5sel8wR2lSOXhfMXlnc3JzYkZaeGlDd05nVm11U2FXRkxQeFF4R2d4Y25mUQ?oc=5"
+        }
+      ]
     }
   ],
-  "total_crisis_countries": 14,
-  "generated_at": "2026-11-10T06:29:07Z"
+  "total_crisis_countries": 15,
+  "generated_at": "2026-11-11T05:15:08Z"
 }
