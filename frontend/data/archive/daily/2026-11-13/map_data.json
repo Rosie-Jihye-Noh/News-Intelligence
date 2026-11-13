@@ -1,0 +1,282 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 32,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "국립한국해양대 해사대학, ‘보양사 FRESHMAN AWARD’ 장학증서 전달",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323523"
+        },
+        {
+          "title": "해진공, 어업인에 6천만 원 상당 구명조끼 지원",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58143"
+        },
+        {
+          "title": "한국해대 해사대학, 보양사 장학증서 전달식",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58142"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444639"
+        },
+        {
+          "title": "이란, 바레인 미국 조기경보 레이더 공격…시리크 통신탑 피격 보복 차...",
+          "url": "http://www.breaknews.com/1250783"
+        },
+        {
+          "title": "트럼프 “이란과 합의 필요 없다”⋯국제유가 급등",
+          "url": "https://www.etoday.co.kr/news/view/2647889"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 22,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444639"
+        },
+        {
+          "title": "'매출 5조 눈앞' 코웨이, 삼성·LG 구독 공세에 안방 수성 시험대",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719171"
+        },
+        {
+          "title": "젠슨 황 퇴진, 문제는 중국…삼성·SK 반도체 팹 '날벼락'",
+          "url": "https://n.news.naver.com/mnews/article/215/0001272665?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 22,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "코인 동반 급락장…비트코인 6.3%·이더리움 5.7% 하락",
+          "url": "https://www.etoday.co.kr/news/view/2647916"
+        },
+        {
+          "title": "트럼프 급선회 “이란과 협상 필요없어”…후티는 사우디 석유시설 타격",
+          "url": "https://n.news.naver.com/mnews/article/056/0012293347?sid=104"
+        },
+        {
+          "title": "‘오락가락’ 트럼프… 이란 만난다더니 “합의 필요없다”",
+          "url": "https://n.news.naver.com/mnews/article/021/0002832623?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 15,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "젠슨 황 퇴진, 문제는 중국…삼성·SK 반도체 팹 '날벼락'",
+          "url": "https://n.news.naver.com/mnews/article/215/0001272665?sid=101"
+        },
+        {
+          "title": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5"
+        },
+        {
+          "title": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "‘오락가락’ 트럼프… 이란 만난다더니 “합의 필요없다”",
+          "url": "https://n.news.naver.com/mnews/article/021/0002832623?sid=104"
+        },
+        {
+          "title": "트럼프 급선회 “이란과 협상 필요없어”…후티는 사우디 석유시설 타격",
+          "url": "https://n.news.naver.com/mnews/article/056/0012293268?sid=104"
+        },
+        {
+          "title": "[글로벌 마켓 리포트 11월 13일]",
+          "url": "https://www.newspim.com/news/view/20261113000334"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Ukrainian Corn Prices Firm as Harvest Advances and Black Sea Risks Persist",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak9rX19vSHNsRy0wdmwwSjRjbDROWTFyYUtCY2plWmpPcDBfUlJDU0hzNXFqMlhLeVUxZEduQTdZLUVkQ0ptamgtbjJxZjE0T3hhV3hjRlJjUW5jaUV5NXoyOFBMZ2ZxdTVUZk5EVDlJQnBGUmRFa0VhYUJjVS1jc1psX2RKei05U3RyQ3BJT3JqRmtnZHc?oc=5"
+        },
+        {
+          "title": "Remembering the role of our ports",
+          "url": "https://www.hellenicshippingnews.com/remembering-the-role-of-our-ports/"
+        },
+        {
+          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'매출 5조 눈앞' 코웨이, 삼성·LG 구독 공세에 안방 수성 시험대",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719171"
+        },
+        {
+          "title": "HMM, 내년부터 3년 간 대규모 컨테이너선 인도",
+          "url": "https://n.news.naver.com/mnews/article/014/0005603752?sid=101"
+        },
+        {
+          "title": "DC flags traffic congestion, drug menace and unauthorised constructions as priorities",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWU1qSzN3TkU5TWZUNHlPdzMtWjVsd0dTS2kxNUp3M3Z2T3VWNmVaUzZFcGRCbmlsMUtKWExpR19ERll1a3pfc3ZJcWZoNGVlX1I4aDV4ZU9CNnpMUVBxMzJRZUNrVTRtZ0RPaUhnME9aa2Y3REdrUXFjeU9oVFlUZ2JDZXdUbUphYno1Ulgya0xweU5YbG5ZdEhIZ0xFMkpWQzBUalVudmJxemFaeVJPbURCLThGbEZtano5NzliTEZIclNUcThGd1pVdXIzckNHdnVlWWhjMWFfNlBkTWxZeGZReGJ4blNyVV9EVW9xOTdIM3Nj0gH6AUFVX3lxTE1jNmc5T3huc0xtV0VwcWtNaHZnUkJLU29NNXpNaUtvSDdrYTZBSFVjMWhrOWNBUndIdHdjXzU4cG1KdHhET3FVR1BrWFBhTVlTX0N0ODZSVFdHZG9fYXFJbmpiS3V2MFlmall4U2xPY2RPTThxV01vU1hpZ2ZseW9reFk2bC1MME5SNEotZV9DUUpxS3ZPYjZPcmc4cGpudTU0QWo0a1pOTEVGTG9QZVBFNXNXN3N3QmFHeWJnM3JGWkZ4TEhNVGc1ekY4UEVwSDlwN1dLaEVTeUZ6QnMxODdueFdDWnJ6T1MzMS1xSzkyMVo2X2ZOTE95RGc?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 제재 완화하자…러시아 경유 수출 두 배 급증",
+          "url": "https://n.news.naver.com/mnews/article/015/0005353451?sid=101"
+        },
+        {
+          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+        },
+        {
+          "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
+          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 제재 완화하자…러시아 경유 수출 두 배 급증",
+          "url": "https://n.news.naver.com/mnews/article/015/0005353451?sid=101"
+        },
+        {
+          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+        },
+        {
+          "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+          "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/japan-bonds-fall-as-treasury-rout-extends-on-fed-hike-bets"
+        },
+        {
+          "title": "[한일경제연대] \"일본은 인프라 투자, 한국은 조선업 강점\"",
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=71955"
+        },
+        {
+          "title": "중·러와 손잡는 트럼프, 中에 막힌 다카이치…'재팬패싱' 우려",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004254"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "How a Taiwan crisis could paralyze Western ports without a single warship",
+          "url": "https://container-news.com/how-a-taiwan-crisis-could-paralyze-western-ports-without-a-single-warship/"
+        },
+        {
+          "title": "중·러와 손잡는 트럼프, 中에 막힌 다카이치…'재팬패싱' 우려",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004254"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "MPA opens applications for LNG floating storage unit licences",
+          "url": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
+        },
+        {
+          "title": "Air cargo puts tech to work on missed flights, delays, and wasted capacity",
+          "url": "https://theloadstar.com/air-cargo-puts-tech-to-work-on-missed-flights-delays-and-wasted-capacity/"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "대미투자 막전막후 생동감 넘쳐 … AI 기대·우려, 균형있게 보도를",
+          "url": "https://n.news.naver.com/mnews/article/009/0005762886?sid=102"
+        },
+        {
+          "title": "France Warns US Trade Policy Unlikely to Change After Midterms",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JpUzNkNnhIU1U1U19YaUdTc2tfVzNkWWpMbWhMcDFKWG1JYVc3ZXp5cGpjd3YxbW85ZGRJX2xOMU9BRWJFWUY3UUZFNW9PTmVGZzB4UF9oYU5CTFVoT1JLMkk2MXlvX2duT3FaMFF2SG81djA2aEZHbUJuWjBFZWZlNjBsdk5sel8wR2lSOXhfMXlnc3JzYkZaeGlDd05nVm11U2FXRkxQeFF4R2d4Y25mUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "\"독일 인건비 동유럽 5배, 더는 못 버텨\"…벤츠도 본국 공장 닫는다",
+          "url": "https://www.mt.co.kr/world/2026/11/13/2026111313553622177"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVA2LWE5ekxkcGtUU2Y1b2dTSEZTZHhHeF9GeWM0NFNla3BrSVJFT25SWDdwQjNPbGRPNFRKOU5EYXN6QXdvLW41dEFFWmlxcFNQSGtmVnlFRGdCY3dvWVJKYjJWLThpcjFqWDYzVjNQM2ZNeVRKbzNuSGVnQXRzNTFQcngtd0E?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-11-13T05:40:31Z"
+}
