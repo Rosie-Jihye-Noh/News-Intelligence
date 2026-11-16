@@ -1,0 +1,267 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 31,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[외환] 증시 급락에도 '킹원화'…네고에 1,330원대 초중반",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444958"
+        },
+        {
+          "title": "S&P500 선물, 엔비디아 실적·앤트로픽 IPO 주시하며 약보합…美 국채금리↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444951"
+        },
+        {
+          "title": "日 증시, 엔비디아 불확실성 여파에 장 초반 하락 전환",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444936"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 22,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "매매도 전세도 힘 빠지나…10월 서울 주택가격 석 달 연속 둔화",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444966"
+        },
+        {
+          "title": "S&P500 선물, 엔비디아 실적·앤트로픽 IPO 주시하며 약보합…美 국채금리↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444951"
+        },
+        {
+          "title": "'바람연금' 쏘아 올린 평창&에너지 대상 거머쥔 강원랜드",
+          "url": "https://news.mtn.co.kr/article/2026111614033789924"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 20,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[외환] 강달러 대외여건에도 원화는 무덤덤…2.00원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444934"
+        },
+        {
+          "title": "Hormuz Shipping Crisis: Iran Reports Fresh Drone Strikes, Tanker Mine Incidents",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTluc0lYc1NFVzhyckNtSEFvc1FCaTNibnQ2V1EwRGdPaFRQVG03b2Q5T0dUZUw1S2psbWN2d0hRdE9ud3NIcEN3cHVia1VZbHRSZU5TdWI0VWJha0NXeWs4bWVXM2ZpM0pwdTZwbVBvQUU2alJmcF9ySk9GS001NTh6bkhJSjRMd2JkdC1QSDJJX21ON25naWNuWnFZcXdwYk80YW5OeGZBb0k?oc=5"
+        },
+        {
+          "title": "“북한은 외국 침공 계획 없어, 이란이 더 위험해”…미국이 본 차이점...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003699761?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 19,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "미·중 입항료 중단 2개월 연장, ’27년 1월 9-10일까지",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58149"
+        },
+        {
+          "title": "트럼프·시진핑·푸틴 3자 회동 주요 의제는? '제2의 얄타' 우려도",
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89224"
+        },
+        {
+          "title": "증권가 농심 부산 녹산공장 가동으로 수출 확대 전망, 영업이익 2400억 ...",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452065"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "이란, 바레인 미군기지 공격…후티 또 리야드·아덴 동시 압박",
+          "url": "https://n.news.naver.com/mnews/article/056/0012294553?sid=104"
+        },
+        {
+          "title": "[영상] 이란, 이틀 만에 또 바레인 美기지 공격…후티도 공세 강화",
+          "url": "https://n.news.naver.com/mnews/article/001/0016443762?sid=104"
+        },
+        {
+          "title": "[굿모닝 오늘의 증시] 젠슨 황 '복귀 전시상황실' 구축…美 반도체 '갈팡...",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005962958"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Aerospace Stocks Shine as Anti-AI Flows Pour Into India",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/aerospace-stocks-shine-as-anti-ai-flows-pour-into-india"
+        },
+        {
+          "title": "호르무즈 유조선 공격 신고…한국 원유 수입, 중동산 비중 55.6%",
+          "url": "https://www.dailyt.co.kr/newsView/dlt202611160004"
+        },
+        {
+          "title": "中 AI칩 우회로 막으랬더니⋯러트닉, 가족기업 고객사 규제 완화 추진 ...",
+          "url": "https://www.etoday.co.kr/news/view/2648392"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "증권가 농심 부산 녹산공장 가동으로 수출 확대 전망, 영업이익 2400억 ...",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452065"
+        },
+        {
+          "title": "How a 5.0 Trustpilot score helped Bury logistics company win a national award",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DSGdnRGRucnF1d3dhcjg0ZHdnNzVwbHptVzR3NXp5bnNiWnJSSVdhNjFkNHhya3lFUFB1TlhCc184R2ZRTWNvQUxzQkhJWEgxb2UwbzBLa1NwV2tlWUFLaGJ1dmRQVWhSVlVMWkNJNG81YVZDa2pj?oc=5"
+        },
+        {
+          "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+          "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "젤렌스키, 스타링크·스타실드 제한 해제 촉구",
+          "url": "https://n.news.naver.com/mnews/article/018/0006410484?sid=104"
+        },
+        {
+          "title": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea"
+        },
+        {
+          "title": "정유 제품 對러시아 제재 완화와 정유船의 수요 관계는?",
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=94554"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "젤렌스키, 스타링크·스타실드 제한 해제 촉구",
+          "url": "https://n.news.naver.com/mnews/article/018/0006410484?sid=104"
+        },
+        {
+          "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+          "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+        },
+        {
+          "title": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[굿모닝 오늘의 증시] 젠슨 황 '복귀 전시상황실' 구축…美 반도체 '갈팡...",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005962958"
+        },
+        {
+          "title": "아덴으로 향하는 진격의 후티군…바브 알만데브 해협 함락으로 중동 전...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003699692?sid=104"
+        },
+        {
+          "title": "이란, 두 달만에 바레인 미군 시설 공격…후티, 사우디·예멘 공세",
+          "url": "https://n.news.naver.com/mnews/article/025/0003565418?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "日 증시, 엔비디아 불확실성 여파에 장 초반 하락 전환",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444936"
+        },
+        {
+          "title": "[한일경제연대]\"미·중 波高 속 '미들파워 연대', 선택 아닌 필수 생존 ...",
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=71974"
+        },
+        {
+          "title": "Investors Return to JGBs as Rate Outlook Shifts, SMBC Nikko Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/investors-return-to-jgbs-as-rate-outlook-shifts-smbc-nikko-says"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "엔비디아(NVDA) 사태, 한국 증시엔 기회?...월가 베테랑 \"미국 독주 끝났...",
+          "url": "http://coinreaders.com/270560"
+        },
+        {
+          "title": "[동북아 정세 브리핑] 미·중·러 첫 3자 정상회담 임박…한반도·대만해...",
+          "url": "http://kor.theasian.asia/archives/421943"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "France calls for added pressure on Houthis to end ‘unacceptable attacks’",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT21sVy1MamtYVWdXMUptU0NCZVY2RUJOUmZwNk1KS3J4Y1hkdjRWQjFwVVNTbmlQcE9INExfRlhJbi1yc0paWFdkamRua3czN2F1Y3J0OXNSRFIxMjVTRkRwUnIxa2xRVWFSNGpEaC1WYzZCQVlOZ3N2RVhzdk5GajUydnM0YWFyeG80dHN3VQ?oc=5"
+        },
+        {
+          "title": "French public sector unions call nationwide strike for 17 November",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1V1N0swaDZZaW5rRGtXdUdyQWM4M2tJUzl5VjhKMUlRWnlDNGQwalVhcnJMVXJrSkhZYkkyck9kbTU1RHNDR2tnWDRNT1NWbFFXdWRRZTR1TEJxcHY2VnhZVVdhZmdONDFURjE1REpHSHF4aDNEeVY0SVAzZmRicGx2ekExaVVmNTF3eWdVYw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "치즈 하나 오는데 20일이나…전쟁에 꼬인 두바이 식탁",
+          "url": "https://n.news.naver.com/mnews/article/092/0002445376?sid=103"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "中 AI칩 우회로 막으랬더니⋯러트닉, 가족기업 고객사 규제 완화 추진 ...",
+          "url": "https://www.etoday.co.kr/news/view/2648392"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 15,
+  "generated_at": "2026-11-16T05:26:31Z"
+}
