@@ -1,0 +1,279 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 32,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[도쿄환시] 달러-엔, 위험회피 심리에 하락…159엔선 초반",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445184"
+        },
+        {
+          "title": "美의회 8개 위원회, 엔비디아발 안보·상무부 태만 조사 계획",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445161"
+        },
+        {
+          "title": "日 증시, 美 기술주 약세에 1%대 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445147"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 31,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "美의회 8개 위원회, 엔비디아발 안보·상무부 태만 조사 계획",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445161"
+        },
+        {
+          "title": "FESCO, 러 남부지역 철도운송 강화",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61250"
+        },
+        {
+          "title": "코스피 5000선 붕괴…두 달 새 시총 1700조 증발",
+          "url": "http://www.metroseoul.co.kr/article/20261117500437"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 22,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "전 세계 정치·경제계 모두가 '19일'을 숨죽여 지켜보는 이유 [AI에 안나...",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887462"
+        },
+        {
+          "title": "브렌트유 91.70달러, 호르무즈 위협에도 공급 과잉론에 밀렸다",
+          "url": "https://www.tokenpost.kr/news/economy/439639"
+        },
+        {
+          "title": "밴스 美 부통령 \"이란 전쟁 장기전으로 끌고 가지 않을 것\"…트럼프 임...",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=398552"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 19,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "한국투자증권, ELW 258종목 신규 상장…지수형·종목형 혼합",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445171"
+        },
+        {
+          "title": "해운협회, “장금상선, 최근 공격받은 유조선은 자사 소유 아냐”",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323551"
+        },
+        {
+          "title": "‘2026 북극협력주간’ 12월 7일 개막",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=334010"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[저녁 뉴스브리핑] 골드만·밀레니엄 BTC ETF 12억달러 넘게 보유 外",
+          "url": "https://www.tokenpost.kr/news/briefing/439651"
+        },
+        {
+          "title": "Middle East war, latest news. Yemen: the Houthis now in control of Bab el-Mandeb following the withdrawal of the pro-Saudi forces",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHo1b1JPUTUwaHpEOGlUY1ZOLVVtUmUzdDdXZ1AwTzlhQUNPNDlKSzlhM0xCUU9aLXNONlNTdHVOX3QtWlE5Y09HQUthczV3bG0tcW4tdnc5QzJ0Y1JGdUx2RFVoZ21fVnF4OXFxOWFfdFVfR3lNdFdtMFVVc19hZFFseGlMNVhTN0JFalpMRkZVdEJvWHpmaXhfMVlwcE9rZUJzakRsb3pNeW40ZjVuZnl3eDdEY193V0E?oc=5"
+        },
+        {
+          "title": "협상판 흔들고 싶은 이란… 잠잠한 트럼프 건드리며 무력 과시",
+          "url": "https://n.news.naver.com/mnews/article/081/0003700003?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[저녁 뉴스브리핑] 골드만·밀레니엄 BTC ETF 12억달러 넘게 보유 外",
+          "url": "https://www.tokenpost.kr/news/briefing/439651"
+        },
+        {
+          "title": "국제유가 3%대 하락…구리 4개월 만에 최저 기록",
+          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38525"
+        },
+        {
+          "title": "Middle East war, latest news. Yemen: the Houthis now in control of Bab el-Mandeb following the withdrawal of the pro-Saudi forces",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHo1b1JPUTUwaHpEOGlUY1ZOLVVtUmUzdDdXZ1AwTzlhQUNPNDlKSzlhM0xCUU9aLXNONlNTdHVOX3QtWlE5Y09HQUthczV3bG0tcW4tdnc5QzJ0Y1JGdUx2RFVoZ21fVnF4OXFxOWFfdFVfR3lNdFdtMFVVc19hZFFseGlMNVhTN0JFalpMRkZVdEJvWHpmaXhfMVlwcE9rZUJzakRsb3pNeW40ZjVuZnl3eDdEY193V0E?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "전 세계 정치·경제계 모두가 '19일'을 숨죽여 지켜보는 이유 [AI에 안나...",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887462"
+        },
+        {
+          "title": "트럼프 차남 투자 美 휴머노이드 스타트업 존속 위기…직원 급여도 못 ...",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716075"
+        },
+        {
+          "title": "APEC 무대의 미중러 회담과 중국의 노림수",
+          "url": "https://www.newspim.com/news/view/20261117000792"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "FESCO, 러 남부지역 철도운송 강화",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61250"
+        },
+        {
+          "title": "전 세계 정치·경제계 모두가 '19일'을 숨죽여 지켜보는 이유 [AI에 안나...",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887462"
+        },
+        {
+          "title": "트럼프·푸틴 수송기 中선전 도착…세계 시선 APEC에 쏠린다",
+          "url": "https://n.news.naver.com/mnews/article/421/0009293424?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[도쿄환시] 달러-엔, 위험회피 심리에 하락…159엔선 초반",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445184"
+        },
+        {
+          "title": "日 증시, 美 기술주 약세에 1%대 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445147"
+        },
+        {
+          "title": "LNG Bunker Snapshot: Singapore price drops as JKM moves to January",
+          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-singapore-price-drops-as-jkm-moves-to-january/"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Middle East latest: Tanker attacked in Strait of Hormuz off Oman, UKMTO says",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTl5RWVWNzJOd1BBVC1RZmR6aHBLUFZTaEtvZkFYVEtzV2N4c01TS05Oek15M2U2NS1lZk5MQkI4QU8zSm9va1JlU213c0dwS3doMXJ6N1RSZVA3OWUzbVI3Vk16MGtobTRKVTNQRFJrMTRvQVlNTzFRY2Z3dG82MWRGb21pNjF0djB0VjFGVVplRE9IRVNoY2ZtQjVkRkk?oc=5"
+        },
+        {
+          "title": "하락하던 유조선 운임 다시 상승",
+          "url": "https://www.naeil.com/news/read/609035?ref=naver"
+        },
+        {
+          "title": "김인현칼럼(132)/해사법원 시대 앞두고 홍콩에서 본 것들-2026년 홍콩 해상법 동향 및 방문기",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333993"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "도요타 임금의 1.6배...현대차, 고임금 경쟁력 우려",
+          "url": "https://www.newspim.com/news/view/20261116000811"
+        },
+        {
+          "title": "Jafza opens India's first overseas chemical warehouse to accelerate deliveries",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkxRb2lmUy1FUU9uSzV6VG84a0UwMktRZzBtdmd5eXNwYk1wcHFaaTlwUWppQ1FBc2NMUWVaVnFSTEp1QTlWeFNVdVhTcDl5d09DOXBzWFh0YmRGdVAteHF4Q3ZzN05QaGpUM3lIcW9FaVBXWE1NZTNsSkI1eFRCVS12d1BYUzA?oc=5"
+        },
+        {
+          "title": "DHL Global Forwarding adds India through new Asia-Europe freighter flight",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWlZV1BMNWhHMExqRU1FbXFRSWtTTzBOSkVtMFVneG4zcU9BRWx2RTUxNG9RM0sxSlRGTjJvMU1xSDFUTVBUaUZ5UFEyd2pvS0hqOTZ0cWZwNDN6MEp0UC1rTWhoc1M4LWtoMjFWbGs5RmZEQUg2SjhzMnkzMGphV2toT0tsRGcta0Q5U3YzVXd2MERzdWpZNzA4SGVkNlpJRlB2SlYwU2dSbWwwOVA5QkFpY0MzbU91TjRTTTgwYUR0VmtqaklTSg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "[안전상황실·17일] 공주서 음주운전 사고로 오토바이 운전자 사망",
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247541"
+        },
+        {
+          "title": "French ports face shutdown in 17 November national strike",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVg1ZWM1V1NNdzVWT0dkWGV6a3NqN2g3QWtNb0Q0V181YmFxbHNaVEw5bW1lZHhQTm91YVVvQnB4ZmppeUo4MlNfa0M2dWhqblUwX1NvcnppX3l6VGY3cWphTUlYeUY1ZGJBRnFCejc3WlBqTTk1U2k0cGM4eFRWR3RZbXBobzFRMFhlanhUUE1Idw?oc=5"
+        },
+        {
+          "title": "France’s La Poste hacked",
+          "url": "https://theloadstar.com/frances-la-poste-hacked/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "해운협회, “장금상선, 최근 공격받은 유조선은 자사 소유 아냐”",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323551"
+        },
+        {
+          "title": "치즈 하나 오는데 20일이나…전쟁에 꼬인 두바이 식탁",
+          "url": "https://n.news.naver.com/mnews/article/092/0002445376?sid=103"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "결의 한 달 만에 해냈다 … “K-포도, 신선농산물 단일 품목 최초 수출...",
+          "url": "https://www.newsam.co.kr/news/article.html?no=44496"
+        },
+        {
+          "title": "K-포도, 신선농산물 단일 품목 최초 수출 1억 달러 돌파",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041219"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "LNG Bunker Snapshot: Singapore price drops as JKM moves to January",
+          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-singapore-price-drops-as-jkm-moves-to-january/"
+        },
+        {
+          "title": "김인현칼럼(132)/해사법원 시대 앞두고 홍콩에서 본 것들-2026년 홍콩 해상법 동향 및 방문기",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333993"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 15,
+  "generated_at": "2026-11-17T07:05:14Z"
+}
