@@ -1,0 +1,282 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 45,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "여수광양항만공사, 항만종사자 한랭질환 예방 캠페인 실시",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323599"
+        },
+        {
+          "title": "“북극 미래와 국제협력 논의”…‘2026 북극협력주간’ 개최",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323592"
+        },
+        {
+          "title": "KOMSA고흥, 겨울 대비 합동 점검",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=334026"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "루비오 \"트럼프-김정은 회동 미정…대화할 준비 돼 있어\"(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445366"
+        },
+        {
+          "title": "\"트럼프, 선거패배 후 '경제참모 실종'…외교로 눈 돌리는 레임덕 패턴\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445350"
+        },
+        {
+          "title": "KPMG \"美 전산장애 사태, 결국 연준이 막아야 할 인플레이션\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445348"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 26,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+          "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html"
+        },
+        {
+          "title": "US Strikes Iranian Missile Site after Bahrain Attacks",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video"
+        },
+        {
+          "title": "\"美-이란, 거의 매일 교전하지만…국방부, 상당수 공개 안 해\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009296393?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 21,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "신압록강대교 타고 활발해지는 북중 교류…제재 무력화 우려도",
+          "url": "https://n.news.naver.com/mnews/article/018/0006411900?sid=100"
+        },
+        {
+          "title": "시진핑 “개방은 진보, 폐쇄는 낙후 초래”…보호주의 비판하며 美겨냥",
+          "url": "https://n.news.naver.com/mnews/article/016/0002725234?sid=104"
+        },
+        {
+          "title": "푸틴, 트럼프·시진핑 만나기 전 \"대러제재는 실패\" 선언",
+          "url": "https://n.news.naver.com/mnews/article/001/0016449590?sid=100"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 18,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "🇾🇪🇸🇦 Saudi-backed forces pulled back from the Bab el-Mandeb coast to protect Aden, so the Houthis are now pushing toward the city. The Houthis advanced inland and along the coast, reaching roughly 60 km from Aden. Control near Bab el-Mandeb could g",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yeFJhbzBPaDJuZndFVjZ3eDcwU3J6UE9KMWROampHVWxoNnN1UGl0SHdrSF9OT21lNEV5TEdQbUxrWVlYbFJSX2lHTjFRUnFxN3BGYXhabW83QnQ3LV9RZDJQbW50MElyMHJMMQ?oc=5"
+        },
+        {
+          "title": "국제유가, 美재고 528만배럴 급증에 하락…호르무즈 불안은 여전",
+          "url": "https://n.news.naver.com/mnews/article/018/0006411781?sid=101"
+        },
+        {
+          "title": "환율 1338.2원 마감…케슘섬 공습에 유가 3거래일 만에 반등",
+          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38541"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 17,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "송유관 뚫리고 ‘홍해 길목’까지 뺏겼다…사우디·예멘 정부군 ‘사면...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003700587?sid=104"
+        },
+        {
+          "title": "후티 “사우디 최대 송유관에 공습”…사우디 폭격에 보복",
+          "url": "https://n.news.naver.com/mnews/article/025/0003566057?sid=104"
+        },
+        {
+          "title": "후티 \"사우디 송유관 타격\"‥예멘 내전 격화 속 민간인 피해 속출",
+          "url": "https://n.news.naver.com/mnews/article/214/0001536337?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "루비오 \"트럼프-김정은 회동 미정…대화할 준비 돼 있어\"(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445366"
+        },
+        {
+          "title": "김정은, 트럼프 만날 결심?...칭다오·상하이도 거론 [뉴스퀘어 2PM]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002434593?sid=104"
+        },
+        {
+          "title": "'푸틴의 자존심' 크림대교, 우크라 공격에 도로 붕괴[영상]",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111810551433410"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "\"트럼프, 선거패배 후 '경제참모 실종'…외교로 눈 돌리는 레임덕 패턴\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445350"
+        },
+        {
+          "title": "Black Sea Grain Trade Shifts to the Baltic",
+          "url": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/"
+        },
+        {
+          "title": "Fresh tanker attack in Hormuz highlights ongoing threats facing Gulf shipping",
+          "url": "https://www.hellenicshippingnews.com/fresh-tanker-attack-in-hormuz-highlights-ongoing-threats-facing-gulf-shipping/"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "바이든 회고록 \"일본, 한국 여성 성노예화...용서 어려운 만행\"",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111813502112965"
+        },
+        {
+          "title": "연간 수출 5000억 달러 눈앞 'K-반도체'…美 통상 압박 '제2의 일본' 우려...",
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=304059"
+        },
+        {
+          "title": "최태원·日 요미우리, 한일 민간협력 플랫폼 출범…첫 의제는 에너지 안...",
+          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50676"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "김정은, 트럼프 만날 결심?...칭다오·상하이도 거론 [뉴스퀘어 2PM]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002434593?sid=104"
+        },
+        {
+          "title": "'푸틴의 자존심' 크림대교, 우크라 공격에 도로 붕괴[영상]",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111810551433410"
+        },
+        {
+          "title": "우크라 '푸틴 자존심' 크림대교 때리자… 美국방차관 \"러 공격 역효과만...",
+          "url": "https://n.news.naver.com/mnews/article/469/0000966243?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "French Dockers Stop Work for 24 Hours as Ports Face a Third Strike Call in Under Three Weeks",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE43MWZ0VE4yUjBVUVRIX25WSER1ZlNGYmJ1aThhbzFtelpNaDRaTUxmdllsOGlwbFU3RTlFTm5oU2d0VEtscXhWbEMxTGh2dExDS1JMdTltMzM4TUdEU2txTzdfOVJBb1owRVNnRjFJT2FNNS1QMTNyX0NyTXJwZ1BPckloeGlMSDVRRkxrOGd0YlR3VmV4OUxyLWpVRTFabHREal9KZmczZEdpdG83a3d1ZFdkUU91N3c?oc=5"
+        },
+        {
+          "title": "French port workers join nationwide strike",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDdxTi1xN09hLTUwTkxpM1NOMVJYamNMcmRHYTFQUjJhYS1lU1QzTi01NHItcTgzX1R3WGJQcHZIb29vaDVma0d2RXphQzdvMU1FOEhPUGd0cWVIV3J4Z2dRS1lfS3lGcVROMGhPSzYzUENoLWx0TkY4bjBkak9tckprY1FHaHlRa2RiVlpmTDZhQjNGRzNhUW9GTFQ0dFRNZFhuX0dn?oc=5"
+        },
+        {
+          "title": "[안전상황실·17일] 공주서 음주운전 사고로 오토바이 운전자 사망",
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247541"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "More pain for India-Gulf shippers as costly box returns add to rising rates",
+          "url": "https://theloadstar.com/more-pain-for-india-gulf-shippers-as-costly-box-returns-add-to-rising-rates/"
+        },
+        {
+          "title": "도요타 임금의 1.6배...현대차, 고임금 경쟁력 우려",
+          "url": "https://www.newspim.com/news/view/20261116000811"
+        },
+        {
+          "title": "DHL Global Forwarding adds India through new Asia-Europe freighter flight",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWlZV1BMNWhHMExqRU1FbXFRSWtTTzBOSkVtMFVneG4zcU9BRWx2RTUxNG9RM0sxSlRGTjJvMU1xSDFUTVBUaUZ5UFEyd2pvS0hqOTZ0cWZwNDN6MEp0UC1rTWhoc1M4LWtoMjFWbGs5RmZEQUg2SjhzMnkzMGphV2toT0tsRGcta0Q5U3YzVXd2MERzdWpZNzA4SGVkNlpJRlB2SlYwU2dSbWwwOVA5QkFpY0MzbU91TjRTTTgwYUR0VmtqaklTSg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "AI rewires finance as geopolitical risks intertwine",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPcEhrdU45WUM4dnBISnk3UlFVa1NIQy1udk9VUXBrVGMwa0FBckx0QUM3T0hmNHZFSGg1eWtEWWRoUXpwM1VEV2Qxa21MWl93YmdSUFRYUFBZeFdpZWZtOW9ocEl1enEyOVM0bFlmblNCX3BrLWVFZVY4THg?oc=5"
+        },
+        {
+          "title": "김인현칼럼(132)/해사법원 시대 앞두고 홍콩에서 본 것들-2026년 홍콩 해상법 동향 및 방문기",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333993"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "몰렉스, 2027년 커넥터 및 전자 산업 분야 전망 발표… AI·시뮬레이션 ...",
+          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28501"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "“일 더 안 하면 공장 폐쇄”…벤츠, ‘독일산’ 딱지 떼나?",
+          "url": "https://n.news.naver.com/mnews/article/056/0012296249?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "치즈 하나 오는데 20일이나…전쟁에 꼬인 두바이 식탁",
+          "url": "https://n.news.naver.com/mnews/article/092/0002445376?sid=103"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-11-18T06:29:19Z"
+}
