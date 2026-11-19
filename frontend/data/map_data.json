@@ -2,187 +2,282 @@
   "countries": [
     {
       "code": "KR",
-      "count": 45,
+      "count": 31,
       "risk_level": "high",
       "articles": [
         {
-          "title": "여수광양항만공사, 항만종사자 한랭질환 예방 캠페인 실시",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323599"
+          "title": "경제 6단체 \"수출 1조달러 달성 환영…투자·일자리 창출로 이어져야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445564"
         },
         {
-          "title": "“북극 미래와 국제협력 논의”…‘2026 북극협력주간’ 개최",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323592"
+          "title": "원화 10% 절상하면 가구당 생활비 16만5천원 절감…수출기업 채산성은 악화",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445540"
         },
         {
-          "title": "KOMSA고흥, 겨울 대비 합동 점검",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=334026"
-        }
-      ]
-    },
-    {
-      "code": "US",
-      "count": 30,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "루비오 \"트럼프-김정은 회동 미정…대화할 준비 돼 있어\"(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445366"
-        },
-        {
-          "title": "\"트럼프, 선거패배 후 '경제참모 실종'…외교로 눈 돌리는 레임덕 패턴\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445350"
-        },
-        {
-          "title": "KPMG \"美 전산장애 사태, 결국 연준이 막아야 할 인플레이션\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445348"
-        }
-      ]
-    },
-    {
-      "code": "IR",
-      "count": 26,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-          "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html"
-        },
-        {
-          "title": "US Strikes Iranian Missile Site after Bahrain Attacks",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video"
-        },
-        {
-          "title": "\"美-이란, 거의 매일 교전하지만…국방부, 상당수 공개 안 해\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009296393?sid=104"
+          "title": "삼성바이오로직스 노조, 한국노총 선택…노사 갈등 장기화 조짐",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147263"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 21,
+      "count": 26,
       "risk_level": "high",
       "articles": [
         {
-          "title": "신압록강대교 타고 활발해지는 북중 교류…제재 무력화 우려도",
-          "url": "https://n.news.naver.com/mnews/article/018/0006411900?sid=100"
+          "title": "경제 6단체 \"수출 1조달러 달성 환영…투자·일자리 창출로 이어져야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445564"
         },
         {
-          "title": "시진핑 “개방은 진보, 폐쇄는 낙후 초래”…보호주의 비판하며 美겨냥",
-          "url": "https://n.news.naver.com/mnews/article/016/0002725234?sid=104"
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
         },
         {
-          "title": "푸틴, 트럼프·시진핑 만나기 전 \"대러제재는 실패\" 선언",
-          "url": "https://n.news.naver.com/mnews/article/001/0016449590?sid=100"
+          "title": "트럼프 \"글로벌리스트식 AI 규제 반대…산업 경쟁력 저해할 것\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005443625?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 24,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "경제 6단체 \"수출 1조달러 달성 환영…투자·일자리 창출로 이어져야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445564"
+        },
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "트럼프 \"글로벌리스트식 AI 규제 반대…산업 경쟁력 저해할 것\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005443625?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 22,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "IEA \"중동 위기, 역대 최대 에너지 위협…1970년대 오일쇼크 능가\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009299412?sid=104"
+        },
+        {
+          "title": "[GOAL 인터뷰] ‘아시안컵 연기→韓 축구 절호의 기회’ 이승우의 예의...",
+          "url": "https://m.sports.naver.com/kfootball/article/216/0000143836"
         }
       ]
     },
     {
       "code": "SA",
-      "count": 18,
+      "count": 16,
       "risk_level": "high",
       "articles": [
         {
-          "title": "🇾🇪🇸🇦 Saudi-backed forces pulled back from the Bab el-Mandeb coast to protect Aden, so the Houthis are now pushing toward the city. The Houthis advanced inland and along the coast, reaching roughly 60 km from Aden. Control near Bab el-Mandeb could g",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yeFJhbzBPaDJuZndFVjZ3eDcwU3J6UE9KMWROampHVWxoNnN1UGl0SHdrSF9OT21lNEV5TEdQbUxrWVlYbFJSX2lHTjFRUnFxN3BGYXhabW83QnQ3LV9RZDJQbW50MElyMHJMMQ?oc=5"
+          "title": "[GOAL 인터뷰] ‘아시안컵 연기→韓 축구 절호의 기회’ 이승우의 예의...",
+          "url": "https://m.sports.naver.com/kfootball/article/216/0000143836"
         },
         {
-          "title": "국제유가, 美재고 528만배럴 급증에 하락…호르무즈 불안은 여전",
-          "url": "https://n.news.naver.com/mnews/article/018/0006411781?sid=101"
+          "title": "사우디 연합군 \"후티, 리야드에 미사일 공격…물적 피해 발생\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009299014?sid=104"
         },
         {
-          "title": "환율 1338.2원 마감…케슘섬 공습에 유가 3거래일 만에 반등",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38541"
+          "title": "사우디 ‘네옴시티’는 우째 됐나 4(完) : 빈 살만에게 닥친 가장 큰 문...",
+          "url": "http://www.ddanzi.com/899227533"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 17,
+      "count": 15,
       "risk_level": "high",
       "articles": [
         {
-          "title": "송유관 뚫리고 ‘홍해 길목’까지 뺏겼다…사우디·예멘 정부군 ‘사면...",
-          "url": "https://n.news.naver.com/mnews/article/081/0003700587?sid=104"
+          "title": "사우디 연합군 \"후티, 리야드에 미사일 공격…물적 피해 발생\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009299014?sid=104"
         },
         {
-          "title": "후티 “사우디 최대 송유관에 공습”…사우디 폭격에 보복",
-          "url": "https://n.news.naver.com/mnews/article/025/0003566057?sid=104"
+          "title": "사우디 ‘네옴시티’는 우째 됐나 4(完) : 빈 살만에게 닥친 가장 큰 문...",
+          "url": "http://www.ddanzi.com/899227533"
         },
         {
-          "title": "후티 \"사우디 송유관 타격\"‥예멘 내전 격화 속 민간인 피해 속출",
-          "url": "https://n.news.naver.com/mnews/article/214/0001536337?sid=104"
+          "title": "사우디 왕세자, 美중부사령관 면담…후티 대응 군사협력 논의",
+          "url": "https://n.news.naver.com/mnews/article/421/0009298605?sid=104"
         }
       ]
     },
     {
-      "code": "RU",
-      "count": 12,
+      "code": "IN",
+      "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "루비오 \"트럼프-김정은 회동 미정…대화할 준비 돼 있어\"(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445366"
+          "title": "벤츠 코리아, 전기 SUV '디 올-뉴 일렉트릭 GLB' 국내 출시",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445523"
         },
         {
-          "title": "김정은, 트럼프 만날 결심?...칭다오·상하이도 거론 [뉴스퀘어 2PM]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002434593?sid=104"
+          "title": "DHL launches new China–India–Europe air freight service",
+          "url": "https://container-news.com/dhl-launches-new-china-india-europe-air-freight-service/"
         },
         {
-          "title": "'푸틴의 자존심' 크림대교, 우크라 공격에 도로 붕괴[영상]",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111810551433410"
+          "title": "DHL Forwarding launches first-ever dedicated freighter service for India",
+          "url": "https://www.freightwaves.com/news/dhl-forwarding-launches-first-ever-dedicated-freighter-service-for-india"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 11,
+      "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "\"트럼프, 선거패배 후 '경제참모 실종'…외교로 눈 돌리는 레임덕 패턴\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445350"
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
         },
         {
-          "title": "Black Sea Grain Trade Shifts to the Baltic",
-          "url": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/"
+          "title": "Labour shortages and high logistics costs constrain Ukrainian apple exports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1Q2YTZUSmIxQmV1cHRjZXBtSjRFMGVEaHMzLWhFMFVVWkxieGhHaUt3SjhBbGxEbjJ4eGl4OWJLX2F0Z1lKZzNDUzhDdEtpbG1IcHJ1bmkwcUowaVFDb2I0djFmNFVHZGp1RjhUZjFDUnQyN0R2VlFCZVpxZE5ELUhjZjNTelJoMzU5S050UG80dkxKZXBlN1FJcGdqaVcyZURXN0NtOUNIcG5uU3p1dg?oc=5"
         },
         {
-          "title": "Fresh tanker attack in Hormuz highlights ongoing threats facing Gulf shipping",
-          "url": "https://www.hellenicshippingnews.com/fresh-tanker-attack-in-hormuz-highlights-ongoing-threats-facing-gulf-shipping/"
+          "title": "Ukrainian apple exports face mounting pressure from labour shortages and logistics costs",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRvR01ybUxubTFCTEYzYTBadW8wbUY4VXRBdXZzdFBYNjRtbXZVSEUyYzBDekRma0RaaE12M1hGX1RRWkcwVjNmUHBQVWs1bWdwWDJnRVFqZDN1aS1WTHhtN2t4VHpOeVVqalJpbTM5WWxOUVR1Q3ZRcjgwejRONzlXdGdtZmZZQ0VNaTMxNGV2cE1Qc0dLUUdqQ1hUMlUyeklYWndpelpxWlZ5WDdFcjhuZENxZ1RHZnE4UnJ0SlhCZlNUcHAzQWtIMTYtWGZJc3ROdGJ1VThSU0tITE9n?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+          "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "트럼프 \"글로벌리스트식 AI 규제 반대…산업 경쟁력 저해할 것\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005443625?sid=104"
+        },
+        {
+          "title": "CEVA Logistics and SIT launch AI and robotics lab in Singapore",
+          "url": "https://container-news.com/ceva-logistics-and-sit-launch-ai-and-robotics-lab-in-singapore/"
+        },
+        {
+          "title": "CEVA Logistics and Singapore Institute of Technology launch warehouse automation innovation lab",
+          "url": "https://aircargoweek.com/ceva-logistics-and-singapore-institute-of-technology-launch-warehouse-automation-innovation-lab/"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "경제 6단체 \"수출 1조달러 달성 환영…투자·일자리 창출로 이어져야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445564"
+        },
+        {
+          "title": "韓, 세계 4번째 수출 1조달러 돌파",
+          "url": "https://n.news.naver.com/mnews/article/030/0003487610?sid=100"
+        },
+        {
+          "title": "올리면 반토막, 동결은 적자⋯ 코나·싼타페 앞둔 현대차 ‘차값 딜레마...",
+          "url": "https://www.viva100.com/article/20261118501026"
         }
       ]
     },
     {
       "code": "JP",
-      "count": 11,
-      "risk_level": "high",
+      "count": 3,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "바이든 회고록 \"일본, 한국 여성 성노예화...용서 어려운 만행\"",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111813502112965"
+          "title": "최태원·요미우리 '한일 빅텐트' 출범… 운영 방식과 의제는?",
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89297"
         },
         {
-          "title": "연간 수출 5000억 달러 눈앞 'K-반도체'…美 통상 압박 '제2의 일본' 우려...",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=304059"
+          "title": "바이오시밀러 처방 확대 속도 내는 정부...공급 안정성은 과제",
+          "url": "https://www.pharmnews.com/news/articleView.html?idxno=308107"
         },
         {
-          "title": "최태원·日 요미우리, 한일 민간협력 플랫폼 출범…첫 의제는 에너지 안...",
-          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50676"
+          "title": "계란값 급등 겪은 한국…농경연 \"식량 공급난 미리 대비해야\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014327348?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "French Risks Have Traders Betting Euro’s Slide Is Far From Over",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency"
+        },
+        {
+          "title": "[안전상황실·17일] 공주서 음주운전 사고로 오토바이 운전자 사망",
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247541"
+        },
+        {
+          "title": "French ports face shutdown in 17 November national strike",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVg1ZWM1V1NNdzVWT0dkWGV6a3NqN2g3QWtNb0Q0V181YmFxbHNaVEw5bW1lZHhQTm91YVVvQnB4ZmppeUo4MlNfa0M2dWhqblUwX1NvcnppX3l6VGY3cWphTUlYeUY1ZGJBRnFCejc3WlBqTTk1U2k0cGM4eFRWR3RZbXBobzFRMFhlanhUUE1Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "이란, 쿠웨이트 미군기지·바레인 공격… 중동 긴장 고조",
+          "url": "https://n.news.naver.com/mnews/article/047/0002536449?sid=104"
+        },
+        {
+          "title": "국제유가 하락…WTI 낙폭 확대에 브렌트유와 격차 벌어져",
+          "url": "https://www.g-enews.com/view.php?ud=2026111820153267559a1f309431_1"
+        },
+        {
+          "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5"
         }
       ]
     },
     {
       "code": "UA",
-      "count": 9,
-      "risk_level": "high",
+      "count": 3,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "김정은, 트럼프 만날 결심?...칭다오·상하이도 거론 [뉴스퀘어 2PM]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002434593?sid=104"
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
         },
         {
-          "title": "'푸틴의 자존심' 크림대교, 우크라 공격에 도로 붕괴[영상]",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111810551433410"
+          "title": "Russian attacks and logistics squeeze Ukraine’s rapeseed market",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzY0X2d5dE5ETUJRVHUtTnVsa1hSUURoRXNPNG1RcmFDSlp2N0hUaHZoLWowdnZkeHZVZ195U19JT0JXSmYtNElfOEUySm45VUZsTmxrQVg2NFZIcENGQmRBZzZiZXNwUHdZMmF1azhEa24xVzZUZGRPREdDLTZfWnRiMF9lTFFJWnpZOG5WZVJPYmVzU21PTUpB?oc=5"
         },
         {
           "title": "우크라 '푸틴 자존심' 크림대교 때리자… 美국방차관 \"러 공격 역효과만...",
@@ -191,92 +286,21 @@
       ]
     },
     {
-      "code": "FR",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "French Dockers Stop Work for 24 Hours as Ports Face a Third Strike Call in Under Three Weeks",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE43MWZ0VE4yUjBVUVRIX25WSER1ZlNGYmJ1aThhbzFtelpNaDRaTUxmdllsOGlwbFU3RTlFTm5oU2d0VEtscXhWbEMxTGh2dExDS1JMdTltMzM4TUdEU2txTzdfOVJBb1owRVNnRjFJT2FNNS1QMTNyX0NyTXJwZ1BPckloeGlMSDVRRkxrOGd0YlR3VmV4OUxyLWpVRTFabHREal9KZmczZEdpdG83a3d1ZFdkUU91N3c?oc=5"
-        },
-        {
-          "title": "French port workers join nationwide strike",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDdxTi1xN09hLTUwTkxpM1NOMVJYamNMcmRHYTFQUjJhYS1lU1QzTi01NHItcTgzX1R3WGJQcHZIb29vaDVma0d2RXphQzdvMU1FOEhPUGd0cWVIV3J4Z2dRS1lfS3lGcVROMGhPSzYzUENoLWx0TkY4bjBkak9tckprY1FHaHlRa2RiVlpmTDZhQjNGRzNhUW9GTFQ0dFRNZFhuX0dn?oc=5"
-        },
-        {
-          "title": "[안전상황실·17일] 공주서 음주운전 사고로 오토바이 운전자 사망",
-          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247541"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "More pain for India-Gulf shippers as costly box returns add to rising rates",
-          "url": "https://theloadstar.com/more-pain-for-india-gulf-shippers-as-costly-box-returns-add-to-rising-rates/"
-        },
-        {
-          "title": "도요타 임금의 1.6배...현대차, 고임금 경쟁력 우려",
-          "url": "https://www.newspim.com/news/view/20261116000811"
-        },
-        {
-          "title": "DHL Global Forwarding adds India through new Asia-Europe freighter flight",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWlZV1BMNWhHMExqRU1FbXFRSWtTTzBOSkVtMFVneG4zcU9BRWx2RTUxNG9RM0sxSlRGTjJvMU1xSDFUTVBUaUZ5UFEyd2pvS0hqOTZ0cWZwNDN6MEp0UC1rTWhoc1M4LWtoMjFWbGs5RmZEQUg2SjhzMnkzMGphV2toT0tsRGcta0Q5U3YzVXd2MERzdWpZNzA4SGVkNlpJRlB2SlYwU2dSbWwwOVA5QkFpY0MzbU91TjRTTTgwYUR0VmtqaklTSg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "SG",
+      "code": "VN",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "AI rewires finance as geopolitical risks intertwine",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPcEhrdU45WUM4dnBISnk3UlFVa1NIQy1udk9VUXBrVGMwa0FBckx0QUM3T0hmNHZFSGg1eWtEWWRoUXpwM1VEV2Qxa21MWl93YmdSUFRYUFBZeFdpZWZtOW9ocEl1enEyOVM0bFlmblNCX3BrLWVFZVY4THg?oc=5"
+          "title": "[인터뷰] 베트남 투자 공식 달라졌다...저비용 생산기지보다 인력·공급...",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320756"
         },
         {
-          "title": "김인현칼럼(132)/해사법원 시대 앞두고 홍콩에서 본 것들-2026년 홍콩 해상법 동향 및 방문기",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333993"
-        }
-      ]
-    },
-    {
-      "code": "VN",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "몰렉스, 2027년 커넥터 및 전자 산업 분야 전망 발표… AI·시뮬레이션 ...",
-          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28501"
-        }
-      ]
-    },
-    {
-      "code": "DE",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "“일 더 안 하면 공장 폐쇄”…벤츠, ‘독일산’ 딱지 떼나?",
-          "url": "https://n.news.naver.com/mnews/article/056/0012296249?sid=104"
-        }
-      ]
-    },
-    {
-      "code": "AE",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "치즈 하나 오는데 20일이나…전쟁에 꼬인 두바이 식탁",
-          "url": "https://n.news.naver.com/mnews/article/092/0002445376?sid=103"
+          "title": "Addressing traffic congestion in some industrial zones.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEVZWTRxbGwzNjlxaE82OXlEQllWak5CbnFDM3ZkTjl2ZmppWE9TNDBZOWx6S2c5RkN2eWR0VlFBTThjSTM3bzR6UjQzUTB3Tk1pdlIxbDh6NTFOSzkzdjZnTERldjJsaHRscDhKM2RYVHJTRzRXRFFyX2dIUE8zM2MxT1MyRzhZ?oc=5"
         }
       ]
     }
   ],
   "total_crisis_countries": 16,
-  "generated_at": "2026-11-18T06:29:19Z"
+  "generated_at": "2026-11-19T06:30:51Z"
 }
