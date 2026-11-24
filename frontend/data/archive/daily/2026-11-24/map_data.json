@@ -1,0 +1,283 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 30,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "비트코인, 젠슨 황 복귀에도 반등세 주춤…매도세 지속",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446298"
+        },
+        {
+          "title": "BPA, 지속가능경영보고서 미국서 인정받아",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58224"
+        },
+        {
+          "title": "'칙' 뿌리니 물·세균 '뚝'…단국대, 50회 세탁 버티는 초발수 코팅 개발",
+          "url": "https://www.mt.co.kr/policy/2026/11/24/2026112417245189901"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 29,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "해양수산연수원, 세계풍력기구 ‘올해의 교육팀’ 아시아 TOP 3 선정",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58232"
+        },
+        {
+          "title": "해수부·한국선급, 겨울철 선원 안전사고 예방 나서",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58231"
+        },
+        {
+          "title": "한국형 위성항법시스템, 본격 제작·조립·시험 절차 돌입",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58230"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 26,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Sutcliffe: US Appears Set to Reengage With Iran",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/sutcliffe-us-appears-set-to-reengage-with-iran-video"
+        },
+        {
+          "title": "\"5000피가 바닥\"이라던 증권사, 전망치 낮췄다...\"최악 땐 4000피\"",
+          "url": "https://www.mt.co.kr/stock/2026/11/24/2026112415432874903"
+        },
+        {
+          "title": "KISTI \"AI 전력 문제, 탄소중립 정책과 연계 필요\"",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195240"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 23,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "양 시장 매수 사이드카…올해만 101회, 급반등에도 경계감 여전(종합)",
+          "url": "https://www.news2day.co.kr/article/20261124500289"
+        },
+        {
+          "title": "美의회 \"안보 팔아넘겨\" 반발 … 내달 초 청문회 압박수위 높일듯",
+          "url": "https://n.news.naver.com/mnews/article/009/0005768380?sid=101"
+        },
+        {
+          "title": "젠슨 황 복귀에 아시아 증시 랠리…코스피 6.3%↑·대만 9%↑",
+          "url": "https://n.news.naver.com/mnews/article/003/0014342923?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Russian Oil Exports Face Weather, Drone Disruptions at Key Western Ports",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmJ3eXFXb1hNWFRZaDdWRkUwZWRjLUs3OWFsOGVDSE93OTZPNkZqQThDSjhvQjJySVJiczVoazZpMTZCMURseWw4eUs1RG1KclZJUERUZUNHOExtVWo3Y0piS05jdldDMDkxVmNSb1J1UEhrS2ZGOVNaMERnNzZoSFBCOVpEc050WjR2a19KcldnREJuNmgtVEE1U2s5RWtzTXJiSg?oc=5"
+        },
+        {
+          "title": "우크라이나, 리비아서 러시아 군함 공격 공식 인정",
+          "url": "https://n.news.naver.com/mnews/article/047/0002537101?sid=104"
+        },
+        {
+          "title": "실리콘밸리 퍼진 허니팟 공포...\"중국·러시아인과 데이트 안해\"",
+          "url": "https://www.mt.co.kr/world/2026/11/24/2026112415380430793"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'2026 부산 해양·금융위크' 개막…공급망 재편·신규 투자 해법 논의",
+          "url": "http://www.starnewsk.com/news/articleView.html?idxno=61349"
+        },
+        {
+          "title": "Supply chain conflict fears nearly triple, but few UK firms act, Intact index finds",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTkh4MHJoRzBYdlJjZEMtV05TWGYyczdxUVF6dUJOVjltLWZGeVkxYkZ2ZXM3eWdNLVJHMF9yOXlyNV9jdUM5WHlxeGtueUhkNHQtZXg0SDRNYnE3c29MVzlfWUZ5b2cwVXF2ZndoOGl3NWowOURoRXJhY3FrVE9rWGVSUDNkbmxWSlVGVUk5SXZiVlBhYlNLMmZNWGp3STQ5N2daTTJzaHJ0bnhIcURaVXFfV2U1UFhHZzhpSXZPMldWcFRTaTJCdXpxeGg5bGRZQlhkcXY0VnREWmFVYTJGR0VGWHpZT3M?oc=5"
+        },
+        {
+          "title": "“호르무즈 위기, 북극항로가 대안 될까”…부산서 세계 해운·금융 전...",
+          "url": "https://n.news.naver.com/mnews/article/021/0002834976?sid=102"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "리비아 샤라라 유전 재가동 등에 11월23일 국제유가 하락",
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=230042"
+        },
+        {
+          "title": "[전격시사] 김병주 더불어민주당 의원 - “한미동맹 근간, ‘국익 중심...",
+          "url": "https://n.news.naver.com/mnews/article/056/0012299862?sid=100"
+        },
+        {
+          "title": "금시세·금값 24일",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611240068"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "리비아 샤라라 유전 재가동 등에 11월23일 국제유가 하락",
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=230042"
+        },
+        {
+          "title": "[전격시사] 김병주 더불어민주당 의원 - “한미동맹 근간, ‘국익 중심...",
+          "url": "https://n.news.naver.com/mnews/article/056/0012299862?sid=100"
+        },
+        {
+          "title": "금시세·금값 24일",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611240068"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "지커코리아, 여주에 AS 부품물류센터 개소…7X 인도 맞춰 서비스망 확대",
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148969"
+        },
+        {
+          "title": "락앤락, 텀블러·소형가전으로 사업 확장…한한령 완화도 기대",
+          "url": "https://www.newspim.com/news/view/20261124001024"
+        },
+        {
+          "title": "지커, 첫 전기차 인도 맞춰 AS망 확대…여주에 부품센터 개소",
+          "url": "https://n.news.naver.com/mnews/article/016/0002727838?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "우크라이나, 리비아서 러시아 군함 공격 공식 인정",
+          "url": "https://n.news.naver.com/mnews/article/047/0002537101?sid=104"
+        },
+        {
+          "title": "[포착] 푸틴 신형 ‘순항미사일’, 드론 맞고 박살…“단 한 대만으로 ...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003702594?sid=104"
+        },
+        {
+          "title": "UN urges probe after Russian ship attacked off Libya",
+          "url": "https://www.hellenicshippingnews.com/un-urges-probe-after-russian-ship-attacked-off-libya/"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "뷰런테크놀로지, 싱가포르 항만 혁신 대회 3관왕… 현지 물류기업과 라...",
+          "url": "https://platum.kr/archives/299276"
+        },
+        {
+          "title": "뷰런테크놀로지, 싱가포르 스마트항만 대회 3관왕…현지 실증 추진",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327040"
+        },
+        {
+          "title": "Vueron Wins Three Awards at Singapore Port Innovation Competition ... Sets Sights on Global Market",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IZnlndWdDX2J5b29JelJaVUItcTBoMy1wTjc2MkN5VGFsUXo4V3gtQWxIYkZodjB6Wmo3Rjg2ckgwWmU3ZHpCN0FQLWpEejN6YXloTW01Z0g?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[도쿄환시] 달러-엔 상승 전환…증시 급등에 리스크온",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446304"
+        },
+        {
+          "title": "해양사고 裁決 사례(128)",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58223"
+        },
+        {
+          "title": "Japan’s Top Life Insurers Book $7.5 Billion in Bond Sale Losses",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-s-top-life-insurers-book-7-5-billion-in-bond-sale-losses"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "젠슨 황 복귀에 아시아 증시 랠리…코스피 6.3%↑·대만 9%↑",
+          "url": "https://n.news.naver.com/mnews/article/003/0014342923?sid=104"
+        },
+        {
+          "title": "대만 당국자 \"중국 선거개입, 매우 심각한 국가 안보문제\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016460997?sid=104"
+        },
+        {
+          "title": "[포착] 푸틴 신형 ‘순항미사일’, 드론 맞고 박살…“단 한 대만으로 ...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003702594?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "'2026 부산 해양·금융위크' 개막…공급망 재편·신규 투자 해법 논의",
+          "url": "http://www.starnewsk.com/news/articleView.html?idxno=61349"
+        },
+        {
+          "title": "“호르무즈 위기, 북극항로가 대안 될까”…부산서 세계 해운·금융 전...",
+          "url": "https://n.news.naver.com/mnews/article/021/0002834976?sid=102"
+        },
+        {
+          "title": "A French Patrol Aircraft Warned a Container Ship of an Incoming Sea-Drone Strike, Then Ran the Rescue From the Air",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRm1TNWFRWEJrazhoblNGcWd5S2lyYnZEYWc5VWFBbFBpRm9vVno1RVFBN3V1eXlVWXp2SlliQ0NTN2p5d3FlY3k3Wi1lRE9JcDRGX0JCdDZlekF6ZkZxTGVxYmE3eTlGRHNHdkNTekVockFuZEh6eVBlM1JlVlNpQWxwaHVRUy1NVm1henJZMnRwX0NrTTN5OXlKQ21JT0Nuc1lzR2VnNExuSkF0TzdsRUlvRnE3U2U3bTkyd3NFRmpmWElHU19BRXAzMHl3SWRWb21vNGxKODZYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "락앤락, 텀블러·소형가전으로 사업 확장…한한령 완화도 기대",
+          "url": "https://www.newspim.com/news/view/20261124001024"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 15,
+  "generated_at": "2026-11-24T08:59:25Z"
+}

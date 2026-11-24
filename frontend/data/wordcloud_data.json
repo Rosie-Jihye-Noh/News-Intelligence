@@ -1,59 +1,104 @@
 {
   "keywords": [
     {
+      "text": "los angeles",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "new york",
+      "count": 16,
+      "size": 100
+    },
+    {
       "text": "strait of",
-      "count": 18,
+      "count": 13,
       "size": 100
     },
     {
       "text": "of hormuz",
-      "count": 18,
+      "count": 13,
       "size": 100
     },
     {
-      "text": "los angeles",
-      "count": 17,
-      "size": 100
-    },
-    {
-      "text": "traffic congestion",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "and statistics",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "strike at",
-      "count": 12,
+      "text": "due to",
+      "count": 13,
       "size": 100
     },
     {
       "text": "tentative deal",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "c.h. robinson",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "huang’s return",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "strike averted",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "in october",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "strike at",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "red sea",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "jensen huang’s",
       "count": 10,
       "size": 100
     },
     {
-      "text": "middle east",
+      "text": "acquisition of",
       "count": 10,
       "size": 100
     },
     {
-      "text": "hong kong",
+      "text": "for seventh",
       "count": 10,
       "size": 100
     },
     {
-      "text": "phase two",
+      "text": "to nvidia",
       "count": 10,
       "size": 100
     },
     {
-      "text": "gulf of",
+      "text": "fiege air",
       "count": 10,
       "size": 100
+    },
+    {
+      "text": "deal for",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "as ceo",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "the international",
+      "count": 9,
+      "size": 90
     },
     {
       "text": "customs clearance",
@@ -61,37 +106,52 @@
       "size": 90
     },
     {
-      "text": "west coast",
+      "text": "in frankfurt",
       "count": 9,
       "size": 90
     },
     {
-      "text": "in gulf",
+      "text": "tankers hit",
       "count": 9,
       "size": 90
     },
     {
-      "text": "averts strike",
+      "text": "heavy industries",
       "count": 8,
       "size": 80
     },
     {
-      "text": "death outside",
+      "text": "reach tentative",
       "count": 8,
       "size": 80
     },
     {
-      "text": "breaks ground",
+      "text": "strike threat",
       "count": 8,
       "size": 80
     },
     {
-      "text": "ground on",
+      "text": "samsung heavy",
       "count": 8,
       "size": 80
     },
     {
-      "text": "전년 동기 대비",
+      "text": "avoid strike",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "deal averts",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "일론 머스크 테슬라",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in hormuz",
       "count": 8,
       "size": 80
     },
@@ -101,77 +161,142 @@
       "size": 80
     },
     {
-      "text": "la, long",
+      "text": "huang as",
       "count": 8,
       "size": 80
     },
     {
-      "text": "on tuas",
+      "text": "fall as",
       "count": 8,
       "size": 80
     },
     {
-      "text": "계약을 체결했다고 23일",
+      "text": "황 엔비디아 최고경영자(ceo)의",
       "count": 7,
       "size": 70
     },
     {
-      "text": "부총리 겸 재정경제부",
+      "text": "net-zero framework",
       "count": 7,
       "size": 70
     },
     {
-      "text": "global oil",
+      "text": "huang returns",
       "count": 7,
       "size": 70
     },
     {
-      "text": "red sea",
+      "text": "offshore wind",
       "count": 7,
       "size": 70
     },
     {
-      "text": "is the",
+      "text": "lng carrier",
       "count": 7,
       "size": 70
     },
     {
-      "text": "statistics indexbox",
+      "text": "this month",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "global air",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "calls for",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "전 거래일 대비",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "over the",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "artificial intelligence",
       "count": 6,
       "size": 60
     },
     {
-      "text": "tentative agreement",
+      "text": "international maritime",
       "count": 6,
       "size": 60
     },
     {
-      "text": "with last-minute",
+      "text": "transpacific weakness",
       "count": 6,
       "size": 60
     },
     {
-      "text": "last-minute deal",
+      "text": "maritime organization",
       "count": 6,
       "size": 60
     },
     {
-      "text": "strike threatens",
+      "text": "fedex-led consortium",
       "count": 6,
       "size": 60
     },
     {
-      "text": "iranian attacks",
+      "text": "ranked comparison",
       "count": 6,
       "size": 60
     },
     {
-      "text": "reach tentative",
+      "text": "aviation business",
       "count": 6,
       "size": 60
     },
     {
-      "text": "hmm, 美 넥스트파워와",
+      "text": "volumes down due",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "에너지 물류, 여수·광양항은",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "optimization is",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "교역, 울산항은 액체화물과",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "울산항은 액체화물과 에너지",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "baird maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and statistics",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "averts strike",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "third quarter",
       "count": 6,
       "size": 60
     },
@@ -186,32 +311,42 @@
       "size": 60
     },
     {
-      "text": "la-long beach",
+      "text": "build further",
       "count": 6,
       "size": 60
     },
     {
-      "text": "psa singapore",
+      "text": "자선냄비, 봉사자 점퍼",
       "count": 6,
       "size": 60
     },
     {
-      "text": "과정에서 저탄소 연료를",
+      "text": "대중국 교역, 울산항은",
       "count": 6,
       "size": 60
     },
     {
-      "text": "avoid strike",
+      "text": "액체화물과 에너지 물류",
       "count": 6,
       "size": 60
     },
     {
-      "text": "houthis warn",
+      "text": "outage while",
       "count": 6,
       "size": 60
     },
     {
-      "text": "화물 물류비, 등유는",
+      "text": "24 nov 2026",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "while rates",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rates build",
       "count": 6,
       "size": 60
     },
@@ -221,17 +356,17 @@
       "size": 60
     },
     {
-      "text": "deal averts",
+      "text": "필요한 물품을 전국",
       "count": 6,
       "size": 60
     },
     {
-      "text": "attacks in",
+      "text": "전국 17개 시·도",
       "count": 6,
       "size": 60
     },
     {
-      "text": "of finland",
+      "text": "beyond the",
       "count": 6,
       "size": 60
     },
@@ -241,27 +376,77 @@
       "size": 60
     },
     {
+      "text": "of hamburg",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "west coast",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "l.a., long",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "attacks in",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "diwali and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rates rise",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "구세군 연말 모금",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "deal with",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "phase two",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "on strong",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to diwali",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "us outage",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "in strait",
       "count": 6,
       "size": 60
     },
     {
-      "text": "for small",
+      "text": "rise for",
       "count": 6,
       "size": 60
     },
     {
-      "text": "for 2027",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "new york",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to ease",
+      "text": "phase 2",
       "count": 6,
       "size": 60
     },
@@ -271,236 +456,51 @@
       "size": 60
     },
     {
-      "text": "due to",
+      "text": "at los",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "uk and",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "정부세종청사에서 열린 기자간담회에서",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "net-zero framework",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "claus-peter offen",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "임광현 청와대 대통령비서실장",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "청와대 대통령비서실장 브리핑",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "yemen's houthis",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "텍사스주 갤버스턴으로 향하던",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "온실가스 감축량을 거래하는",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "온실가스 감축량을 화주에게",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "감축량을 화주에게 이관하는",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "자율운항선박, 스마트 항만",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "highway safety",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "해상운송 과정에서 저탄소",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "$10.5 billion",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "항공기 운항과 자율주행",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "겸 재정경제부 장관은",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the300] 23일",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "23일 임광현 청와대",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "수도 리야드를 포함한",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "natural gas",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "forecast to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "김범준 coo 내정",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "지명 [the300",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the market",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "easier for",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "당일 배송 서비스",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "지원을 받는 예멘",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "예멘 후티 반군은",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "해양 인문 교육",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "스마트 항만 등",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "받는 예멘 후티",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "on saudi",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "a crash",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "oil and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "in 2027",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "and us",
-      "count": 5,
-      "size": 50
     },
     {
       "text": "to buy",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and us",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "국회의원회관에서 김정재·이상휘 국회의원과",
       "count": 5,
       "size": 50
     },
     {
-      "text": "연안여객터미널과 국제여객터미널, 크루즈터미널",
-      "count": 4,
-      "size": 40
+      "text": "trump administration",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "purchasing consultations",
-      "count": 4,
-      "size": 40
+      "text": "ai물류교육센터와 ai물류자동화과를",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "maritime decarbonization",
-      "count": 4,
-      "size": 40
+      "text": "nuclear-powered lng",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "mexico: truckers secure",
-      "count": 4,
-      "size": 40
+      "text": "김정재·이상휘 국회의원과 공동으로",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "hapag-lloyd introduces",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "net-zero: now-or-never",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "액화석유가스(lpg)를 싣고 지중해에서",
-      "count": 4,
-      "size": 40
+      "text": "methanol dual-fuel",
+      "count": 5,
+      "size": 50
     }
   ],
-  "total_keywords": 40250,
-  "generated_at": "2026-11-23T06:27:04Z"
+  "total_keywords": 43147,
+  "generated_at": "2026-11-24T09:00:16Z"
 }
