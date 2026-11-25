@@ -1,137 +1,262 @@
 {
   "keywords": [
     {
-      "text": "los angeles",
-      "count": 16,
-      "size": 100
-    },
-    {
       "text": "new york",
-      "count": 16,
+      "count": 24,
       "size": 100
     },
     {
-      "text": "strait of",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "of hormuz",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "due to",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "tentative deal",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "c.h. robinson",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "huang’s return",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "strike averted",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "in october",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "strike at",
-      "count": 11,
+      "text": "new tariffs",
+      "count": 22,
       "size": 100
     },
     {
       "text": "red sea",
+      "count": 22,
+      "size": 100
+    },
+    {
+      "text": "houthis threaten",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "tariffs on",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "to unveil",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "of hormuz",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "los angeles",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "strait of",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "of its",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "c.h. robinson",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "hong kong",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "hyundai glovis",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "apm terminals",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "maasvlakte ii",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "glovis opens",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "쌓여있는 모습. 2026.11.25",
       "count": 11,
       "size": 100
     },
     {
-      "text": "jensen huang’s",
+      "text": "trading partners",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "강제노동 관세' 12.5%와",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "관세' 12.5%와 이번",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "12.5%와 이번 관세를",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "대체적 관측이다. 사진은",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "관측이다. 사진은 25일",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "25일 경기도 평택항에",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "7월 나온 '강제노동",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "나온 '강제노동 관세",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "한국은 15% 상한을",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "사진은 25일 경기도",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "관세를 합쳐 한국은",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "합쳐 한국은 15%",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "15% 상한을 넘지",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "넘지 않을 것이라는",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "것이라는 게 대체적",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "게 대체적 관측이다",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "이번 관세를 합쳐",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "상한을 넘지 않을",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "않을 것이라는 게",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "지난 7월 나온",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "and statistics",
       "count": 10,
       "size": 100
     },
     {
-      "text": "acquisition of",
+      "text": "opens incheon",
       "count": 10,
       "size": 100
     },
     {
-      "text": "for seventh",
+      "text": "saudi red",
       "count": 10,
       "size": 100
     },
     {
-      "text": "to nvidia",
+      "text": "on strong",
       "count": 10,
       "size": 100
     },
     {
-      "text": "fiege air",
+      "text": "part of",
       "count": 10,
       "size": 100
     },
     {
-      "text": "deal for",
+      "text": "to help",
       "count": 10,
       "size": 100
+    },
+    {
+      "text": "unveil new",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "ahead of",
+      "count": 9,
+      "size": 90
     },
     {
       "text": "as ceo",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "the international",
       "count": 9,
       "size": 90
     },
     {
-      "text": "customs clearance",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "in frankfurt",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "tankers hit",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "heavy industries",
+      "text": "terminals maasvlakte",
       "count": 8,
       "size": 80
     },
     {
-      "text": "reach tentative",
+      "text": "trucking industry",
       "count": 8,
       "size": 80
     },
     {
-      "text": "strike threat",
+      "text": "global trading",
       "count": 8,
       "size": 80
     },
     {
-      "text": "samsung heavy",
+      "text": "preparing to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "of rotterdam",
       "count": 8,
       "size": 80
     },
@@ -141,47 +266,77 @@
       "size": 80
     },
     {
-      "text": "deal averts",
+      "text": "24 nov 2026",
       "count": 8,
       "size": 80
     },
     {
-      "text": "일론 머스크 테슬라",
+      "text": "for seventh",
       "count": 8,
       "size": 80
     },
     {
-      "text": "in hormuz",
+      "text": "nvidia ceo",
       "count": 8,
       "size": 80
     },
     {
-      "text": "ahead of",
+      "text": "in october",
       "count": 8,
       "size": 80
     },
     {
-      "text": "huang as",
+      "text": "the same",
       "count": 8,
       "size": 80
     },
     {
-      "text": "fall as",
+      "text": "and long",
       "count": 8,
       "size": 80
     },
     {
-      "text": "황 엔비디아 최고경영자(ceo)의",
+      "text": "deal for",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "need to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "phase 2",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "due to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "artificial intelligence",
       "count": 7,
       "size": 70
     },
     {
-      "text": "net-zero framework",
+      "text": "maritime executive",
       "count": 7,
       "size": 70
     },
     {
-      "text": "huang returns",
+      "text": "the international",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "binding global",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "third quarter",
       "count": 7,
       "size": 70
     },
@@ -191,12 +346,22 @@
       "size": 70
     },
     {
-      "text": "lng carrier",
+      "text": "the european",
       "count": 7,
       "size": 70
     },
     {
-      "text": "this month",
+      "text": "the biggest",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "beyond the",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "orders two",
       "count": 7,
       "size": 70
     },
@@ -206,62 +371,77 @@
       "size": 70
     },
     {
-      "text": "calls for",
+      "text": "plans to",
       "count": 7,
       "size": 70
     },
     {
-      "text": "전 거래일 대비",
+      "text": "to know",
       "count": 7,
       "size": 70
     },
     {
-      "text": "over the",
+      "text": "cost of",
       "count": 7,
       "size": 70
     },
     {
-      "text": "artificial intelligence",
+      "text": "인천공항본부세관 특송물류센터에서 관계자들이",
       "count": 6,
       "size": 60
     },
     {
-      "text": "international maritime",
+      "text": "25일 인천공항본부세관 특송물류센터에서",
       "count": 6,
       "size": 60
     },
     {
-      "text": "transpacific weakness",
+      "text": "있는 모습. 2026.11.25/뉴스1",
       "count": 6,
       "size": 60
     },
     {
-      "text": "maritime organization",
+      "text": "traffic congestion",
       "count": 6,
       "size": 60
     },
     {
-      "text": "fedex-led consortium",
+      "text": "자동차·가전 소비는 제자리걸음을",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ranked comparison",
+      "text": "customs clearance",
       "count": 6,
       "size": 60
     },
     {
-      "text": "aviation business",
+      "text": "경제성장이 예상되지만 고물가와",
       "count": 6,
       "size": 60
     },
     {
-      "text": "volumes down due",
+      "text": "앞둔 25일 인천공항본부세관",
       "count": 6,
       "size": 60
     },
     {
-      "text": "에너지 물류, 여수·광양항은",
+      "text": "3%대 경제성장이 예상되지만",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "예상되지만 고물가와 가계부채",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "가계부채 부담에 자동차·가전",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "network express",
       "count": 6,
       "size": 60
     },
@@ -271,32 +451,32 @@
       "size": 60
     },
     {
-      "text": "교역, 울산항은 액체화물과",
+      "text": "내년에도 3%대 경제성장이",
       "count": 6,
       "size": 60
     },
     {
-      "text": "울산항은 액체화물과 에너지",
+      "text": "부담에 자동차·가전 소비는",
       "count": 6,
       "size": 60
     },
     {
-      "text": "baird maritime",
+      "text": "고물가와 가계부채 부담에",
       "count": 6,
       "size": 60
     },
     {
-      "text": "and statistics",
+      "text": "제자리걸음을 할 전망이다",
       "count": 6,
       "size": 60
     },
     {
-      "text": "averts strike",
+      "text": "전망이다. 사진은 25일",
       "count": 6,
       "size": 60
     },
     {
-      "text": "third quarter",
+      "text": "ocean network",
       "count": 6,
       "size": 60
     },
@@ -311,196 +491,16 @@
       "size": 60
     },
     {
-      "text": "build further",
+      "text": "the national",
       "count": 6,
       "size": 60
     },
     {
-      "text": "자선냄비, 봉사자 점퍼",
+      "text": "estimates on",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "대중국 교역, 울산항은",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "액체화물과 에너지 물류",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "outage while",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "24 nov 2026",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "while rates",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rates build",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "strike with",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "필요한 물품을 전국",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "전국 17개 시·도",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "beyond the",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rates fall",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "of hamburg",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "west coast",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "l.a., long",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "attacks in",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "diwali and",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rates rise",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "구세군 연말 모금",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "deal with",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "phase two",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "on strong",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to diwali",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "us outage",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "in strait",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rise for",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "phase 2",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "as iran",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "at los",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to buy",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and us",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "국회의원회관에서 김정재·이상휘 국회의원과",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "trump administration",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "ai물류교육센터와 ai물류자동화과를",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "nuclear-powered lng",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "김정재·이상휘 국회의원과 공동으로",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "methanol dual-fuel",
-      "count": 5,
-      "size": 50
     }
   ],
-  "total_keywords": 43147,
-  "generated_at": "2026-11-24T09:00:16Z"
+  "total_keywords": 46738,
+  "generated_at": "2026-11-25T07:36:28Z"
 }

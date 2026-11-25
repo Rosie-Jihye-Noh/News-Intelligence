@@ -1,0 +1,305 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 45,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "금융당국·5대 금융, 디지털 뱅크런 첫 모의 합동훈련",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446497"
+        },
+        {
+          "title": "금통위 경계 속 국고채 '불 플래트닝'…코스피 급락·外人 매수",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446478"
+        },
+        {
+          "title": "S&P500 선물, 기술주 약세 흐름 속 하락…美 국채금리↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446463"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 42,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "美 휘발유 갤런당 3.61달러로 내려…4개 주는 2달러대 진입",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446472"
+        },
+        {
+          "title": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446471"
+        },
+        {
+          "title": "S&P500 선물, 기술주 약세 흐름 속 하락…美 국채금리↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446463"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 29,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "이란 \"전략물자 비축 충분…美봉쇄, 오히려 대체무역로 개발 기회\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009309969?sid=104"
+        },
+        {
+          "title": "반쪽짜리 된 원전 설명회…공론화 끝나도 숙제는 여전",
+          "url": "https://www.mt.co.kr/economy/2026/11/25/2026112515435680430"
+        },
+        {
+          "title": "트럼프, 이란 1인자 죽이고도 전쟁 못 끝내더니…아들까지 겨냥하나 [핫...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003703097?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 26,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "OPEC+, 2027년 원유 생산량 놓고 딜레마…공급과잉·시장점유율 충돌",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205474"
+        },
+        {
+          "title": "Houthi Drone Hits Riyadh Financial District, Injuring 11 Amid Near-Daily Saudi Attacks",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video"
+        },
+        {
+          "title": "Saudi Arabia, Houthis trade threat warnings for Red Sea Ports; 2 Indians injured in attack on Riyadh skyscraper",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpNeHhKcEZHSTZMY2Rjb1AxMXBDOWVzcHR2bkU5VEN4Nndkd284V1RPRkcydHdkak9KM0N2NUZJMG9NU3pjU3pLVUhjd0YwTWlYWXZuQjVpNmFHNlpWblladnlPbElOTktZMlJFY1BEX0FGaXc2VjdzUTdOVkthMWhqTWRMVHlIeGJ4U0RwZmZnMGZFZVlqM2lwTlpXRkVUcDAzdGNWOHlLQXlldHJMWVdHeDBHNzRFWHdYUVhaei1pelJJd084SHRhczQxck1qZDlyVHpUNA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 18,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "후티, 예멘 임시수도 아덴 턱밑까지 진격…국제유가 급등 우려",
+          "url": "https://n.news.naver.com/mnews/article/020/0003765097?sid=104"
+        },
+        {
+          "title": "트럼프, 이란 1인자 죽이고도 전쟁 못 끝내더니…아들까지 겨냥하나 [핫...",
+          "url": "https://n.news.naver.com/mnews/article/081/0003703097?sid=104"
+        },
+        {
+          "title": "이란전쟁·공급과잉에 빈 살만도 국부펀드 총재도 불참 … 빛바랜 샤힌...",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550245.html"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "올해 최대 효자노선 ’태평양노선‘",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61303"
+        },
+        {
+          "title": "China Foreign Ministry: Tariff and trade wars serve no one’s interests",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUJEU3ZOQ181aF9JT2pUcXFFZG9vT2xKMDkzbGkyd3k4UEhnSjd0U0JZTmliOVdfRXNQMTZfUmQyVWtNZG1RV000b2d5Nl81Q2FzZ3UwaU5ycl9BREVObkxpREkxei1RR0ZxWkl3dE5TSHFNenJ0OVRnNVdPYm5oWWFyRElESkVZekVwZF9QMDBNNWxtRWc5a3pPcHAtYk5GVENUZzJQNWRDU2lidjJEYg?oc=5"
+        },
+        {
+          "title": "경북도, TK신공항 ‘글로벌 물류허브’ 승부수…중국 물류기업과 맞손",
+          "url": "https://n.news.naver.com/mnews/article/031/0001078337?sid=102"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 15,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "OPEC+, 2027년 원유 생산량 놓고 딜레마…공급과잉·시장점유율 충돌",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205474"
+        },
+        {
+          "title": "푸틴 \"우크라, 트럼프 요청에도 정유공장 공격\"…보복 경고",
+          "url": "https://n.news.naver.com/mnews/article/018/0006415159?sid=104"
+        },
+        {
+          "title": "Russia’s Baltic Military Sealift Under Attack Across Two Fronts",
+          "url": "https://www.hellenicshippingnews.com/russias-baltic-military-sealift-under-attack-across-two-fronts/"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "ClassNK, IBJ 혁신 기술상 수상",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=334155"
+        },
+        {
+          "title": "Declare £10,000+ cash or risk seizure, UK warns travellers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDRpZ1RYSGlWZHR6RjkzeE5na0p1SEFZUDA4enpOR1djVDk5RExpV1l6Q2psUWpJM0piV1FRQzFnd2xIdUVGYTh5TDFUYTJYS29FR09vZVRGSmRSN19CWlJLanc3cWNFb3dzcWhCTUVIbFMzODN6a0xzUlFsM0lYbzNCOExjd2d2MXJqX0I3Z2lETVNUYlR0aHN2RVgtZS04a0x0ZlB5U3pyQQ?oc=5"
+        },
+        {
+          "title": "20th everywoman in Transport & Logistics Awards 2027 open for nominations",
+          "url": "https://aircargoweek.com/20th-everywoman-in-transport-logistics-awards-2027-open-for-nominations/"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "밸류엑스, 인도네시아 법인 출범…AX-DX 시장 본격 진출",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323695"
+        },
+        {
+          "title": "Saudi Arabia, Houthis trade threat warnings for Red Sea Ports; 2 Indians injured in attack on Riyadh skyscraper",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpNeHhKcEZHSTZMY2Rjb1AxMXBDOWVzcHR2bkU5VEN4Nndkd284V1RPRkcydHdkak9KM0N2NUZJMG9NU3pjU3pLVUhjd0YwTWlYWXZuQjVpNmFHNlpWblladnlPbElOTktZMlJFY1BEX0FGaXc2VjdzUTdOVkthMWhqTWRMVHlIeGJ4U0RwZmZnMGZFZVlqM2lwTlpXRkVUcDAzdGNWOHlLQXlldHJMWVdHeDBHNzRFWHdYUVhaei1pelJJd084SHRhczQxck1qZDlyVHpUNA?oc=5"
+        },
+        {
+          "title": "Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "OPEC+, 2027년 원유 생산량 놓고 딜레마…공급과잉·시장점유율 충돌",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205474"
+        },
+        {
+          "title": "젤렌스키 \"발트해 러 선박 우리가 공격…무기 싣고 있었다\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009308117?sid=104"
+        },
+        {
+          "title": "Black Sea Attacks Threaten Ukraine Grain Exports and 2027 Crops",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTROMm0ycmxRVllqWS1vZHpwSlNLV0VFMjN6SHEyVUs3NkNJMFJ5U0s0RjlIa2U4WGhvZlBSb2o4MFBKWklSLTNvdUp6VFd6NUNxS0VoeXFMWG5OUW9SQk5BNEZpUi1NWUp4WE54SGFqWk1rYmR5MWJOZ1ZFTUFMaVoydGpfWTFreklqRWxlYzZidEc5eEUzdFVQVC1XOGkwZ2l1OVBwTExLdC1JWVdYRFN6MDlYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "ClassNK, IBJ 혁신 기술상 수상",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=334155"
+        },
+        {
+          "title": "GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v"
+        },
+        {
+          "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+          "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "반토막 난 코스피, 24% 빠진 대만…'메모리 외줄' 탄 한국 증시",
+          "url": "http://www.metroseoul.co.kr/article/20261125500504"
+        },
+        {
+          "title": "\"반도체 성과 나누자\"...대만 입법원, '전 국민에 81만 원' 지급 조례안...",
+          "url": "https://n.news.naver.com/mnews/article/660/0000122167?sid=104"
+        },
+        {
+          "title": "\"1인당 80만원씩 쏜다\"…대만, 반도체 호황에 전국민 보너스 추진",
+          "url": "https://n.news.naver.com/mnews/article/003/0014344814?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "뷰런테크놀로지, 싱가포르 항만 혁신 대회 3관왕… 현지 물류기업과 라...",
+          "url": "https://platum.kr/archives/299276"
+        },
+        {
+          "title": "뷰런테크놀로지, 싱가포르 스마트항만 대회 3관왕…현지 실증 추진",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327040"
+        },
+        {
+          "title": "뷰런테크놀로지, 싱가포르 항만 혁신대회 3관왕…라이다 해외시장 공략...",
+          "url": "https://www.public25.com/news/articleView.html?idxno=58838"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "\"황인범, 얼마나 사랑받았으면\" 페예노르트 직원 일부러 찾아와 인사... 포르투, '황인범 친정팀'에 1-0 신승 'UCL 2연승'",
+          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112515034866926"
+        },
+        {
+          "title": "Tresco Group acquires Green Maritime and sets course for seagoing shipping",
+          "url": "https://www.hellenicshippingnews.com/tresco-group-acquires-green-maritime-and-sets-course-for-seagoing-shipping/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "SailGP Launches UAE Team, Aims to Grow to 20 Teams",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video"
+        },
+        {
+          "title": "UAE condemns ‘Houthi attack’ on US warship in Red Sea",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMU5uWUFOWmdiT2tyMjJFeS1ianFSVWVfUE5yNGFyQ0p6bDYxZkRYSkNiSlhIZDlkYzNka29reV9LSnFTemp1OUNfT3B6SUpFdWRlb2U1OW1fSVFRREIwNHpuZFlmd3luRUtGX20zYTBnSHhhVFN0aHBVa2FKZ1lKbkd4b3JlTUY0d2Vud1dHMnBpLW9X?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "고임금·고수익 공식 깨진 독일車…현대차도 남 일 아니다",
+          "url": "https://n.news.naver.com/mnews/article/029/0003061027?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "[정치더] 러시아 도발에 화들짝",
+          "url": "https://n.news.naver.com/mnews/article/448/0000653158?sid=100"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 17,
+  "generated_at": "2026-11-25T07:35:31Z"
+}
