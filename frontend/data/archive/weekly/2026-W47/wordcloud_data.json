@@ -1,0 +1,506 @@
+{
+  "keywords": [
+    {
+      "text": "new tariffs",
+      "count": 44,
+      "size": 100
+    },
+    {
+      "text": "tariffs on",
+      "count": 38,
+      "size": 100
+    },
+    {
+      "text": "houthis threaten",
+      "count": 22,
+      "size": 100
+    },
+    {
+      "text": "suez canal",
+      "count": 20,
+      "size": 100
+    },
+    {
+      "text": "trading partners",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "of rotterdam",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "on china",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "new york",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "middle east",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "calls for",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "apm terminals",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "of hormuz",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "saudi red",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "korean air",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "strait of",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "norse atlantic",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "hyundai glovis",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "attacks on",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "ahead of",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "at incheon",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "traffic congestion",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "zim integrated",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "maasvlakte ii",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "in singapore",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "pressure on",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "delivery of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "peak season",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "threaten to",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "to expand",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "due to",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "aim to",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "on 14",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "global maritime",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "announces new",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "inland fuel",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "of maritime",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "ocean rates",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "review of",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "into the",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "to know",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "cost of",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "eu and",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "of its",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "up to",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "financial situation",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "heathrow expansion",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "terminal upgrade",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "after hodeidah",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "threaten saudi",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "and maritime",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "glovis opens",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "the holiday",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "maersk and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "us tariffs",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "bulk index",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "jeddah and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "impact on",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to tackle",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "two saudi",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "the most",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "and what",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "at miami",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "and one",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "need to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to suez",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "as us",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "한국해양교통안전공단(komsa, 이사장",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "net-zero framework",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "maritime executive",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "southern merger",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "trump’s latest",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "baird maritime",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "사우디 주도 아랍동맹군이",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "prise global",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "from china's",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "china's grip",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the loadstar",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "million teus",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "26일 경기도 평택항에",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "section 301",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "기존 수에즈 운하",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "수에즈 운하 경유",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "영향을 미칠 수",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to prise",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "in 2027",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "항만모빌리티, scm솔루션, 철강scm",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "scm솔루션, 철강scm, 스마트해운",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "supply glut prospect",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "development (unctad",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "위해 항만모빌리티, scm솔루션",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the international",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "riviera maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "explores ethanol",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "bunkering trials",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "truckers’ strike",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "prospect offsets",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "disruption fears",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "스마트해운, ax경영전략본부",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and development",
+      "count": 6,
+      "size": 60
+    }
+  ],
+  "total_keywords": 48905,
+  "generated_at": "2026-11-27T07:22:21Z"
+}

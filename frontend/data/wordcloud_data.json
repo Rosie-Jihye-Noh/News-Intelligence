@@ -1,132 +1,62 @@
 {
   "keywords": [
     {
-      "text": "red sea",
+      "text": "new tariffs",
       "count": 44,
       "size": 100
     },
     {
-      "text": "new tariffs",
-      "count": 39,
-      "size": 100
-    },
-    {
       "text": "tariffs on",
-      "count": 35,
-      "size": 100
-    },
-    {
-      "text": "new york",
-      "count": 26,
-      "size": 100
-    },
-    {
-      "text": "trading partners",
-      "count": 20,
-      "size": 100
-    },
-    {
-      "text": "송파구 롯데호텔 월드크리스탈볼룸에서",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "롯데호텔 월드크리스탈볼룸에서 열렸다",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "2026 신한은행 sol",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "apm terminals",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "신한은행 sol kbo",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "sol kbo 시상식이",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "kbo 시상식이 26일",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "시상식이 26일 서울시",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "서울시 송파구 롯데호텔",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "26일 서울시 송파구",
-      "count": 19,
+      "count": 38,
       "size": 100
     },
     {
       "text": "houthis threaten",
-      "count": 18,
+      "count": 22,
       "size": 100
     },
     {
       "text": "suez canal",
+      "count": 20,
+      "size": 100
+    },
+    {
+      "text": "trading partners",
       "count": 18,
       "size": 100
     },
     {
-      "text": "traffic congestion",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "and statistics",
-      "count": 16,
+      "text": "of rotterdam",
+      "count": 18,
       "size": 100
     },
     {
       "text": "on china",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "new york",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "middle east",
       "count": 16,
       "size": 100
     },
     {
-      "text": "c.h. robinson",
-      "count": 15,
+      "text": "calls for",
+      "count": 16,
       "size": 100
     },
     {
-      "text": "ahead of",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "maasvlakte ii",
+      "text": "apm terminals",
       "count": 14,
       "size": 100
     },
     {
-      "text": "26일 경기도 평택항에",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "of rotterdam",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "등 미국과 무역합의를",
+      "text": "of hormuz",
       "count": 14,
       "size": 100
     },
@@ -136,107 +66,17 @@
       "size": 100
     },
     {
-      "text": "무역합의를 체결한 국가에는",
+      "text": "korean air",
       "count": 13,
       "size": 100
     },
     {
-      "text": "미국과 무역합의를 체결한",
+      "text": "strait of",
       "count": 13,
       "size": 100
     },
     {
-      "text": "방안을 제안해 결과적으로",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "제안해 결과적으로 한국은",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "결과적으로 한국은 15%",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "성공했다. 사진은 26일",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "체결한 국가에는 15%",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "국가에는 15% 부과",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "관세 상한을 방어하는",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "방어하는 데 성공했다",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "데 성공했다. 사진은",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "사진은 26일 경기도",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "in october",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "15% 부과 방안을",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "부과 방안을 제안해",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "한국은 15% 관세",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "15% 관세 상한을",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "상한을 방어하는 데",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "of hormuz",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "eu and",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "maritime executive",
+      "text": "norse atlantic",
       "count": 12,
       "size": 100
     },
@@ -246,63 +86,28 @@
       "size": 100
     },
     {
-      "text": "the european",
+      "text": "attacks on",
       "count": 12,
       "size": 100
     },
     {
-      "text": "kong customs",
+      "text": "ahead of",
       "count": 12,
       "size": 100
     },
     {
-      "text": "calls for",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "strait of",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "평택항에 수출용 자동차가",
+      "text": "baltic dry",
       "count": 11,
       "size": 100
     },
     {
-      "text": "경기도 평택항에 수출용",
+      "text": "at incheon",
       "count": 11,
       "size": 100
     },
     {
-      "text": "수출용 자동차가 세워져",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "자동차가 세워져 있는",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "section 301",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "세워져 있는 모습",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "on strong",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "ai 기반",
-      "count": 11,
+      "text": "traffic congestion",
+      "count": 10,
       "size": 100
     },
     {
@@ -311,17 +116,27 @@
       "size": 100
     },
     {
-      "text": "third quarter",
+      "text": "maasvlakte ii",
       "count": 10,
       "size": 100
     },
     {
-      "text": "glovis opens",
+      "text": "in singapore",
       "count": 10,
       "size": 100
     },
     {
-      "text": "송준용 법무법인 요수",
+      "text": "pressure on",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "delivery of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "peak season",
       "count": 10,
       "size": 100
     },
@@ -331,12 +146,17 @@
       "size": 100
     },
     {
-      "text": "rates fall",
+      "text": "to expand",
       "count": 10,
       "size": 100
     },
     {
-      "text": "impact on",
+      "text": "due to",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "aim to",
       "count": 10,
       "size": 100
     },
@@ -346,67 +166,52 @@
       "size": 100
     },
     {
-      "text": "as us",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "binding global",
+      "text": "global maritime",
       "count": 9,
       "size": 90
     },
     {
-      "text": "the loadstar",
+      "text": "announces new",
       "count": 9,
       "size": 90
     },
     {
-      "text": "소감을 밝히고 있다",
+      "text": "inland fuel",
       "count": 9,
       "size": 90
     },
     {
-      "text": "beyond the",
+      "text": "of maritime",
       "count": 9,
       "size": 90
     },
     {
-      "text": "jeddah and",
+      "text": "ocean rates",
       "count": 9,
       "size": 90
     },
     {
-      "text": "baltic dry",
+      "text": "review of",
       "count": 9,
       "size": 90
     },
     {
-      "text": "west coast",
+      "text": "into the",
       "count": 9,
       "size": 90
     },
     {
-      "text": "후 소감을 밝히고",
+      "text": "to know",
       "count": 9,
       "size": 90
     },
     {
-      "text": "two saudi",
+      "text": "cost of",
       "count": 9,
       "size": 90
     },
     {
-      "text": "no longer",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "수상 후 소감을",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "with new",
+      "text": "eu and",
       "count": 9,
       "size": 90
     },
@@ -416,52 +221,47 @@
       "size": 90
     },
     {
-      "text": "statistics indexbox",
+      "text": "up to",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "financial situation",
       "count": 8,
       "size": 80
     },
     {
-      "text": "geopolitical risk",
+      "text": "heathrow expansion",
       "count": 8,
       "size": 80
     },
     {
-      "text": "including china",
+      "text": "terminal upgrade",
       "count": 8,
       "size": 80
     },
     {
-      "text": "on thanksgiving",
+      "text": "after hodeidah",
       "count": 8,
       "size": 80
     },
     {
-      "text": "baird maritime",
+      "text": "threaten saudi",
       "count": 8,
       "size": 80
     },
     {
-      "text": "opens incheon",
+      "text": "and maritime",
       "count": 8,
       "size": 80
     },
     {
-      "text": "q3 earnings",
+      "text": "glovis opens",
       "count": 8,
       "size": 80
     },
     {
-      "text": "301 tariffs",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "with photos",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "of tariffs",
+      "text": "the holiday",
       "count": 8,
       "size": 80
     },
@@ -471,36 +271,236 @@
       "size": 80
     },
     {
-      "text": "spot rates",
+      "text": "us tariffs",
       "count": 8,
       "size": 80
     },
     {
-      "text": "to expand",
+      "text": "bulk index",
       "count": 8,
       "size": 80
     },
     {
-      "text": "impact of",
+      "text": "jeddah and",
       "count": 8,
       "size": 80
     },
     {
-      "text": "and other",
+      "text": "impact on",
       "count": 8,
       "size": 80
     },
     {
-      "text": "black sea",
+      "text": "to tackle",
       "count": 8,
       "size": 80
     },
     {
-      "text": "phase two",
+      "text": "two saudi",
       "count": 8,
       "size": 80
+    },
+    {
+      "text": "the most",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "and what",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "at miami",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "and one",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "need to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to suez",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "as us",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "한국해양교통안전공단(komsa, 이사장",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "net-zero framework",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "maritime executive",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "southern merger",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "trump’s latest",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "baird maritime",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "사우디 주도 아랍동맹군이",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "prise global",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "from china's",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "china's grip",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the loadstar",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "million teus",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "26일 경기도 평택항에",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "section 301",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "기존 수에즈 운하",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "수에즈 운하 경유",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "영향을 미칠 수",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to prise",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "in 2027",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "항만모빌리티, scm솔루션, 철강scm",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "scm솔루션, 철강scm, 스마트해운",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "supply glut prospect",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "development (unctad",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "위해 항만모빌리티, scm솔루션",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the international",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "riviera maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "explores ethanol",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "bunkering trials",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "truckers’ strike",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "prospect offsets",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "disruption fears",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "스마트해운, ax경영전략본부",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and development",
+      "count": 6,
+      "size": 60
     }
   ],
-  "total_keywords": 46115,
-  "generated_at": "2026-11-26T07:25:42Z"
+  "total_keywords": 48905,
+  "generated_at": "2026-11-27T07:22:21Z"
 }
